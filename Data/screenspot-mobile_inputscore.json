@@ -1,0 +1,2512 @@
+[
+  {
+    "task": "set focus time to 60 mins",
+    "image_path": "/data3/screenspot/images/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "input_score": 0.07888493191363238
+  },
+  {
+    "task": "turn on focus mode",
+    "image_path": "/data3/screenspot/images/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "input_score": 0.07908626949178209
+  },
+  {
+    "task": "customize focus time",
+    "image_path": "/data3/screenspot/images/mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png",
+    "input_score": 0.07916479721086289
+  },
+  {
+    "task": "check tuesday data details",
+    "image_path": "/data3/screenspot/images/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "input_score": 0.07907014710722465
+  },
+  {
+    "task": "display data by week",
+    "image_path": "/data3/screenspot/images/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "input_score": 0.07904944877808605
+  },
+  {
+    "task": "switch to focus mode",
+    "image_path": "/data3/screenspot/images/mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png",
+    "input_score": 0.07909662469323232
+  },
+  {
+    "task": "open system apps settings",
+    "image_path": "/data3/screenspot/images/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "input_score": 0.07911669068165479
+  },
+  {
+    "task": "manage home screen shortcuts",
+    "image_path": "/data3/screenspot/images/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "input_score": 0.07916676219032835
+  },
+  {
+    "task": "back to previous page",
+    "image_path": "/data3/screenspot/images/mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png",
+    "input_score": 0.07909688519649351
+  },
+  {
+    "task": "turn off wlan",
+    "image_path": "/data3/screenspot/images/mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "input_score": 0.07919787321519159
+  },
+  {
+    "task": "scan qr code",
+    "image_path": "/data3/screenspot/images/mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "input_score": 0.07918399542562897
+  },
+  {
+    "task": "return previous page",
+    "image_path": "/data3/screenspot/images/mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png",
+    "input_score": 0.0791368077903192
+  },
+  {
+    "task": "turn on earpiece mode",
+    "image_path": "/data3/screenspot/images/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "input_score": 0.07908719052752053
+  },
+  {
+    "task": "turn off mute ringer",
+    "image_path": "/data3/screenspot/images/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "input_score": 0.07913458592946597
+  },
+  {
+    "task": "change recording format",
+    "image_path": "/data3/screenspot/images/mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png",
+    "input_score": 0.07912709147695934
+  },
+  {
+    "task": "open a photo",
+    "image_path": "/data3/screenspot/images/mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png",
+    "input_score": 0.07911037332330906
+  },
+  {
+    "task": "open photo",
+    "image_path": "/data3/screenspot/images/mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png",
+    "input_score": 0.07918656818729695
+  },
+  {
+    "task": "enter settings",
+    "image_path": "/data3/screenspot/images/mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png",
+    "input_score": 0.07917312398769924
+  },
+  {
+    "task": "add new event on calendar",
+    "image_path": "/data3/screenspot/images/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "input_score": 0.0790568382575645
+  },
+  {
+    "task": "open documents",
+    "image_path": "/data3/screenspot/images/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "input_score": 0.07917063345961003
+  },
+  {
+    "task": "switch to monday schedule",
+    "image_path": "/data3/screenspot/images/mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png",
+    "input_score": 0.07912783750967718
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "add new contact",
+    "image_path": "/data3/screenspot/images/mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "input_score": 0.07913160634242832
+  },
+  {
+    "task": "display external contacts",
+    "image_path": "/data3/screenspot/images/mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png",
+    "input_score": 0.07915668069186144
+  },
+  {
+    "task": "search recodings",
+    "image_path": "/data3/screenspot/images/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "input_score": 0.07918378075274712
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "input_score": 0.07918682903524538
+  },
+  {
+    "task": "start recordings",
+    "image_path": "/data3/screenspot/images/mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png",
+    "input_score": 0.07921969537447707
+  },
+  {
+    "task": "tap to receive file as a new phone",
+    "image_path": "/data3/screenspot/images/mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "input_score": 0.07888756078883379
+  },
+  {
+    "task": "send files as a old phone",
+    "image_path": "/data3/screenspot/images/mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "input_score": 0.07899064141345752
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png",
+    "input_score": 0.07918682903524538
+  },
+  {
+    "task": "agree",
+    "image_path": "/data3/screenspot/images/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "input_score": 0.07923694689594209
+  },
+  {
+    "task": "disagree the agreement",
+    "image_path": "/data3/screenspot/images/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "input_score": 0.07913797501800923
+  },
+  {
+    "task": "display user agreement",
+    "image_path": "/data3/screenspot/images/mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png",
+    "input_score": 0.07913464979056187
+  },
+  {
+    "task": "view help",
+    "image_path": "/data3/screenspot/images/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "input_score": 0.07916477784975176
+  },
+  {
+    "task": "open phone's screen",
+    "image_path": "/data3/screenspot/images/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "input_score": 0.07911138503541883
+  },
+  {
+    "task": "close current page",
+    "image_path": "/data3/screenspot/images/mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png",
+    "input_score": 0.07913587982478429
+  },
+  {
+    "task": "sort by size",
+    "image_path": "/data3/screenspot/images/mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "input_score": 0.079107018943589
+  },
+  {
+    "task": "sort by file's types",
+    "image_path": "/data3/screenspot/images/mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "input_score": 0.07899252428966733
+  },
+  {
+    "task": "download",
+    "image_path": "/data3/screenspot/images/mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png",
+    "input_score": 0.0792112719230751
+  },
+  {
+    "task": "display recent opened files",
+    "image_path": "/data3/screenspot/images/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "input_score": 0.07912769875320196
+  },
+  {
+    "task": "open dcim folder",
+    "image_path": "/data3/screenspot/images/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "input_score": 0.07915681970598684
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "display all videos",
+    "image_path": "/data3/screenspot/images/mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "input_score": 0.07914923850947228
+  },
+  {
+    "task": "display all photos ",
+    "image_path": "/data3/screenspot/images/mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "input_score": 0.07924198253383263
+  },
+  {
+    "task": "show all documents",
+    "image_path": "/data3/screenspot/images/mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png",
+    "input_score": 0.07913180324630191
+  },
+  {
+    "task": "show more file types",
+    "image_path": "/data3/screenspot/images/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "input_score": 0.07911272341217504
+  },
+  {
+    "task": "create a new folder",
+    "image_path": "/data3/screenspot/images/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "input_score": 0.07906421671604703
+  },
+  {
+    "task": "display recent opened files",
+    "image_path": "/data3/screenspot/images/mobile_275415f1-ade1-4210-9e92-8f998a671c96.png",
+    "input_score": 0.07912769875320196
+  },
+  {
+    "task": "stop",
+    "image_path": "/data3/screenspot/images/mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "input_score": 0.0792207772757399
+  },
+  {
+    "task": "start",
+    "image_path": "/data3/screenspot/images/mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "input_score": 0.07921565424827738
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png",
+    "input_score": 0.07921580300738904
+  },
+  {
+    "task": "open clock at 3",
+    "image_path": "/data3/screenspot/images/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "input_score": 0.07902795615514284
+  },
+  {
+    "task": "close clock at 6",
+    "image_path": "/data3/screenspot/images/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "input_score": 0.07902393824268805
+  },
+  {
+    "task": "show details of 7:30 clock",
+    "image_path": "/data3/screenspot/images/mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png",
+    "input_score": 0.0787749992295319
+  },
+  {
+    "task": "set timer for created task",
+    "image_path": "/data3/screenspot/images/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "input_score": 0.07903494787393651
+  },
+  {
+    "task": "done",
+    "image_path": "/data3/screenspot/images/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "input_score": 0.07922410409020575
+  },
+  {
+    "task": "fold input method",
+    "image_path": "/data3/screenspot/images/mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png",
+    "input_score": 0.07914075429104053
+  },
+  {
+    "task": "create new task",
+    "image_path": "/data3/screenspot/images/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "input_score": 0.07913550313593042
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "input_score": 0.07918682903524538
+  },
+  {
+    "task": "open notes",
+    "image_path": "/data3/screenspot/images/mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png",
+    "input_score": 0.07919102775923854
+  },
+  {
+    "task": "set font size to small",
+    "image_path": "/data3/screenspot/images/mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "input_score": 0.07906225618661478
+  },
+  {
+    "task": "use huge font size",
+    "image_path": "/data3/screenspot/images/mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png",
+    "input_score": 0.07911310208410641
+  },
+  {
+    "task": "display calendar in week view",
+    "image_path": "/data3/screenspot/images/mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "input_score": 0.07902204964923638
+  },
+  {
+    "task": "display calendar by days",
+    "image_path": "/data3/screenspot/images/mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "input_score": 0.07907137988352038
+  },
+  {
+    "task": "options",
+    "image_path": "/data3/screenspot/images/mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png",
+    "input_score": 0.07921619584191704
+  },
+  {
+    "task": "display 15-day weather forecast",
+    "image_path": "/data3/screenspot/images/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "input_score": 0.0789858227972033
+  },
+  {
+    "task": "open options",
+    "image_path": "/data3/screenspot/images/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "input_score": 0.07918493239448599
+  },
+  {
+    "task": "add new city",
+    "image_path": "/data3/screenspot/images/mobile_414acb14-025e-462a-9d1c-6410df04db7f.png",
+    "input_score": 0.07914633976332434
+  },
+  {
+    "task": "turn on airplane mode",
+    "image_path": "/data3/screenspot/images/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "input_score": 0.07910931952521968
+  },
+  {
+    "task": "turn off nfc",
+    "image_path": "/data3/screenspot/images/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "input_score": 0.07912346220145648
+  },
+  {
+    "task": "set default wallent",
+    "image_path": "/data3/screenspot/images/mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png",
+    "input_score": 0.07912359812579171
+  },
+  {
+    "task": "open account profile",
+    "image_path": "/data3/screenspot/images/mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "input_score": 0.07914079556568003
+  },
+  {
+    "task": "scan qr code",
+    "image_path": "/data3/screenspot/images/mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "input_score": 0.07918399542562897
+  },
+  {
+    "task": "sign out",
+    "image_path": "/data3/screenspot/images/mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png",
+    "input_score": 0.07920082137494297
+  },
+  {
+    "task": "open auto-rotate screen",
+    "image_path": "/data3/screenspot/images/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "input_score": 0.07908827296191424
+  },
+  {
+    "task": "control center or status bar",
+    "image_path": "/data3/screenspot/images/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "input_score": 0.07902533704395447
+  },
+  {
+    "task": "settting fonts",
+    "image_path": "/data3/screenspot/images/mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png",
+    "input_score": 0.0792232116785434
+  },
+  {
+    "task": "use dark mode display",
+    "image_path": "/data3/screenspot/images/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "input_score": 0.07909888893348106
+  },
+  {
+    "task": "change dark mode options",
+    "image_path": "/data3/screenspot/images/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "input_score": 0.07910977162392724
+  },
+  {
+    "task": "return upper page",
+    "image_path": "/data3/screenspot/images/mobile_d52263df-908a-4f53-93de-b51d691ad995.png",
+    "input_score": 0.07914200275251122
+  },
+  {
+    "task": "display options",
+    "image_path": "/data3/screenspot/images/mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "input_score": 0.07916969268816341
+  },
+  {
+    "task": "open vpn options",
+    "image_path": "/data3/screenspot/images/mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png",
+    "input_score": 0.0791890501010119
+  },
+  {
+    "task": "set date and time",
+    "image_path": "/data3/screenspot/images/mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "input_score": 0.07903909999829094
+  },
+  {
+    "task": "quick control ball",
+    "image_path": "/data3/screenspot/images/mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png",
+    "input_score": 0.0791420067803934
+  },
+  {
+    "task": " battery options",
+    "image_path": "/data3/screenspot/images/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "input_score": 0.07910035915610804
+  },
+  {
+    "task": "change battery setting for better performance",
+    "image_path": "/data3/screenspot/images/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "input_score": 0.0789714344312551
+  },
+  {
+    "task": "open ultra battery saver",
+    "image_path": "/data3/screenspot/images/mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png",
+    "input_score": 0.07918483667063933
+  },
+  {
+    "task": "clear",
+    "image_path": "/data3/screenspot/images/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "input_score": 0.07921354818274222
+  },
+  {
+    "task": "enter 5",
+    "image_path": "/data3/screenspot/images/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "input_score": 0.0790941751860218
+  },
+  {
+    "task": "divide",
+    "image_path": "/data3/screenspot/images/mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png",
+    "input_score": 0.07922989126924701
+  },
+  {
+    "task": "done",
+    "image_path": "/data3/screenspot/images/mobile_4c2df330-55c0-4272-80c0-6e2cf8f96903.png",
+    "input_score": 0.07922410409020575
+  },
+  {
+    "task": "open gmail",
+    "image_path": "/data3/screenspot/images/mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "input_score": 0.07924004311885172
+  },
+  {
+    "task": "add new email account",
+    "image_path": "/data3/screenspot/images/mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "input_score": 0.079102481097242
+  },
+  {
+    "task": "options",
+    "image_path": "/data3/screenspot/images/mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png",
+    "input_score": 0.07921619584191704
+  },
+  {
+    "task": "options",
+    "image_path": "/data3/screenspot/images/mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "input_score": 0.07921619584191704
+  },
+  {
+    "task": "check week summary",
+    "image_path": "/data3/screenspot/images/mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "input_score": 0.07915047329006279
+  },
+  {
+    "task": "display wearing device",
+    "image_path": "/data3/screenspot/images/mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png",
+    "input_score": 0.07914489122988486
+  },
+  {
+    "task": "open instagram",
+    "image_path": "/data3/screenspot/images/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "input_score": 0.07923929213179985
+  },
+  {
+    "task": "open github app",
+    "image_path": "/data3/screenspot/images/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "input_score": 0.07917651348098217
+  },
+  {
+    "task": "open massage",
+    "image_path": "/data3/screenspot/images/mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png",
+    "input_score": 0.07919872842771936
+  },
+  {
+    "task": "start outdoor running",
+    "image_path": "/data3/screenspot/images/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "input_score": 0.07915870582540248
+  },
+  {
+    "task": "record outdoor cycle",
+    "image_path": "/data3/screenspot/images/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "input_score": 0.07916553432622464
+  },
+  {
+    "task": "start threadmill recordding",
+    "image_path": "/data3/screenspot/images/mobile_88c8a639-8051-4241-943c-41104b363caa.png",
+    "input_score": 0.07911834418904945
+  },
+  {
+    "task": "show week steps recordings",
+    "image_path": "/data3/screenspot/images/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "input_score": 0.07912914769451722
+  },
+  {
+    "task": "show steps recording by month",
+    "image_path": "/data3/screenspot/images/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "input_score": 0.07903479377329875
+  },
+  {
+    "task": "return to upper page",
+    "image_path": "/data3/screenspot/images/mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png",
+    "input_score": 0.07909558973874095
+  },
+  {
+    "task": "check sleeping time",
+    "image_path": "/data3/screenspot/images/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "input_score": 0.07915528381833743
+  },
+  {
+    "task": "check kcals usage",
+    "image_path": "/data3/screenspot/images/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "input_score": 0.07913690256894068
+  },
+  {
+    "task": "switch to workout page",
+    "image_path": "/data3/screenspot/images/mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png",
+    "input_score": 0.07911511248331772
+  },
+  {
+    "task": "agree",
+    "image_path": "/data3/screenspot/images/mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "input_score": 0.07923694689594209
+  },
+  {
+    "task": "cancel",
+    "image_path": "/data3/screenspot/images/mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png",
+    "input_score": 0.0792308355392193
+  },
+  {
+    "task": "power on",
+    "image_path": "/data3/screenspot/images/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "input_score": 0.0791330603698502
+  },
+  {
+    "task": "change mode",
+    "image_path": "/data3/screenspot/images/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "input_score": 0.07915904463966365
+  },
+  {
+    "task": "raise air conditioner temperature",
+    "image_path": "/data3/screenspot/images/mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png",
+    "input_score": 0.07916997022056121
+  },
+  {
+    "task": "check battery usage",
+    "image_path": "/data3/screenspot/images/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "input_score": 0.07915818605303439
+  },
+  {
+    "task": "set fingerprints, face data and screen lock options",
+    "image_path": "/data3/screenspot/images/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "input_score": 0.0788253404301884
+  },
+  {
+    "task": "set mi ai voice assistant",
+    "image_path": "/data3/screenspot/images/mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png",
+    "input_score": 0.07910259278855596
+  },
+  {
+    "task": "open user profile",
+    "image_path": "/data3/screenspot/images/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "input_score": 0.07913565537723245
+  },
+  {
+    "task": "search setttings",
+    "image_path": "/data3/screenspot/images/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "input_score": 0.07921460674533745
+  },
+  {
+    "task": "turn off bluetooth",
+    "image_path": "/data3/screenspot/images/mobile_182c66dd-3836-4bce-909f-166abd570fde.png",
+    "input_score": 0.0791931315411731
+  },
+  {
+    "task": "display unread massages",
+    "image_path": "/data3/screenspot/images/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "input_score": 0.07920750712709816
+  },
+  {
+    "task": "display flagged massages",
+    "image_path": "/data3/screenspot/images/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "input_score": 0.07921032598041151
+  },
+  {
+    "task": "search massages",
+    "image_path": "/data3/screenspot/images/mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png",
+    "input_score": 0.07921603716375214
+  },
+  {
+    "task": "turn off wifi",
+    "image_path": "/data3/screenspot/images/mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "input_score": 0.07919523986836556
+  },
+  {
+    "task": "change phone options",
+    "image_path": "/data3/screenspot/images/mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "input_score": 0.07913497924007655
+  },
+  {
+    "task": "manage the outlayer",
+    "image_path": "/data3/screenspot/images/mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png",
+    "input_score": 0.07912237038450333
+  },
+  {
+    "task": "open calculator",
+    "image_path": "/data3/screenspot/images/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "input_score": 0.07919410981993127
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "input_score": 0.07918682903524538
+  },
+  {
+    "task": "open notes",
+    "image_path": "/data3/screenspot/images/mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png",
+    "input_score": 0.07919102775923854
+  },
+  {
+    "task": "display more functions",
+    "image_path": "/data3/screenspot/images/mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png",
+    "input_score": 0.07914560157409614
+  },
+  {
+    "task": "open high resolution 50mp mode",
+    "image_path": "/data3/screenspot/images/mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png",
+    "input_score": 0.07890906055219281
+  },
+  {
+    "task": "take short video",
+    "image_path": "/data3/screenspot/images/mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png",
+    "input_score": 0.07914385860849311
+  },
+  {
+    "task": "back to upper page",
+    "image_path": "/data3/screenspot/images/mobile_97ca06a1-8d37-4ece-b7ed-79517c61da2f.png",
+    "input_score": 0.07910504969986062
+  },
+  {
+    "task": "display more detials",
+    "image_path": "/data3/screenspot/images/mobile_97ca06a1-8d37-4ece-b7ed-79517c61da2f.png",
+    "input_score": 0.07915343739805138
+  },
+  {
+    "task": "safety informations",
+    "image_path": "/data3/screenspot/images/mobile_f6431461-6800-4054-a29d-d74b01514198.png",
+    "input_score": 0.07922239787731791
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_f6431461-6800-4054-a29d-d74b01514198.png",
+    "input_score": 0.07921580300738904
+  },
+  {
+    "task": "back to upper page",
+    "image_path": "/data3/screenspot/images/mobile_f6431461-6800-4054-a29d-d74b01514198.png",
+    "input_score": 0.07910504969986062
+  },
+  {
+    "task": "open dynamic shot",
+    "image_path": "/data3/screenspot/images/mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png",
+    "input_score": 0.07914084903513245
+  },
+  {
+    "task": "options",
+    "image_path": "/data3/screenspot/images/mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png",
+    "input_score": 0.07921619584191704
+  },
+  {
+    "task": "open hdr shoting mode",
+    "image_path": "/data3/screenspot/images/mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png",
+    "input_score": 0.07911993983831606
+  },
+  {
+    "task": "back",
+    "image_path": "/data3/screenspot/images/mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png",
+    "input_score": 0.07921904079473889
+  },
+  {
+    "task": "start a private meeting",
+    "image_path": "/data3/screenspot/images/mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png",
+    "input_score": 0.0790632619267216
+  },
+  {
+    "task": "next step",
+    "image_path": "/data3/screenspot/images/mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png",
+    "input_score": 0.07916701437991482
+  },
+  {
+    "task": "input to change the meeting's title",
+    "image_path": "/data3/screenspot/images/mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png",
+    "input_score": 0.07886531672598031
+  },
+  {
+    "task": "return",
+    "image_path": "/data3/screenspot/images/mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png",
+    "input_score": 0.07921170382788208
+  },
+  {
+    "task": "turn off to add meeting into calendar",
+    "image_path": "/data3/screenspot/images/mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png",
+    "input_score": 0.07894884198631107
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "show all news&magzaines apps",
+    "image_path": "/data3/screenspot/images/mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png",
+    "input_score": 0.07898344852714087
+  },
+  {
+    "task": "show all games",
+    "image_path": "/data3/screenspot/images/mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png",
+    "input_score": 0.0791371561341512
+  },
+  {
+    "task": "play video",
+    "image_path": "/data3/screenspot/images/mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png",
+    "input_score": 0.07916906827986851
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "back",
+    "image_path": "/data3/screenspot/images/mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png",
+    "input_score": 0.07921904079473889
+  },
+  {
+    "task": "enter meeting id",
+    "image_path": "/data3/screenspot/images/mobile_97752e81-d94b-49a1-8cb2-709395d63372.png",
+    "input_score": 0.07915280738653153
+  },
+  {
+    "task": "cancel",
+    "image_path": "/data3/screenspot/images/mobile_97752e81-d94b-49a1-8cb2-709395d63372.png",
+    "input_score": 0.0792308355392193
+  },
+  {
+    "task": "close mic when enter the online meeting room",
+    "image_path": "/data3/screenspot/images/mobile_97752e81-d94b-49a1-8cb2-709395d63372.png",
+    "input_score": 0.0789234620780657
+  },
+  {
+    "task": "display noticfications",
+    "image_path": "/data3/screenspot/images/mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png",
+    "input_score": 0.07911247880772408
+  },
+  {
+    "task": "arrange a meeting in schedula",
+    "image_path": "/data3/screenspot/images/mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png",
+    "input_score": 0.07902377197195883
+  },
+  {
+    "task": "join a meeting",
+    "image_path": "/data3/screenspot/images/mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png",
+    "input_score": 0.07911252668938634
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_b92938f8-6822-49e4-9612-67debab64e9d.png",
+    "input_score": 0.07921580300738904
+  },
+  {
+    "task": "more functions",
+    "image_path": "/data3/screenspot/images/mobile_b92938f8-6822-49e4-9612-67debab64e9d.png",
+    "input_score": 0.07917775620312446
+  },
+  {
+    "task": "display phone files",
+    "image_path": "/data3/screenspot/images/mobile_b92938f8-6822-49e4-9612-67debab64e9d.png",
+    "input_score": 0.07914317201836375
+  },
+  {
+    "task": "1",
+    "image_path": "/data3/screenspot/images/mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png",
+    "input_score": 0.07913436508134866
+  },
+  {
+    "task": "display ip address",
+    "image_path": "/data3/screenspot/images/mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png",
+    "input_score": 0.07914595522593365
+  },
+  {
+    "task": "turn off rule-based mode",
+    "image_path": "/data3/screenspot/images/mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png",
+    "input_score": 0.07907979989641502
+  },
+  {
+    "task": "post a new article",
+    "image_path": "/data3/screenspot/images/mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png",
+    "input_score": 0.07906779350059133
+  },
+  {
+    "task": "more settings",
+    "image_path": "/data3/screenspot/images/mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png",
+    "input_score": 0.0791912361417916
+  },
+  {
+    "task": "play music",
+    "image_path": "/data3/screenspot/images/mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png",
+    "input_score": 0.07918989893025882
+  },
+  {
+    "task": "scan qr code",
+    "image_path": "/data3/screenspot/images/mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png",
+    "input_score": 0.07918399542562897
+  },
+  {
+    "task": "open night mode",
+    "image_path": "/data3/screenspot/images/mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png",
+    "input_score": 0.07914594651200259
+  },
+  {
+    "task": "stop timer",
+    "image_path": "/data3/screenspot/images/mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png",
+    "input_score": 0.07920673085032029
+  },
+  {
+    "task": "options",
+    "image_path": "/data3/screenspot/images/mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png",
+    "input_score": 0.07921619584191704
+  },
+  {
+    "task": "log in ",
+    "image_path": "/data3/screenspot/images/mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png",
+    "input_score": 0.07918009923344638
+  },
+  {
+    "task": "registe",
+    "image_path": "/data3/screenspot/images/mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png",
+    "input_score": 0.07921026778516935
+  },
+  {
+    "task": "exchange target and source city",
+    "image_path": "/data3/screenspot/images/mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png",
+    "input_score": 0.07902004531313916
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "show high-speed track only",
+    "image_path": "/data3/screenspot/images/mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png",
+    "input_score": 0.07909832523410691
+  },
+  {
+    "task": "persuit 9.9 as telephone fee",
+    "image_path": "/data3/screenspot/images/mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png",
+    "input_score": 0.07891144068134576
+  },
+  {
+    "task": "pay 99 rmb for telephone bill",
+    "image_path": "/data3/screenspot/images/mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png",
+    "input_score": 0.07892625530142724
+  },
+  {
+    "task": "back to upper page",
+    "image_path": "/data3/screenspot/images/mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png",
+    "input_score": 0.07910504969986062
+  },
+  {
+    "task": "log out",
+    "image_path": "/data3/screenspot/images/mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png",
+    "input_score": 0.07920178442204417
+  },
+  {
+    "task": "data add ons",
+    "image_path": "/data3/screenspot/images/mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png",
+    "input_score": 0.07914872201646668
+  },
+  {
+    "task": "display phone billings",
+    "image_path": "/data3/screenspot/images/mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png",
+    "input_score": 0.07911846881112451
+  },
+  {
+    "task": "start speed test",
+    "image_path": "/data3/screenspot/images/mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png",
+    "input_score": 0.0791429038770745
+  },
+  {
+    "task": "display more options",
+    "image_path": "/data3/screenspot/images/mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png",
+    "input_score": 0.07915251645883987
+  },
+  {
+    "task": "display map",
+    "image_path": "/data3/screenspot/images/mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png",
+    "input_score": 0.07918467877190376
+  },
+  {
+    "task": "continue",
+    "image_path": "/data3/screenspot/images/mobile_71a65a77-a4ba-4853-9530-5e781cbbaa67.png",
+    "input_score": 0.07921294016409296
+  },
+  {
+    "task": "show policy agreement",
+    "image_path": "/data3/screenspot/images/mobile_71a65a77-a4ba-4853-9530-5e781cbbaa67.png",
+    "input_score": 0.07914306935630373
+  },
+  {
+    "task": "deny",
+    "image_path": "/data3/screenspot/images/mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png",
+    "input_score": 0.0792337300295764
+  },
+  {
+    "task": "allow all require while use this app",
+    "image_path": "/data3/screenspot/images/mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png",
+    "input_score": 0.07892779553874538
+  },
+  {
+    "task": "approximent location",
+    "image_path": "/data3/screenspot/images/mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png",
+    "input_score": 0.079184638551503
+  },
+  {
+    "task": "done",
+    "image_path": "/data3/screenspot/images/mobile_d9e451e3-6238-496f-8cc4-37e019e1a9c3.png",
+    "input_score": 0.07922410409020575
+  },
+  {
+    "task": "edit the overlay of this page",
+    "image_path": "/data3/screenspot/images/mobile_41049254-5e60-485c-b974-174ad6e98bd0.png",
+    "input_score": 0.07891343032497017
+  },
+  {
+    "task": "return to homepage",
+    "image_path": "/data3/screenspot/images/mobile_41049254-5e60-485c-b974-174ad6e98bd0.png",
+    "input_score": 0.07914032028445783
+  },
+  {
+    "task": "add new email account",
+    "image_path": "/data3/screenspot/images/mobile_41049254-5e60-485c-b974-174ad6e98bd0.png",
+    "input_score": 0.079102481097242
+  },
+  {
+    "task": "open my own twitch group",
+    "image_path": "/data3/screenspot/images/mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png",
+    "input_score": 0.07911260957256852
+  },
+  {
+    "task": "join a twitch server",
+    "image_path": "/data3/screenspot/images/mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png",
+    "input_score": 0.07911478366773939
+  },
+  {
+    "task": "use shool group template",
+    "image_path": "/data3/screenspot/images/mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png",
+    "input_score": 0.07908634996420225
+  },
+  {
+    "task": "enter email address",
+    "image_path": "/data3/screenspot/images/mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png",
+    "input_score": 0.07913404624477013
+  },
+  {
+    "task": "display more information",
+    "image_path": "/data3/screenspot/images/mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png",
+    "input_score": 0.07914127116504363
+  },
+  {
+    "task": "close",
+    "image_path": "/data3/screenspot/images/mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png",
+    "input_score": 0.07921467898653044
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png",
+    "input_score": 0.07918682903524538
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png",
+    "input_score": 0.0792246548229343
+  },
+  {
+    "task": "mute channel",
+    "image_path": "/data3/screenspot/images/mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png",
+    "input_score": 0.07921303124462183
+  },
+  {
+    "task": "add status",
+    "image_path": "/data3/screenspot/images/mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png",
+    "input_score": 0.07916477210426914
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png",
+    "input_score": 0.07921580300738904
+  },
+  {
+    "task": "add a avater",
+    "image_path": "/data3/screenspot/images/mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png",
+    "input_score": 0.0790662459843087
+  },
+  {
+    "task": "close",
+    "image_path": "/data3/screenspot/images/mobile_b84d7f20-7c25-4613-829f-6c620e223593.png",
+    "input_score": 0.07921467898653044
+  },
+  {
+    "task": "show news",
+    "image_path": "/data3/screenspot/images/mobile_b84d7f20-7c25-4613-829f-6c620e223593.png",
+    "input_score": 0.07917054584761908
+  },
+  {
+    "task": "use fire emoji",
+    "image_path": "/data3/screenspot/images/mobile_b84d7f20-7c25-4613-829f-6c620e223593.png",
+    "input_score": 0.079180519035423
+  },
+  {
+    "task": "copy text",
+    "image_path": "/data3/screenspot/images/mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png",
+    "input_score": 0.07916950057247613
+  },
+  {
+    "task": "add a emoji",
+    "image_path": "/data3/screenspot/images/mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png",
+    "input_score": 0.07912261419481512
+  },
+  {
+    "task": "send a smill heart emoji",
+    "image_path": "/data3/screenspot/images/mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png",
+    "input_score": 0.07905269026114305
+  },
+  {
+    "task": "scan qr code",
+    "image_path": "/data3/screenspot/images/mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png",
+    "input_score": 0.07918399542562897
+  },
+  {
+    "task": "display more functional icon",
+    "image_path": "/data3/screenspot/images/mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png",
+    "input_score": 0.07913975378800259
+  },
+  {
+    "task": "transfer money",
+    "image_path": "/data3/screenspot/images/mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png",
+    "input_score": 0.07917146295457217
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png",
+    "input_score": 0.07921580300738904
+  },
+  {
+    "task": "post a new twit",
+    "image_path": "/data3/screenspot/images/mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png",
+    "input_score": 0.07907854901918238
+  },
+  {
+    "task": "show all message ",
+    "image_path": "/data3/screenspot/images/mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png",
+    "input_score": 0.07913982144702915
+  },
+  {
+    "task": "back",
+    "image_path": "/data3/screenspot/images/mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png",
+    "input_score": 0.07921904079473889
+  },
+  {
+    "task": "auto play video and gif in wifi or use traffic",
+    "image_path": "/data3/screenspot/images/mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png",
+    "input_score": 0.07878179598766671
+  },
+  {
+    "task": "change language translated into",
+    "image_path": "/data3/screenspot/images/mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png",
+    "input_score": 0.07911544247393085
+  },
+  {
+    "task": "share to weibo",
+    "image_path": "/data3/screenspot/images/mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png",
+    "input_score": 0.07911573952202797
+  },
+  {
+    "task": "share to twitter",
+    "image_path": "/data3/screenspot/images/mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png",
+    "input_score": 0.07917491677600394
+  },
+  {
+    "task": "copy link to share",
+    "image_path": "/data3/screenspot/images/mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png",
+    "input_score": 0.07910783640901425
+  },
+  {
+    "task": "set to biggest font size",
+    "image_path": "/data3/screenspot/images/mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png",
+    "input_score": 0.0790707523573983
+  },
+  {
+    "task": "set dark mode follow system",
+    "image_path": "/data3/screenspot/images/mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png",
+    "input_score": 0.07904600223259108
+  },
+  {
+    "task": "return to upper page",
+    "image_path": "/data3/screenspot/images/mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png",
+    "input_score": 0.07909558973874095
+  },
+  {
+    "task": "flod this content",
+    "image_path": "/data3/screenspot/images/mobile_597cf265-2586-43ab-8048-99e06141f39f.png",
+    "input_score": 0.07909899705017398
+  },
+  {
+    "task": "share",
+    "image_path": "/data3/screenspot/images/mobile_597cf265-2586-43ab-8048-99e06141f39f.png",
+    "input_score": 0.07922776838720506
+  },
+  {
+    "task": "more options",
+    "image_path": "/data3/screenspot/images/mobile_597cf265-2586-43ab-8048-99e06141f39f.png",
+    "input_score": 0.07917978775004662
+  },
+  {
+    "task": "filte unread feeds",
+    "image_path": "/data3/screenspot/images/mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png",
+    "input_score": 0.0792134139068646
+  },
+  {
+    "task": "filte group weibo",
+    "image_path": "/data3/screenspot/images/mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png",
+    "input_score": 0.07911751101781334
+  },
+  {
+    "task": "new post",
+    "image_path": "/data3/screenspot/images/mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png",
+    "input_score": 0.07919435814771093
+  },
+  {
+    "task": "close sounds",
+    "image_path": "/data3/screenspot/images/mobile_c3af996a-2d6c-47c2-ba3d-aae699016f0e.png",
+    "input_score": 0.07919979914313906
+  },
+  {
+    "task": "back",
+    "image_path": "/data3/screenspot/images/mobile_c3af996a-2d6c-47c2-ba3d-aae699016f0e.png",
+    "input_score": 0.07921904079473889
+  },
+  {
+    "task": "install app",
+    "image_path": "/data3/screenspot/images/mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png",
+    "input_score": 0.07919125247117736
+  },
+  {
+    "task": "show all downloading apps",
+    "image_path": "/data3/screenspot/images/mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png",
+    "input_score": 0.07914706343631045
+  },
+  {
+    "task": "show softwares",
+    "image_path": "/data3/screenspot/images/mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png",
+    "input_score": 0.07918808230833342
+  },
+  {
+    "task": "view details",
+    "image_path": "/data3/screenspot/images/mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png",
+    "input_score": 0.07915554751404691
+  },
+  {
+    "task": "update application",
+    "image_path": "/data3/screenspot/images/mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png",
+    "input_score": 0.07916374444874708
+  },
+  {
+    "task": "view all folding apps",
+    "image_path": "/data3/screenspot/images/mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png",
+    "input_score": 0.0791449966706384
+  },
+  {
+    "task": "download",
+    "image_path": "/data3/screenspot/images/mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png",
+    "input_score": 0.0792112719230751
+  },
+  {
+    "task": "messages",
+    "image_path": "/data3/screenspot/images/mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png",
+    "input_score": 0.0792225981110589
+  },
+  {
+    "task": "open cleaner",
+    "image_path": "/data3/screenspot/images/mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png",
+    "input_score": 0.07920229032160206
+  },
+  {
+    "task": "add new device",
+    "image_path": "/data3/screenspot/images/mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png",
+    "input_score": 0.07913781630518722
+  },
+  {
+    "task": "switch to a new scence",
+    "image_path": "/data3/screenspot/images/mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png",
+    "input_score": 0.07900091389975646
+  },
+  {
+    "task": "open landlanp",
+    "image_path": "/data3/screenspot/images/mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png",
+    "input_score": 0.079138267760628
+  },
+  {
+    "task": "check the weather",
+    "image_path": "/data3/screenspot/images/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "input_score": 0.08954981584808092
+  },
+  {
+    "task": "view world clock",
+    "image_path": "/data3/screenspot/images/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "input_score": 0.08959872664971717
+  },
+  {
+    "task": "open facetime app",
+    "image_path": "/data3/screenspot/images/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "input_score": 0.08961854591315377
+  },
+  {
+    "task": "open the camera",
+    "image_path": "/data3/screenspot/images/mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png",
+    "input_score": 0.0895523519357648
+  },
+  {
+    "task": "menu",
+    "image_path": "/data3/screenspot/images/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "input_score": 0.08965416441549219
+  },
+  {
+    "task": "select source language",
+    "image_path": "/data3/screenspot/images/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "input_score": 0.089573347666707
+  },
+  {
+    "task": "close the translation",
+    "image_path": "/data3/screenspot/images/mobile_6949b916-64c8-431f-8842-a29a9a557641.png",
+    "input_score": 0.08955434072846002
+  },
+  {
+    "task": "translate",
+    "image_path": "/data3/screenspot/images/mobile_702eab66-81f1-4aac-a252-37b5f7c3ae68.png",
+    "input_score": 0.08966183073088055
+  },
+  {
+    "task": "add a new file",
+    "image_path": "/data3/screenspot/images/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "input_score": 0.08950699721275152
+  },
+  {
+    "task": "search bar",
+    "image_path": "/data3/screenspot/images/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "input_score": 0.08961487020679333
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "input_score": 0.08965193490980346
+  },
+  {
+    "task": "check shared files",
+    "image_path": "/data3/screenspot/images/mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png",
+    "input_score": 0.0895994592044962
+  },
+  {
+    "task": "add an event",
+    "image_path": "/data3/screenspot/images/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "input_score": 0.08953980283086498
+  },
+  {
+    "task": "search event",
+    "image_path": "/data3/screenspot/images/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "input_score": 0.08961497569473713
+  },
+  {
+    "task": "view as year",
+    "image_path": "/data3/screenspot/images/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "input_score": 0.08955386758598763
+  },
+  {
+    "task": "the fifth",
+    "image_path": "/data3/screenspot/images/mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png",
+    "input_score": 0.08960944153513198
+  },
+  {
+    "task": "locked rotation",
+    "image_path": "/data3/screenspot/images/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "input_score": 0.08965396340856414
+  },
+  {
+    "task": "open do not disturb",
+    "image_path": "/data3/screenspot/images/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "input_score": 0.08959243880574548
+  },
+  {
+    "task": "adjust the voice",
+    "image_path": "/data3/screenspot/images/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "input_score": 0.08954969378212922
+  },
+  {
+    "task": "timer",
+    "image_path": "/data3/screenspot/images/mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png",
+    "input_score": 0.0896627805144695
+  },
+  {
+    "task": "handwrite mode",
+    "image_path": "/data3/screenspot/images/mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "input_score": 0.08959719098078249
+  },
+  {
+    "task": "take a photo",
+    "image_path": "/data3/screenspot/images/mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png",
+    "input_score": 0.08954017673101566
+  },
+  {
+    "task": "open result file",
+    "image_path": "/data3/screenspot/images/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "input_score": 0.08958439139419569
+  },
+  {
+    "task": "icloud drive",
+    "image_path": "/data3/screenspot/images/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "input_score": 0.08963922895236268
+  },
+  {
+    "task": "downloads",
+    "image_path": "/data3/screenspot/images/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "input_score": 0.08967089587857227
+  },
+  {
+    "task": "add a new file",
+    "image_path": "/data3/screenspot/images/mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png",
+    "input_score": 0.08950699721275152
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "input_score": 0.08965498310294691
+  },
+  {
+    "task": "add a new page",
+    "image_path": "/data3/screenspot/images/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "input_score": 0.08950616701087079
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/mobile_a8181231-d30c-4051-9ff2-16808694adbf.png",
+    "input_score": 0.08961269977288387
+  },
+  {
+    "task": "search bar",
+    "image_path": "/data3/screenspot/images/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "input_score": 0.08961487020679333
+  },
+  {
+    "task": "check the pinned files",
+    "image_path": "/data3/screenspot/images/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "input_score": 0.08953889586268524
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png",
+    "input_score": 0.08960513034857896
+  },
+  {
+    "task": "flight mode",
+    "image_path": "/data3/screenspot/images/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "input_score": 0.08272138453282772
+  },
+  {
+    "task": "calculator",
+    "image_path": "/data3/screenspot/images/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "input_score": 0.08278985019947283
+  },
+  {
+    "task": "screen recorder",
+    "image_path": "/data3/screenspot/images/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "input_score": 0.0827618133490685
+  },
+  {
+    "task": "focus mode",
+    "image_path": "/data3/screenspot/images/mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png",
+    "input_score": 0.08271789384302934
+  },
+  {
+    "task": "photos app",
+    "image_path": "/data3/screenspot/images/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "input_score": 0.08276299967389905
+  },
+  {
+    "task": "clock",
+    "image_path": "/data3/screenspot/images/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "input_score": 0.0827692060180714
+  },
+  {
+    "task": "app store",
+    "image_path": "/data3/screenspot/images/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "input_score": 0.08272046439511248
+  },
+  {
+    "task": "iphone settings",
+    "image_path": "/data3/screenspot/images/mobile_93dec21b-d612-41df-9f76-933ceadaba66.png",
+    "input_score": 0.08275285158472113
+  },
+  {
+    "task": "check the new ios 17.2.1",
+    "image_path": "/data3/screenspot/images/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "input_score": 0.08224823327606479
+  },
+  {
+    "task": "check wlan settings",
+    "image_path": "/data3/screenspot/images/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "input_score": 0.08270808898323657
+  },
+  {
+    "task": "check bluetooth",
+    "image_path": "/data3/screenspot/images/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "input_score": 0.08276313407163778
+  },
+  {
+    "task": "vpn settings",
+    "image_path": "/data3/screenspot/images/mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png",
+    "input_score": 0.08276805202449922
+  },
+  {
+    "task": "view icloud",
+    "image_path": "/data3/screenspot/images/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "input_score": 0.08273836333415778
+  },
+  {
+    "task": "back to settings",
+    "image_path": "/data3/screenspot/images/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "input_score": 0.08266920338461964
+  },
+  {
+    "task": "view password & security details",
+    "image_path": "/data3/screenspot/images/mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png",
+    "input_score": 0.0825731875622275
+  },
+  {
+    "task": "open the wlan",
+    "image_path": "/data3/screenspot/images/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "input_score": 0.0826798889730353
+  },
+  {
+    "task": "edit",
+    "image_path": "/data3/screenspot/images/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "input_score": 0.08276785219779169
+  },
+  {
+    "task": "choose the pjlab-guest",
+    "image_path": "/data3/screenspot/images/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "input_score": 0.08261318672026481
+  },
+  {
+    "task": "view detail information about pjlab-office",
+    "image_path": "/data3/screenspot/images/mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png",
+    "input_score": 0.08260679328168116
+  },
+  {
+    "task": "choose the stack mode",
+    "image_path": "/data3/screenspot/images/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "input_score": 0.08258982177180035
+  },
+  {
+    "task": "check scheduled summary",
+    "image_path": "/data3/screenspot/images/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "input_score": 0.08268305600341984
+  },
+  {
+    "task": "announce notifications",
+    "image_path": "/data3/screenspot/images/mobile_70580ad8-f119-4db6-813b-81f950e0569e.png",
+    "input_score": 0.08275925097715192
+  },
+  {
+    "task": "check airdrop setting",
+    "image_path": "/data3/screenspot/images/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "input_score": 0.08259177882072294
+  },
+  {
+    "task": "carplay",
+    "image_path": "/data3/screenspot/images/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "input_score": 0.08272332822246943
+  },
+  {
+    "task": "view iphone storage",
+    "image_path": "/data3/screenspot/images/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "input_score": 0.08271700561974776
+  },
+  {
+    "task": "keyboard settings",
+    "image_path": "/data3/screenspot/images/mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png",
+    "input_score": 0.08272153319984799
+  },
+  {
+    "task": "open allow siri when locked",
+    "image_path": "/data3/screenspot/images/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "input_score": 0.0825892739089774
+  },
+  {
+    "task": "show suggestions",
+    "image_path": "/data3/screenspot/images/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "input_score": 0.08271526958280348
+  },
+  {
+    "task": "view siri & dictation history",
+    "image_path": "/data3/screenspot/images/mobile_db81809e-7672-4329-8453-f622d97fa7ca.png",
+    "input_score": 0.0825568962616102
+  },
+  {
+    "task": "battery health & charging",
+    "image_path": "/data3/screenspot/images/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "input_score": 0.08268232633131176
+  },
+  {
+    "task": "last 10 days data",
+    "image_path": "/data3/screenspot/images/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "input_score": 0.08251229558650966
+  },
+  {
+    "task": "open low power mode",
+    "image_path": "/data3/screenspot/images/mobile_e3249127-d727-4553-9a2a-db645f430d9b.png",
+    "input_score": 0.08263848526389428
+  },
+  {
+    "task": "take a photo",
+    "image_path": "/data3/screenspot/images/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "input_score": 0.08262049216554836
+  },
+  {
+    "task": "switch to 0.5x",
+    "image_path": "/data3/screenspot/images/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "input_score": 0.0824446348979458
+  },
+  {
+    "task": "invert the lens",
+    "image_path": "/data3/screenspot/images/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "input_score": 0.08267781872078112
+  },
+  {
+    "task": "switch to portrait mode",
+    "image_path": "/data3/screenspot/images/mobile_907cb7d2-9953-476e-b589-5526587c3913.png",
+    "input_score": 0.08264199845563908
+  },
+  {
+    "task": "add an event",
+    "image_path": "/data3/screenspot/images/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "input_score": 0.08264310179490665
+  },
+  {
+    "task": "back to 2023",
+    "image_path": "/data3/screenspot/images/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "input_score": 0.0824495111485282
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "input_score": 0.08274173162386328
+  },
+  {
+    "task": "check inbox",
+    "image_path": "/data3/screenspot/images/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "input_score": 0.08272571739064623
+  },
+  {
+    "task": "28",
+    "image_path": "/data3/screenspot/images/mobile_f1247381-fcf6-440f-8787-19bce69e28de.png",
+    "input_score": 0.08264689880141168
+  },
+  {
+    "task": "cancel the event",
+    "image_path": "/data3/screenspot/images/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "input_score": 0.08263953215113072
+  },
+  {
+    "task": "adjust start date",
+    "image_path": "/data3/screenspot/images/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "input_score": 0.08268219153498814
+  },
+  {
+    "task": "adjust end time",
+    "image_path": "/data3/screenspot/images/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "input_score": 0.08266909885570818
+  },
+  {
+    "task": "set the repeat mode",
+    "image_path": "/data3/screenspot/images/mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png",
+    "input_score": 0.08259245166869648
+  },
+  {
+    "task": "start a timer",
+    "image_path": "/data3/screenspot/images/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "input_score": 0.08265132369294455
+  },
+  {
+    "task": "view when timer ends",
+    "image_path": "/data3/screenspot/images/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "input_score": 0.08263908210405009
+  },
+  {
+    "task": "view alarm",
+    "image_path": "/data3/screenspot/images/mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png",
+    "input_score": 0.0827211403619226
+  },
+  {
+    "task": "check my account",
+    "image_path": "/data3/screenspot/images/mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "input_score": 0.08266211923057311
+  },
+  {
+    "task": "add funds to apple id",
+    "image_path": "/data3/screenspot/images/mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "input_score": 0.08260616865623181
+  },
+  {
+    "task": "view notifications",
+    "image_path": "/data3/screenspot/images/mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png",
+    "input_score": 0.08275179538306539
+  },
+  {
+    "task": "personal hotspot",
+    "image_path": "/data3/screenspot/images/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "input_score": 0.08276705157469394
+  },
+  {
+    "task": "airdrop setting",
+    "image_path": "/data3/screenspot/images/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "input_score": 0.08261581428624701
+  },
+  {
+    "task": "airplane mode",
+    "image_path": "/data3/screenspot/images/mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png",
+    "input_score": 0.08275610495774492
+  },
+  {
+    "task": "my account",
+    "image_path": "/data3/screenspot/images/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "input_score": 0.08269380936736832
+  },
+  {
+    "task": "search bar",
+    "image_path": "/data3/screenspot/images/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "input_score": 0.08271836108079206
+  },
+  {
+    "task": "cancel the ads",
+    "image_path": "/data3/screenspot/images/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "input_score": 0.0826538286593395
+  },
+  {
+    "task": "try it free",
+    "image_path": "/data3/screenspot/images/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "input_score": 0.08266210885410737
+  },
+  {
+    "task": "view library",
+    "image_path": "/data3/screenspot/images/mobile_0affae67-191e-43fa-890d-778555ffbab0.png",
+    "input_score": 0.0826950049801472
+  },
+  {
+    "task": "cancel subscription",
+    "image_path": "/data3/screenspot/images/mobile_5fb77d07-dd26-4a0c-959b-7c74fd49d22f.png",
+    "input_score": 0.08272518372675099
+  },
+  {
+    "task": "shuffle the music list",
+    "image_path": "/data3/screenspot/images/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "input_score": 0.08264628507940722
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "input_score": 0.08271323729047002
+  },
+  {
+    "task": "back",
+    "image_path": "/data3/screenspot/images/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "input_score": 0.0827364968142822
+  },
+  {
+    "task": "more information about classical christmas",
+    "image_path": "/data3/screenspot/images/mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png",
+    "input_score": 0.0826585899637367
+  },
+  {
+    "task": "view bach station",
+    "image_path": "/data3/screenspot/images/mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "input_score": 0.08270990806291711
+  },
+  {
+    "task": "listen now",
+    "image_path": "/data3/screenspot/images/mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png",
+    "input_score": 0.08271910765891724
+  },
+  {
+    "task": "add a new one",
+    "image_path": "/data3/screenspot/images/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "input_score": 0.08259156611961878
+  },
+  {
+    "task": "more details",
+    "image_path": "/data3/screenspot/images/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "input_score": 0.08271639336039593
+  },
+  {
+    "task": "learn more",
+    "image_path": "/data3/screenspot/images/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "input_score": 0.08272319613504692
+  },
+  {
+    "task": "add or scan accessory",
+    "image_path": "/data3/screenspot/images/mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png",
+    "input_score": 0.08264692693274149
+  },
+  {
+    "task": "open nlp folder",
+    "image_path": "/data3/screenspot/images/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "input_score": 0.08269477888081334
+  },
+  {
+    "task": "back to browse",
+    "image_path": "/data3/screenspot/images/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "input_score": 0.0827048428244437
+  },
+  {
+    "task": "view shared",
+    "image_path": "/data3/screenspot/images/mobile_7d7609e2-696b-449e-a230-792dce8dd134.png",
+    "input_score": 0.08269315662529353
+  },
+  {
+    "task": "login with wechat",
+    "image_path": "/data3/screenspot/images/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "input_score": 0.08264464966277515
+  },
+  {
+    "task": "settings",
+    "image_path": "/data3/screenspot/images/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "input_score": 0.08276134680572558
+  },
+  {
+    "task": "login with email",
+    "image_path": "/data3/screenspot/images/mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png",
+    "input_score": 0.08266754370431863
+  },
+  {
+    "task": "all clear the calculator",
+    "image_path": "/data3/screenspot/images/mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "input_score": 0.08261392539488661
+  },
+  {
+    "task": "plus",
+    "image_path": "/data3/screenspot/images/mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png",
+    "input_score": 0.08276818728153298
+  },
+  {
+    "task": "search bar",
+    "image_path": "/data3/screenspot/images/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "input_score": 0.08271836108079206
+  },
+  {
+    "task": "scan icon",
+    "image_path": "/data3/screenspot/images/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "input_score": 0.08272888190221897
+  },
+  {
+    "task": "open pay/collect",
+    "image_path": "/data3/screenspot/images/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "input_score": 0.0826587985815811
+  },
+  {
+    "task": "view the air & rail",
+    "image_path": "/data3/screenspot/images/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "input_score": 0.08257150720345162
+  },
+  {
+    "task": "check messages",
+    "image_path": "/data3/screenspot/images/mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png",
+    "input_score": 0.08271554974744236
+  },
+  {
+    "task": "try it now",
+    "image_path": "/data3/screenspot/images/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "input_score": 0.0826608264626139
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "input_score": 0.08274173162386328
+  },
+  {
+    "task": "add a new one",
+    "image_path": "/data3/screenspot/images/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "input_score": 0.08259156611961878
+  },
+  {
+    "task": "view docs",
+    "image_path": "/data3/screenspot/images/mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png",
+    "input_score": 0.0827251759972977
+  },
+  {
+    "task": "save",
+    "image_path": "/data3/screenspot/images/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "input_score": 0.0827620838074189
+  },
+  {
+    "task": "add title",
+    "image_path": "/data3/screenspot/images/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "input_score": 0.08270142923721624
+  },
+  {
+    "task": "add guests",
+    "image_path": "/data3/screenspot/images/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "input_score": 0.08271495536880732
+  },
+  {
+    "task": "set no repeats",
+    "image_path": "/data3/screenspot/images/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "input_score": 0.08270532608315163
+  },
+  {
+    "task": "add description",
+    "image_path": "/data3/screenspot/images/mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png",
+    "input_score": 0.08268844699582965
+  },
+  {
+    "task": "favorite the music",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.08265446092239861
+  },
+  {
+    "task": "forwarding",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.08280929366513153
+  },
+  {
+    "task": "view comments",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.08269580832746032
+  },
+  {
+    "task": "play the music",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.08262844536483865
+  },
+  {
+    "task": "next song",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.082731304866551
+  },
+  {
+    "task": "previous song",
+    "image_path": "/data3/screenspot/images/mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png",
+    "input_score": 0.08272879029087923
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "input_score": 0.08271323729047002
+  },
+  {
+    "task": "back to filters",
+    "image_path": "/data3/screenspot/images/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "input_score": 0.08268818911990818
+  },
+  {
+    "task": "write a message",
+    "image_path": "/data3/screenspot/images/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "input_score": 0.08260592101548217
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png",
+    "input_score": 0.08274173162386328
+  },
+  {
+    "task": "add a new item",
+    "image_path": "/data3/screenspot/images/mobile_b9537ded-e771-43c7-bab4-1db747625d87.png",
+    "input_score": 0.08949974199170964
+  },
+  {
+    "task": "automation",
+    "image_path": "/data3/screenspot/images/mobile_b9537ded-e771-43c7-bab4-1db747625d87.png",
+    "input_score": 0.08966789482092621
+  },
+  {
+    "task": "add a room",
+    "image_path": "/data3/screenspot/images/mobile_49f35b0d-59ea-46f9-b215-0e0e70d06a9a.png",
+    "input_score": 0.08953450566106982
+  },
+  {
+    "task": "open the dark appearance dims wallpaper",
+    "image_path": "/data3/screenspot/images/mobile_4e17db8b-85df-4278-ba0a-9f03e5ca85da.png",
+    "input_score": 0.08950234947238643
+  },
+  {
+    "task": "open only draw with apple pencil",
+    "image_path": "/data3/screenspot/images/mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "input_score": 0.08952711435312612
+  },
+  {
+    "task": "switch to show link attributes",
+    "image_path": "/data3/screenspot/images/mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png",
+    "input_score": 0.08949583053681652
+  },
+  {
+    "task": "open files in ipad",
+    "image_path": "/data3/screenspot/images/mobile_ed417132-c4e4-41c9-adae-d150aecada69.png",
+    "input_score": 0.08956494036464983
+  },
+  {
+    "task": "open memo app",
+    "image_path": "/data3/screenspot/images/mobile_124e877d-d29c-45e4-bdc2-cbc729c702c9.png",
+    "input_score": 0.08963688294849097
+  },
+  {
+    "task": "add a new tab",
+    "image_path": "/data3/screenspot/images/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "input_score": 0.08950754499854004
+  },
+  {
+    "task": "refresh the page",
+    "image_path": "/data3/screenspot/images/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "input_score": 0.08956325266788911
+  },
+  {
+    "task": "go to user account page",
+    "image_path": "/data3/screenspot/images/mobile_f859f69e-20c1-4630-9435-e959c43590d5.png",
+    "input_score": 0.08949323046083478
+  },
+  {
+    "task": "clear browsing data",
+    "image_path": "/data3/screenspot/images/mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "input_score": 0.08960091849595143
+  },
+  {
+    "task": "open downloads page",
+    "image_path": "/data3/screenspot/images/mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png",
+    "input_score": 0.08960724612231472
+  },
+  {
+    "task": "new private window",
+    "image_path": "/data3/screenspot/images/mobile_95b2eec8-7804-474f-bf47-7c13a7a02595.png",
+    "input_score": 0.08959488418175177
+  },
+  {
+    "task": "search history",
+    "image_path": "/data3/screenspot/images/mobile_740f217d-27e9-43af-951c-b76e18252300.png",
+    "input_score": 0.08961564556053842
+  },
+  {
+    "task": "explore the new menu",
+    "image_path": "/data3/screenspot/images/mobile_663faca5-79a3-48f6-b64c-9f7989292d17.png",
+    "input_score": 0.08953396902991796
+  },
+  {
+    "task": "check device location",
+    "image_path": "/data3/screenspot/images/mobile_9d30c621-fe06-4f6a-86e7-6664cc3bb566.png",
+    "input_score": 0.08958153965359933
+  },
+  {
+    "task": "stop sharing my location",
+    "image_path": "/data3/screenspot/images/mobile_d3771dd7-e526-4b87-8971-247ca5582e85.png",
+    "input_score": 0.08952419881903846
+  },
+  {
+    "task": "create a new workbook for total a list",
+    "image_path": "/data3/screenspot/images/mobile_f5b4ae93-55f8-4f0c-9c9e-dda8685c37b5.png",
+    "input_score": 0.0893654269705905
+  },
+  {
+    "task": "add storage account",
+    "image_path": "/data3/screenspot/images/mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "input_score": 0.0895970231031871
+  },
+  {
+    "task": "go to user account page",
+    "image_path": "/data3/screenspot/images/mobile_63cdee53-9026-46c9-9b69-639452091dcc.png",
+    "input_score": 0.08949323046083478
+  },
+  {
+    "task": "open the entertainment",
+    "image_path": "/data3/screenspot/images/mobile_043c3a5e-c12c-4991-bb7f-676c617b2f9b.png",
+    "input_score": 0.08956394220720607
+  },
+  {
+    "task": "remove maps from the desktop",
+    "image_path": "/data3/screenspot/images/mobile_3d3cacff-2019-4577-9395-21b45a0c548b.png",
+    "input_score": 0.08947621560605674
+  },
+  {
+    "task": "add a new app to the desktop",
+    "image_path": "/data3/screenspot/images/mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "input_score": 0.08939474327521037
+  },
+  {
+    "task": "remove chrome from the desktop",
+    "image_path": "/data3/screenspot/images/mobile_6778b255-174f-401e-ab98-b5bbe554a141.png",
+    "input_score": 0.08948490933658423
+  },
+  {
+    "task": "disable icloud photos",
+    "image_path": "/data3/screenspot/images/mobile_e3f2b3d7-4c56-44ba-af3f-ae885a3e0dbb.png",
+    "input_score": 0.08963325885189609
+  },
+  {
+    "task": "remove the camera from the included controls",
+    "image_path": "/data3/screenspot/images/mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "input_score": 0.08937237393856877
+  },
+  {
+    "task": "add alarm to the included controls",
+    "image_path": "/data3/screenspot/images/mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png",
+    "input_score": 0.0894388839176798
+  },
+  {
+    "task": "adjust display & brightness",
+    "image_path": "/data3/screenspot/images/mobile_c784c6c1-0203-4193-8131-f34cef16d400.png",
+    "input_score": 0.0826615769643263
+  },
+  {
+    "task": "switch to dark theme",
+    "image_path": "/data3/screenspot/images/mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "input_score": 0.08264191102261784
+  },
+  {
+    "task": "adjust the brightness",
+    "image_path": "/data3/screenspot/images/mobile_1152be83-7090-45b9-9465-e5acc02d867d.png",
+    "input_score": 0.082675516272639
+  },
+  {
+    "task": "manage the password for aliyunidaas.com",
+    "image_path": "/data3/screenspot/images/mobile_d8a299f2-f432-4bef-abc4-5a005cf4c40f.png",
+    "input_score": 0.08243638844266127
+  },
+  {
+    "task": "modify the notification permission for google maps",
+    "image_path": "/data3/screenspot/images/mobile_45d2f820-fe5f-4e31-9554-34156e66179c.png",
+    "input_score": 0.08252173268430199
+  },
+  {
+    "task": "allow google maps to send notifications",
+    "image_path": "/data3/screenspot/images/mobile_f45826c5-d796-46cf-b0c3-c4095206735c.png",
+    "input_score": 0.082587492260558
+  },
+  {
+    "task": "disallow automatic app updates",
+    "image_path": "/data3/screenspot/images/mobile_a2719c16-da39-48ea-8c1c-1239414f0778.png",
+    "input_score": 0.08263091204807815
+  },
+  {
+    "task": "check health details",
+    "image_path": "/data3/screenspot/images/mobile_63adf499-326a-44b4-8b3f-0ecd1935745e.png",
+    "input_score": 0.08266986932727365
+  },
+  {
+    "task": "add a new place to favourities",
+    "image_path": "/data3/screenspot/images/mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "input_score": 0.08249013786724949
+  },
+  {
+    "task": "search for a place or address",
+    "image_path": "/data3/screenspot/images/mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png",
+    "input_score": 0.08245673599332251
+  },
+  {
+    "task": "switch the map style to satellite",
+    "image_path": "/data3/screenspot/images/mobile_acb1d28f-ddf9-4098-b749-51bf6600705b.png",
+    "input_score": 0.08253539218849289
+  },
+  {
+    "task": "continue",
+    "image_path": "/data3/screenspot/images/mobile_105a4c27-8695-4555-9121-0dd7cacb5ec2.png",
+    "input_score": 0.08273581426964258
+  },
+  {
+    "task": "close the notification box",
+    "image_path": "/data3/screenspot/images/mobile_2e804aba-afb6-48a0-ad55-2f242652eb33.png",
+    "input_score": 0.08261101352625246
+  },
+  {
+    "task": "choose watercolor brush style",
+    "image_path": "/data3/screenspot/images/mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "input_score": 0.08263128174394914
+  },
+  {
+    "task": "adjust the color",
+    "image_path": "/data3/screenspot/images/mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png",
+    "input_score": 0.08263301391751626
+  },
+  {
+    "task": "insert from link",
+    "image_path": "/data3/screenspot/images/mobile_7e2e6586-4c35-414e-8608-863b7ceba272.png",
+    "input_score": 0.08265570747373636
+  },
+  {
+    "task": "add a circle",
+    "image_path": "/data3/screenspot/images/mobile_d3865883-8214-4bff-9834-13987580abe8.png",
+    "input_score": 0.0826099229692245
+  },
+  {
+    "task": "learn more about privacy",
+    "image_path": "/data3/screenspot/images/mobile_8c25fc62-ca0e-4280-ae68-9146b66089b2.png",
+    "input_score": 0.08265682671706132
+  },
+  {
+    "task": "input through voice recognition",
+    "image_path": "/data3/screenspot/images/mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "input_score": 0.08264684129506272
+  },
+  {
+    "task": "check coverage",
+    "image_path": "/data3/screenspot/images/mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png",
+    "input_score": 0.08272367290148243
+  },
+  {
+    "task": "close the recommended box",
+    "image_path": "/data3/screenspot/images/mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "input_score": 0.08259684336767494
+  },
+  {
+    "task": "check the information about airtag",
+    "image_path": "/data3/screenspot/images/mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png",
+    "input_score": 0.08242717331543006
+  },
+  {
+    "task": "show the location list",
+    "image_path": "/data3/screenspot/images/mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "input_score": 0.08256720142990787
+  },
+  {
+    "task": "choose the place called \"香港广场\"",
+    "image_path": "/data3/screenspot/images/mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png",
+    "input_score": 0.08251619780876385
+  },
+  {
+    "task": "search destinations",
+    "image_path": "/data3/screenspot/images/mobile_73a629d6-0fe4-4663-a727-d3b78ec52175.png",
+    "input_score": 0.08273623210641169
+  },
+  {
+    "task": "add waypoints",
+    "image_path": "/data3/screenspot/images/mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "input_score": 0.08276027487665412
+  },
+  {
+    "task": "input the destination",
+    "image_path": "/data3/screenspot/images/mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png",
+    "input_score": 0.08264211692535255
+  },
+  {
+    "task": "check the wallet",
+    "image_path": "/data3/screenspot/images/mobile_c9c47c96-1b18-45dd-8e88-f0b48c54617d.png",
+    "input_score": 0.08265741755150494
+  },
+  {
+    "task": "continue with apple",
+    "image_path": "/data3/screenspot/images/mobile_12280689-e3e1-4a36-ba3c-709acb969b32.png",
+    "input_score": 0.08266120813602774
+  },
+  {
+    "task": "take a photo as input",
+    "image_path": "/data3/screenspot/images/mobile_6aa0e7dc-66cc-494b-aa49-71eed77fcafc.png",
+    "input_score": 0.08252190006396908
+  },
+  {
+    "task": "open a photo",
+    "image_path": "/data3/screenspot/images/mobile_29d7e4c5-5293-4828-a31a-0297dbeb5b9d.png",
+    "input_score": 0.08261741866109677
+  },
+  {
+    "task": "apply the smooth filter",
+    "image_path": "/data3/screenspot/images/mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "input_score": 0.08259791367256689
+  },
+  {
+    "task": "open additional options",
+    "image_path": "/data3/screenspot/images/mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png",
+    "input_score": 0.08267124789691037
+  },
+  {
+    "task": "crop the photo",
+    "image_path": "/data3/screenspot/images/mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "input_score": 0.08264956316869
+  },
+  {
+    "task": "open a brush",
+    "image_path": "/data3/screenspot/images/mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png",
+    "input_score": 0.08264580861262838
+  },
+  {
+    "task": "view personal information",
+    "image_path": "/data3/screenspot/images/mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png",
+    "input_score": 0.08265916090723525
+  },
+  {
+    "task": "show more about workouts",
+    "image_path": "/data3/screenspot/images/mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png",
+    "input_score": 0.08268142132963607
+  },
+  {
+    "task": "view the outdoor cycle report",
+    "image_path": "/data3/screenspot/images/mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png",
+    "input_score": 0.08257705475918523
+  },
+  {
+    "task": "view exercise log on map",
+    "image_path": "/data3/screenspot/images/mobile_b4a1ee35-b1b3-4ea6-bd37-22e326ea8620.png",
+    "input_score": 0.08257062110368789
+  },
+  {
+    "task": "close the splits",
+    "image_path": "/data3/screenspot/images/mobile_8632848c-d399-4879-bb2e-c06478785a16.png",
+    "input_score": 0.08265489403069164
+  },
+  {
+    "task": "open exercise log calendar",
+    "image_path": "/data3/screenspot/images/mobile_3475adcf-26f0-43b9-8758-cae8601d33d1.png",
+    "input_score": 0.08265687221272289
+  },
+  {
+    "task": "set to repeat every monday",
+    "image_path": "/data3/screenspot/images/mobile_35047157-7939-4491-ab8d-4d1da41acc74.png",
+    "input_score": 0.08261594345959997
+  },
+  {
+    "task": "set an alarm for 7:40",
+    "image_path": "/data3/screenspot/images/mobile_39d89f43-f1df-40b7-a0db-eef4bc2521d0.png",
+    "input_score": 0.0823329893836442
+  },
+  {
+    "task": "sign up to zoom ",
+    "image_path": "/data3/screenspot/images/mobile_268e1246-9870-47c7-a702-cadd117e11d4.png",
+    "input_score": 0.0826456460243368
+  },
+  {
+    "task": "open hide sensitive information when switching tasks",
+    "image_path": "/data3/screenspot/images/mobile_085c4ffc-e423-4798-a09f-702ded3d1987.png",
+    "input_score": 0.08257234614700791
+  },
+  {
+    "task": "adjust accessibility settings",
+    "image_path": "/data3/screenspot/images/mobile_0b63fa69-df33-442d-b7ea-9393432f71ea.png",
+    "input_score": 0.08271575811945446
+  },
+  {
+    "task": "close the tab with the apple official website",
+    "image_path": "/data3/screenspot/images/mobile_9f4d72cc-149d-4613-b19a-759ee34d8a47.png",
+    "input_score": 0.08240697805387452
+  },
+  {
+    "task": "serch tab",
+    "image_path": "/data3/screenspot/images/mobile_9f4d72cc-149d-4613-b19a-759ee34d8a47.png",
+    "input_score": 0.08273066458134233
+  },
+  {
+    "task": "add a new empty tab group",
+    "image_path": "/data3/screenspot/images/mobile_76682c29-846c-4673-be8b-ebfbe0e5c9a9.png",
+    "input_score": 0.08253291100550886
+  },
+  {
+    "task": "search for the privacy report of a website",
+    "image_path": "/data3/screenspot/images/mobile_79ef2997-19a2-4520-8647-b1ad1fc00ce8.png",
+    "input_score": 0.08234426058102824
+  },
+  {
+    "task": "open documents",
+    "image_path": "/data3/screenspot/images/mobile_e8581791-9dca-4a18-a9c3-0ddd782aaf96.png",
+    "input_score": 0.08271153913002091
+  },
+  {
+    "task": "back to previous page",
+    "image_path": "/data3/screenspot/images/mobile_bdefb309-2aeb-4b5f-920b-1e9952f1ddfe.png",
+    "input_score": 0.08262527367365669
+  },
+  {
+    "task": "add profile picture",
+    "image_path": "/data3/screenspot/images/mobile_7532d8a8-0ee9-4aa6-9780-de5b481ef137.png",
+    "input_score": 0.08265553841165466
+  },
+  {
+    "task": "switching between 4g and 5g",
+    "image_path": "/data3/screenspot/images/mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png",
+    "input_score": 0.08234761501511761
+  },
+  {
+    "task": "open data roaming",
+    "image_path": "/data3/screenspot/images/mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png",
+    "input_score": 0.08270501630734091
+  },
+  {
+    "task": "back to cellular",
+    "image_path": "/data3/screenspot/images/mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png",
+    "input_score": 0.08270926403364716
+  },
+  {
+    "task": "view last month cellular data",
+    "image_path": "/data3/screenspot/images/mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png",
+    "input_score": 0.08260578533673638
+  },
+  {
+    "task": "select network",
+    "image_path": "/data3/screenspot/images/mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png",
+    "input_score": 0.08270531300703976
+  },
+  {
+    "task": "check the cellular of wechat",
+    "image_path": "/data3/screenspot/images/mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png",
+    "input_score": 0.08249106185039032
+  },
+  {
+    "task": "view social apps",
+    "image_path": "/data3/screenspot/images/mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png",
+    "input_score": 0.08269283226130604
+  },
+  {
+    "task": "search in app library",
+    "image_path": "/data3/screenspot/images/mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png",
+    "input_score": 0.08261296405974518
+  },
+  {
+    "task": "view travel apps",
+    "image_path": "/data3/screenspot/images/mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png",
+    "input_score": 0.08267441702560513
+  },
+  {
+    "task": "canel password input",
+    "image_path": "/data3/screenspot/images/mobile_59fde6e1-8df2-4009-ad8d-aa44bffd2bf2.png",
+    "input_score": 0.08261630932181199
+  },
+  {
+    "task": "switch language",
+    "image_path": "/data3/screenspot/images/mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png",
+    "input_score": 0.08269319652402603
+  },
+  {
+    "task": "open app automatic download",
+    "image_path": "/data3/screenspot/images/mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png",
+    "input_score": 0.08266260459237731
+  },
+  {
+    "task": "turn off the app automatic update",
+    "image_path": "/data3/screenspot/images/mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png",
+    "input_score": 0.0825527601216607
+  },
+  {
+    "task": "set notifications",
+    "image_path": "/data3/screenspot/images/mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png",
+    "input_score": 0.08274778768581917
+  },
+  {
+    "task": "open automatic download with cellular",
+    "image_path": "/data3/screenspot/images/mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png",
+    "input_score": 0.08260789108741308
+  },
+  {
+    "task": "back to settings",
+    "image_path": "/data3/screenspot/images/mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png",
+    "input_score": 0.08266920338461964
+  },
+  {
+    "task": "check personalized recommendations",
+    "image_path": "/data3/screenspot/images/mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png",
+    "input_score": 0.08268910659011883
+  },
+  {
+    "task": "books setting",
+    "image_path": "/data3/screenspot/images/mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png",
+    "input_score": 0.0827102519408702
+  },
+  {
+    "task": "apple store",
+    "image_path": "/data3/screenspot/images/mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png",
+    "input_score": 0.08272895872933067
+  },
+  {
+    "task": "check feishu",
+    "image_path": "/data3/screenspot/images/mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png",
+    "input_score": 0.0826593220322324
+  },
+  {
+    "task": "setting up airpods connection",
+    "image_path": "/data3/screenspot/images/mobile_16545bc1-c614-4dc3-a81c-3d349a93e07d.png",
+    "input_score": 0.08259821374674411
+  },
+  {
+    "task": "qr code",
+    "image_path": "/data3/screenspot/images/mobile_16545bc1-c614-4dc3-a81c-3d349a93e07d.png",
+    "input_score": 0.08274989181074575
+  },
+  {
+    "task": "view my account",
+    "image_path": "/data3/screenspot/images/mobile_b550b4ed-79ce-446a-a1c3-a164b314bfe8.png",
+    "input_score": 0.08265731638388228
+  },
+  {
+    "task": "check out jony j's album",
+    "image_path": "/data3/screenspot/images/mobile_b550b4ed-79ce-446a-a1c3-a164b314bfe8.png",
+    "input_score": 0.08257912709430479
+  },
+  {
+    "task": "add a new song to the album",
+    "image_path": "/data3/screenspot/images/mobile_6e041214-1095-476a-8779-04db83de5781.png",
+    "input_score": 0.08244262919458967
+  },
+  {
+    "task": "play this album",
+    "image_path": "/data3/screenspot/images/mobile_6e041214-1095-476a-8779-04db83de5781.png",
+    "input_score": 0.08265664644478059
+  },
+  {
+    "task": "pause the music",
+    "image_path": "/data3/screenspot/images/mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png",
+    "input_score": 0.08267476186699112
+  },
+  {
+    "task": "next song",
+    "image_path": "/data3/screenspot/images/mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png",
+    "input_score": 0.082731304866551
+  },
+  {
+    "task": "previous one",
+    "image_path": "/data3/screenspot/images/mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png",
+    "input_score": 0.08272262603726142
+  },
+  {
+    "task": "use airplay",
+    "image_path": "/data3/screenspot/images/mobile_ec01cb13-de9a-4a4b-9a79-5f810b034474.png",
+    "input_score": 0.08267673935194467
+  },
+  {
+    "task": "check the play list",
+    "image_path": "/data3/screenspot/images/mobile_ec01cb13-de9a-4a4b-9a79-5f810b034474.png",
+    "input_score": 0.08257631349699797
+  },
+  {
+    "task": "play the opening the channel (mixed)",
+    "image_path": "/data3/screenspot/images/mobile_e550d5f2-308d-4027-ad04-8c2ba9e8d2d1.png",
+    "input_score": 0.08243700732832836
+  },
+  {
+    "task": "view country music",
+    "image_path": "/data3/screenspot/images/mobile_86bad4a5-d11b-4f2d-b367-5180a49ca4b5.png",
+    "input_score": 0.08268670011189025
+  },
+  {
+    "task": "check out the yeedm album",
+    "image_path": "/data3/screenspot/images/mobile_86bad4a5-d11b-4f2d-b367-5180a49ca4b5.png",
+    "input_score": 0.0825592826257822
+  },
+  {
+    "task": "add this song to library",
+    "image_path": "/data3/screenspot/images/mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png",
+    "input_score": 0.08257796979657867
+  },
+  {
+    "task": "share song with someone",
+    "image_path": "/data3/screenspot/images/mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png",
+    "input_score": 0.08264642718535076
+  },
+  {
+    "task": "add this song to favorite",
+    "image_path": "/data3/screenspot/images/mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png",
+    "input_score": 0.08258233192062184
+  },
+  {
+    "task": "switch to song lyric",
+    "image_path": "/data3/screenspot/images/mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png",
+    "input_score": 0.08270387952160724
+  },
+  {
+    "task": "random music",
+    "image_path": "/data3/screenspot/images/mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png",
+    "input_score": 0.08272975104618582
+  },
+  {
+    "task": "sequential music playback",
+    "image_path": "/data3/screenspot/images/mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png",
+    "input_score": 0.08275316936540762
+  }
+]

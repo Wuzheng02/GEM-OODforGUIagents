@@ -1,0 +1,2652 @@
+[
+  {
+    "task": "Browse through diverse designs of running shoes for children",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050295741747051384
+  },
+  {
+    "task": "See different models of the kid\"s running shoes",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050310518445936224
+  },
+  {
+    "task": "Examine various models of running footwear for kids",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050367312698224954
+  },
+  {
+    "task": "Explore different styles of children\"s running footwear",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050513629346879245
+  },
+  {
+    "task": "Determine the color assortment for shoes in the children\"s segment.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050051452847439
+  },
+  {
+    "task": "Investigate the available color choices for children\"s footwear.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.05031413145550027
+  },
+  {
+    "task": "Identify the color variations available for shoes in the kid\"s category.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.05000736054861239
+  },
+  {
+    "task": "See what different color option there are for the kid\"s shoes section",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.04996144013094678
+  },
+  {
+    "task": "Navigate to the children\"s footwear section and set the maximum cost at 300 by dragging the upper limit of the price range bar to 300.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.048447608423762396
+  },
+  {
+    "task": "In the section for kid\"s shoes, adjust the price range so that the maximum price displayed is 300 by scrolling on the price filter until it represents 300.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.04799893235907985
+  },
+  {
+    "task": "For the kid\"s shoes section, reconfigure the price range such that the highest price is 300 by moving the right slider on the price range bar up to the 300 mark.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.04777256468729786
+  },
+  {
+    "task": "See the price range of the kid\"s shoe section and move the maximum price to 300 by horizontally scrolling the point to the 300 in the price range bar.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.04794287703296915
+  },
+  {
+    "task": "Go back to the main homepage",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.05048283690652376
+  },
+  {
+    "task": "Navigate back to the primary homepage",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050480347946845874
+  },
+  {
+    "task": "Proceed to the main front page",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.050456737030640866
+  },
+  {
+    "task": "Return to the start homepage",
+    "image_path": "/data3/omniact/data/data/web/asics/screen1.png",
+    "input_score": 0.05051124420520079
+  },
+  {
+    "task": "Look up for a model branded as \"upcourt 5\"",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.05002259027315563
+  },
+  {
+    "task": "Initiate a search for a product model called \"upcourt 5\"",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.049891749695673844
+  },
+  {
+    "task": "Conduct a search for a model referred to as \"upcourt 5\"",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.049813655981216794
+  },
+  {
+    "task": "Search for a model called \"upcourt 5\"",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.05016099211602654
+  },
+  {
+    "task": "Conduct a search for more data on GEL ROCKET 11 model",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.04986678715058789
+  },
+  {
+    "task": "Gather additional information on the GEL ROCKET 11 model",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.04998609193731614
+  },
+  {
+    "task": "Look up more specifics about the GEL ROCKET 11 model",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.05007174779019788
+  },
+  {
+    "task": "Get more details about GEL ROCKET 11 model",
+    "image_path": "/data3/omniact/data/data/web/asics/screen2.png",
+    "input_score": 0.05017882580786617
+  },
+  {
+    "task": "Navigate to the fourth picture in the row",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05018386284707679
+  },
+  {
+    "task": "Advance to the fourth photo in the lineup",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05020459593612834
+  },
+  {
+    "task": "View the image at fourth position in the sequence",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05000284357526763
+  },
+  {
+    "task": "see fourth image in the line",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05031413192031942
+  },
+  {
+    "task": "Pick the color aquamarine and select size M",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05021700471009233
+  },
+  {
+    "task": "Opt for the aquamarine color choice and choose M size",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05001530789522841
+  },
+  {
+    "task": "Choose the color aquamarine and select medium size",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05020677751218613
+  },
+  {
+    "task": "see aquamarine color and select size M",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05031617648178694
+  },
+  {
+    "task": "Inspect the aquamarine color choice, filter by Medium size, view further images and if none are appealing, close the browser window.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.04887512396322802
+  },
+  {
+    "task": "Check out the items in aquamarine color, select size Medium, go through the next images and if not interested, shut down the window.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.048626855738735715
+  },
+  {
+    "task": "Review the aquamarine color option and select medium size, scroll through additional images but then close the window if no items of interest are found.",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.048720106222904604
+  },
+  {
+    "task": " see aquamarine color and select size M and see next pictures, but couldn\"t find anything interesting so close the window",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.04901233887770038
+  },
+  {
+    "task": "Move the page down to check further options",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05024668759588392
+  },
+  {
+    "task": "Scroll a bit towards the bottom to see additional buttons",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.0501165589045011
+  },
+  {
+    "task": "Navigate down slightly to observe more functions",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05051839999985874
+  },
+  {
+    "task": "scroll down a little to see what other buttons they have",
+    "image_path": "/data3/omniact/data/data/web/asics/screen3.png",
+    "input_score": 0.05008248650035885
+  },
+  {
+    "task": "Navigate to the Billing Page in a new window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.05022778217855661
+  },
+  {
+    "task": "Open Billing Page on a new window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.05040963406744783
+  },
+  {
+    "task": "Move to the Billing Page on a separate window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.050185487620022964
+  },
+  {
+    "task": "Access the Billing Page by opening a new window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.050209388433804555
+  },
+  {
+    "task": "Right click to open Quote Page on a fresh tab and subsequently close the tab.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04977602413444688
+  },
+  {
+    "task": "Open the quote page in a new tab by right clicking, then proceed to close the tab.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04932722879084555
+  },
+  {
+    "task": "Right click to open the Quote page, then shut the newly opened tab.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.049867910296496135
+  },
+  {
+    "task": "Open Quote Page on a new tab and then close the tab",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04992083682058001
+  },
+  {
+    "task": "Input the Tracking Number \"A123456\" into the tracking search bar and submit the entry.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04913018324988938
+  },
+  {
+    "task": "Search the status given the Tracking Number \"A123456\"",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.049821462989825
+  },
+  {
+    "task": "Key in the Tracking Number \"A123456\" in the designated tracking field and hit the enter button.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04885346409192358
+  },
+  {
+    "task": "Insert the allocated Tracking Number \"A123456\" into the tracking system and confirm the query by pressing enter.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04896306448121037
+  },
+  {
+    "task": "Change the last character of the tracking number to \"0\" and search",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04955460379964856
+  },
+  {
+    "task": "Replace end digit of parcel tracking number with \"0\" and search",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04994839561882623
+  },
+  {
+    "task": "Revise the last character in tracking ID to \"0\" and proceed with search",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.04959219060499125
+  },
+  {
+    "task": "Modify the final digit of the tracking code to \"0\" and initiate search",
+    "image_path": "/data3/omniact/data/data/web/ups/screen1.png",
+    "input_score": 0.049621801372926745
+  },
+  {
+    "task": "Deactivate Interactive Step-by-step Instructions",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.050635498956507485
+  },
+  {
+    "task": "Disable the Guided Steps feature",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.0505258570497792
+  },
+  {
+    "task": "Switch off the On-screen Guidance",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05053420076270899
+  },
+  {
+    "task": "Turn off the Guided Steps",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05052064157933369
+  },
+  {
+    "task": "Ascend to explore the list of available countries or territories.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05008380395825843
+  },
+  {
+    "task": "Scroll upwards to check out the selection for countries or territories.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05018539669867679
+  },
+  {
+    "task": "Navigate up to view the choices of nations or regions.",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05012897397482846
+  },
+  {
+    "task": "Scroll up to see the options for the country or territory",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.04996469683971004
+  },
+  {
+    "task": "Navigate to the registration page in a separate window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05009457679371168
+  },
+  {
+    "task": "Open the Sign Up page in a new browser tab",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.050086485326878136
+  },
+  {
+    "task": "Launch the Sign Up interface on a different window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.05021386297405921
+  },
+  {
+    "task": "Go to the Sign up page on a new window",
+    "image_path": "/data3/omniact/data/data/web/ups/screen2.png",
+    "input_score": 0.050080607219798616
+  },
+  {
+    "task": "Locate the package in the city of \"Somerville\"",
+    "image_path": "/data3/omniact/data/data/web/ups/screen3.png",
+    "input_score": 0.050132760016579576
+  },
+  {
+    "task": "Search the package given the City \"Somerville\"",
+    "image_path": "/data3/omniact/data/data/web/ups/screen3.png",
+    "input_score": 0.050284510338272234
+  },
+  {
+    "task": "Find the package residing in \"Somerville\" city",
+    "image_path": "/data3/omniact/data/data/web/ups/screen3.png",
+    "input_score": 0.05022488712808721
+  },
+  {
+    "task": "Execute a search for the package located in \"Somerville\"",
+    "image_path": "/data3/omniact/data/data/web/ups/screen3.png",
+    "input_score": 0.050072127307822505
+  },
+  {
+    "task": "Buy the course now",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen1.png",
+    "input_score": 0.050538540607874397
+  },
+  {
+    "task": "Click on the purchase option",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen1.png",
+    "input_score": 0.050393659502898557
+  },
+  {
+    "task": "Navigate to the \"new\" courses, then select and click on the third course displayed.",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.049368694431138595
+  },
+  {
+    "task": "Go to the \"new\" courses tab and click on the third course presented.",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.04957495540166502
+  },
+  {
+    "task": "Choose the \"new\" courses filter and then select the third course in the list.",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.04934936950923586
+  },
+  {
+    "task": "Check out the \"new\" courses and select the third course",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.04980461765982972
+  },
+  {
+    "task": "Navigate back to Udemy main page",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.05059485663007176
+  },
+  {
+    "task": "Redirect your webpage to Udemy home site",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.05055102724780781
+  },
+  {
+    "task": "Return to the homepage of Udemy",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.05042449849812518
+  },
+  {
+    "task": "Go back to Udemy homepage",
+    "image_path": "/data3/omniact/data/data/web/udemy/screen2.png",
+    "input_score": 0.05066545307471461
+  },
+  {
+    "task": "Look into the 15GB Plan specifics",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.05027976309881016
+  },
+  {
+    "task": "Gain information about the 15GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.05023289602089384
+  },
+  {
+    "task": "Find more about 15GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.050332028164267247
+  },
+  {
+    "task": "View Details of 5GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.05040800805753539
+  },
+  {
+    "task": "Inspect Details of 5GB Package",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.05046426119683488
+  },
+  {
+    "task": "Explore details of the 15GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.05017204674466509
+  },
+  {
+    "task": "Show Features of 5GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.050396841253484766
+  },
+  {
+    "task": "Display Information of 5GB Plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen1.png",
+    "input_score": 0.0504028857878053
+  },
+  {
+    "task": "Activate a plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen2.png",
+    "input_score": 0.05066514390839232
+  },
+  {
+    "task": "Enable a plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen2.png",
+    "input_score": 0.05063476929148174
+  },
+  {
+    "task": "Set in motion a plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen2.png",
+    "input_score": 0.05033416537885106
+  },
+  {
+    "task": "Implement a plan",
+    "image_path": "/data3/omniact/data/data/web/mint/screen2.png",
+    "input_score": 0.05064207288455288
+  },
+  {
+    "task": "Choose English as your language (US version)",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.05027916987800262
+  },
+  {
+    "task": "Opt for the United States English version",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.05039362424610947
+  },
+  {
+    "task": "Toggle to English United States setting",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.05053143567070616
+  },
+  {
+    "task": "Select English United States",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.05067713211487337
+  },
+  {
+    "task": "Locate receipts",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.05087443120814099
+  },
+  {
+    "task": "Find purchase slips",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.050750838691389334
+  },
+  {
+    "task": "Retrieve invoice records",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.050780909957418456
+  },
+  {
+    "task": "Search Receipts",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen2.png",
+    "input_score": 0.050750655752328844
+  },
+  {
+    "task": "Access to Packages area via \"bundle & save\" button",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen3.png",
+    "input_score": 0.05021972478526698
+  },
+  {
+    "task": "Click on \"Packages: bundle & save\" redirection",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen3.png",
+    "input_score": 0.05021299656745737
+  },
+  {
+    "task": "Navigate to the \"Packages: bundle & save\" section",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen3.png",
+    "input_score": 0.05001398755380237
+  },
+  {
+    "task": "Redirects to Packages: bundle & save",
+    "image_path": "/data3/omniact/data/data/web/unitedairlines/screen3.png",
+    "input_score": 0.050393545946367205
+  },
+  {
+    "task": "Input the \"XZ78898*\" coupon code.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen1.png",
+    "input_score": 0.050123857643626625
+  },
+  {
+    "task": "Apply the \"XZ78898*\" discount code.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen1.png",
+    "input_score": 0.050123132737058325
+  },
+  {
+    "task": "Submit the \"XZ78898*\" promo code.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen1.png",
+    "input_score": 0.05019128856805437
+  },
+  {
+    "task": "Enter the \"XZ78898*\" promotional code",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen1.png",
+    "input_score": 0.050122913375295106
+  },
+  {
+    "task": "Activate the search feature.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen2.png",
+    "input_score": 0.0505580228053198
+  },
+  {
+    "task": "Locate and select the search option.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen2.png",
+    "input_score": 0.050312147881063154
+  },
+  {
+    "task": "Click on the search icon.",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen2.png",
+    "input_score": 0.05046387801262689
+  },
+  {
+    "task": "Search the question",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen2.png",
+    "input_score": 0.05058781594403141
+  },
+  {
+    "task": "Proceed to the about page",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.05046565754393544
+  },
+  {
+    "task": "Switch to about page",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.05060516280366516
+  },
+  {
+    "task": "Navigate to the about page",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.05045949046201868
+  },
+  {
+    "task": "Redirect to about page",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.050637889073959934
+  },
+  {
+    "task": "Search 50 miles around Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.050468571147592
+  },
+  {
+    "task": "Initiate a search operation covering 50 miles from Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.05008971958321788
+  },
+  {
+    "task": "Launch an inquiry with a 50 miles range around Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.05006751541456989
+  },
+  {
+    "task": "Conduct a search within a 50-mile radius of Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/hertz/screen3.png",
+    "input_score": 0.050030786247400955
+  },
+  {
+    "task": "Use the sign in button at the top to enter credentials",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.049892415011140875
+  },
+  {
+    "task": "Access by clicking on the sign in button present at the top",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.04973851278575722
+  },
+  {
+    "task": "Initiate the sign in process by clicking the button on top",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.04981415779899656
+  },
+  {
+    "task": "Sign in using the button on top",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.050194474693248815
+  },
+  {
+    "task": "Check out the details of the second attraction listing",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.05010704308783847
+  },
+  {
+    "task": "View details about the second listing in attractions",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.05021210920777361
+  },
+  {
+    "task": "Inspect the second listing in the attractions category",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.05022887441983158
+  },
+  {
+    "task": "Review the information for the second listing under attraction",
+    "image_path": "/data3/omniact/data/data/web/booking/screen1.png",
+    "input_score": 0.050038370649559225
+  },
+  {
+    "task": "Press on \"List your property\" button to put up your property on booking.com.",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.049637792282284106
+  },
+  {
+    "task": "Navigate to booking.com and proceed with property listing by clicking on \"List your property\".",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.049784884986942
+  },
+  {
+    "task": "Forefront your property on booking.com through the \"List your property\" button.",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.04970442376955111
+  },
+  {
+    "task": "List my property on booking.com using the button List your property",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.0499023315856663
+  },
+  {
+    "task": "change current currency to the third option",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.050308792701973956
+  },
+  {
+    "task": "Switch to the third currency listed in the dropdown menu",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.05010749903103882
+  },
+  {
+    "task": "Replace the current currency with the third one from the options",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.04987219985690818
+  },
+  {
+    "task": "Select the third currency option from the dropdown menu",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.05021098932432495
+  },
+  {
+    "task": "Look for available flights by using the \"search for flights\" button.",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.049810221326833944
+  },
+  {
+    "task": "Use the button labeled \"search for flights\" to find flights.",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.05000905774675745
+  },
+  {
+    "task": "Find flights by clicking on the \"search for flights\" function.",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.049922551748894935
+  },
+  {
+    "task": "Search for flights using the search for flights button",
+    "image_path": "/data3/omniact/data/data/web/booking/screen2.png",
+    "input_score": 0.050209272575119736
+  },
+  {
+    "task": "Seek assistance from customer service",
+    "image_path": "/data3/omniact/data/data/web/booking/screen3.png",
+    "input_score": 0.050575062127010746
+  },
+  {
+    "task": "get more help from customer support",
+    "image_path": "/data3/omniact/data/data/web/booking/screen3.png",
+    "input_score": 0.05044675659882842
+  },
+  {
+    "task": "Call for more customer service assistance",
+    "image_path": "/data3/omniact/data/data/web/booking/screen3.png",
+    "input_score": 0.05051379400796326
+  },
+  {
+    "task": "Request more aid from customer support",
+    "image_path": "/data3/omniact/data/data/web/booking/screen3.png",
+    "input_score": 0.05046489659546321
+  },
+  {
+    "task": "Reveal all Pittsburgh-based stores",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.05068603131691326
+  },
+  {
+    "task": "Visualize all shopping outlets in Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.0505205208338301
+  },
+  {
+    "task": "Show all stores in Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.05061668267928533
+  },
+  {
+    "task": "Display every retail location in Pittsburgh",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050450809679831586
+  },
+  {
+    "task": "Adjust the language option",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050539813719535864
+  },
+  {
+    "task": "Modify language setting",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050716286835471004
+  },
+  {
+    "task": "Switch language preference",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050723291442778685
+  },
+  {
+    "task": "Change choice of Language",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.05058642787637666
+  },
+  {
+    "task": "Navigate to the Costco Store webpage",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.05061717576052806
+  },
+  {
+    "task": "Proceed to Costco Store site",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050748800150605566
+  },
+  {
+    "task": "Go to Costco Store online",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050721913127802894
+  },
+  {
+    "task": "Redirect  to Costco Store",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.05067735792133891
+  },
+  {
+    "task": "Search for \"Bananas\"",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050607406206204325
+  },
+  {
+    "task": "Initiate a find operation for \"Bananas\"",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050350403908308985
+  },
+  {
+    "task": "Conduct a search for \"Bananas\"",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050423603734447424
+  },
+  {
+    "task": "Lookup for \"Bananas\"",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen1.png",
+    "input_score": 0.050671414319736555
+  },
+  {
+    "task": "Click on a particular store location in the list",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.049974695727971724
+  },
+  {
+    "task": "Choose a specific store location",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.050376925945263364
+  },
+  {
+    "task": "Pick a unique store locale from the options",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.05021703312750338
+  },
+  {
+    "task": "Select a particular store location",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.05043537461211925
+  },
+  {
+    "task": "Move to the Categories Section",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.050518386367967655
+  },
+  {
+    "task": "Proceed to the Categories Section",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.05057340739764077
+  },
+  {
+    "task": "Navigate to the Categories Section",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.05057300769241764
+  },
+  {
+    "task": "Head to the Categories Section",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen2.png",
+    "input_score": 0.05051785737298237
+  },
+  {
+    "task": "Redirect me to the sign in page",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.050329353493315625
+  },
+  {
+    "task": "Transport me to the authentication page",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.050445002853172105
+  },
+  {
+    "task": "Navigate me to the account access page",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.05036215861219914
+  },
+  {
+    "task": "Take me to the login page",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.0504168749049756
+  },
+  {
+    "task": "Look for items using the postal code 15217",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.049951780529610156
+  },
+  {
+    "task": "Find products using the 15217 zipcode",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.05004874514892761
+  },
+  {
+    "task": "Utilize the 15217 postal code to locate products",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.04994726720774816
+  },
+  {
+    "task": "Search for products based on a zipcode 15217",
+    "image_path": "/data3/omniact/data/data/web/instacart/screen3.png",
+    "input_score": 0.049906540443058894
+  },
+  {
+    "task": "Initiate the culture and recreation services located in the lower section of the interface.",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen2.png",
+    "input_score": 0.04953356121649081
+  },
+  {
+    "task": "Access the culture and recreation services from the bottom panel.",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen2.png",
+    "input_score": 0.05002658867518077
+  },
+  {
+    "task": "From the lower dashboard, launch the culture and recreation services.",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen2.png",
+    "input_score": 0.04998719784230273
+  },
+  {
+    "task": "Open the culture and recreation services from the lower panel",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen2.png",
+    "input_score": 0.04996698296934219
+  },
+  {
+    "task": "Go back to the home page by clicking on the New York State icon",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen3.png",
+    "input_score": 0.049834811372304194
+  },
+  {
+    "task": "Click on the New York State logo to return to the homepage",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen3.png",
+    "input_score": 0.04999859899140093
+  },
+  {
+    "task": "Navigate back to the homepage by selecting the New York State symbol",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen3.png",
+    "input_score": 0.05008058541867593
+  },
+  {
+    "task": "Use the State of New York emblem to go back to the main website page",
+    "image_path": "/data3/omniact/data/data/web/nygov/screen3.png",
+    "input_score": 0.04979876878861009
+  },
+  {
+    "task": "Choose the TVs option to go two pages back",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.050233688795542616
+  },
+  {
+    "task": "Click on TVs to backtrack two pages",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.05054816423599303
+  },
+  {
+    "task": "Navigate two pages backwards by selecting the TVs option",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.050328734500384546
+  },
+  {
+    "task": "Go back two pages by clicking on TVs",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.05038454621201371
+  },
+  {
+    "task": "Press the Samsung logo to go back to the home page",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.05015032548584697
+  },
+  {
+    "task": "Navigate to the main page by selecting the Samsung logo",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.05018156267689097
+  },
+  {
+    "task": "To return to the main page, click on the Samsung symbol",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.04988926031675747
+  },
+  {
+    "task": "Go back to the home page by clicking on the Samsung icon",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.04996118356483607
+  },
+  {
+    "task": "Write \"Galaxy\" in the search bar and press enter to proceed.",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.04982277600663806
+  },
+  {
+    "task": "Input \"Galaxy\" in the search field and submit",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.049970463464589346
+  },
+  {
+    "task": "Navigate to the search section, type Galaxy and hit enter",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.04999595196533057
+  },
+  {
+    "task": "Search for Galaxy in the search button",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen2.png",
+    "input_score": 0.05025310725869788
+  },
+  {
+    "task": "Use the top navigation bar to reach the shop menu",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.050100438756491644
+  },
+  {
+    "task": "Navigate to the shop section using the main menu",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.05015266624680054
+  },
+  {
+    "task": "Access the shopping interface from the primary menu",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.05016341060038009
+  },
+  {
+    "task": "Open the shop menu from the top menu",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.050247874322809936
+  },
+  {
+    "task": "Select the heart symbol to add the item to your preferred list",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.04984729504370644
+  },
+  {
+    "task": "Hit the heart button to include this product in your wish list",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.04988112009361914
+  },
+  {
+    "task": "Press on the heart-shaped icon to mark this product for your wish list",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.04979109823707845
+  },
+  {
+    "task": "Click on the heart icon to add the product to the wishlist",
+    "image_path": "/data3/omniact/data/data/web/samsung/screen3.png",
+    "input_score": 0.04979191964055337
+  },
+  {
+    "task": "Move to the initial page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.050441506196040445
+  },
+  {
+    "task": "Proceed to the start page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05048695311064157
+  },
+  {
+    "task": "Navigate to the main page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05050040521469014
+  },
+  {
+    "task": "Go to the homepage",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.0505663820913018
+  },
+  {
+    "task": "Update the settings for privacy",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.050448199577184376
+  },
+  {
+    "task": "Adjust the privacy settings",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.050604873256100164
+  },
+  {
+    "task": "Modify the privacy preferences",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05065834923940319
+  },
+  {
+    "task": "Change the privacy choices",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.050553741822860966
+  },
+  {
+    "task": "Browse event activities on Indeed",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05059223527065255
+  },
+  {
+    "task": "Navigate to Indeed\"s upcoming events",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05064988723331757
+  },
+  {
+    "task": "Check all the events happening at Indeed",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.05036490724902473
+  },
+  {
+    "task": "Visit the ongoing events section of Indeed",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen1.png",
+    "input_score": 0.0503525189323429
+  },
+  {
+    "task": "Locate and peruse company feedback sessions.",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05045792645933671
+  },
+  {
+    "task": "Explore reviews about corporate entities.",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05063549286278839
+  },
+  {
+    "task": "Navigate to the page for company reviews.",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.0503272179733403
+  },
+  {
+    "task": "Read reviews about Companies",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05067073421863734
+  },
+  {
+    "task": "Search for more vacancies under \"Crew Members\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05042791313774709
+  },
+  {
+    "task": "Locate additional job opportunities for \"Crew Members\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050440389024061776
+  },
+  {
+    "task": "Explore further employment openings for \"Crew Members\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050418637979343664
+  },
+  {
+    "task": "Find more job openings from \"Crew Members\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050402051169918624
+  },
+  {
+    "task": "Proceed to Pay Details Page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05066507160052325
+  },
+  {
+    "task": "Visit Find Salaries Page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.0506881088463748
+  },
+  {
+    "task": "Navigate to Wage Information tab",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05071379598989886
+  },
+  {
+    "task": "Head to Earnings Info Section",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050599259218196795
+  },
+  {
+    "task": "Look for further information about the position \"Security Officer\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050189162335801056
+  },
+  {
+    "task": "Search for more data related to the role \"Security Officer\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.050122821924161405
+  },
+  {
+    "task": "Find more details about the job \"Security Officer\"",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen2.png",
+    "input_score": 0.05028966727166854
+  },
+  {
+    "task": "Remove the existing text \"Data Analyst\" from the job search field and initiate search",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.04961966249113818
+  },
+  {
+    "task": "Erase the job role \"Project Manager\" and commence search.",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05007506722581883
+  },
+  {
+    "task": "Delete the currently entered job title \"Software Developer\" and perform search",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.04989727102510685
+  },
+  {
+    "task": "Clear the job name \"Warehouse associate\" and search",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05016539024882067
+  },
+  {
+    "task": "Access the extended benefits detail page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.050412989599122826
+  },
+  {
+    "task": "Visit More Benefits Page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05075180162895689
+  },
+  {
+    "task": "Navigate to the expanded benefits page",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05044053981164334
+  },
+  {
+    "task": "Proceed to the More Benefits section",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05050711190116824
+  },
+  {
+    "task": "Dislike the job recommendation",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05057487844670856
+  },
+  {
+    "task": "Mark the job suggestion as not preferred",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05034769772965203
+  },
+  {
+    "task": "Show disapproval for the recommended job",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05042844945841901
+  },
+  {
+    "task": "Opt to reject the suggested job opening",
+    "image_path": "/data3/omniact/data/data/web/indeed/screen3.png",
+    "input_score": 0.05040818678303903
+  },
+  {
+    "task": "To check out various departments, click on the \"departments\" tab.",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen1.png",
+    "input_score": 0.05001929400252624
+  },
+  {
+    "task": "Navigate to the \"departments\" section by clicking on the respective tab.",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen1.png",
+    "input_score": 0.049933821115537264
+  },
+  {
+    "task": "Explore different sections by selecting the \"departments\" tab.",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen1.png",
+    "input_score": 0.05016453817987829
+  },
+  {
+    "task": "Click on the departments\" tab to explore various departments",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen1.png",
+    "input_score": 0.05021019514616598
+  },
+  {
+    "task": "Open \"Treat your pup all fall\"",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05040040765053084
+  },
+  {
+    "task": "Click on \"Treat your pup all fall\" category",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.050119118192206616
+  },
+  {
+    "task": "Select the option \"Treat your pup all fall\"",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05022207346122675
+  },
+  {
+    "task": "Navigate to \"Treat your pup all fall\" section",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05024624014807443
+  },
+  {
+    "task": "Click on the cart icon in the menu bar to view your cart",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.04979694494215025
+  },
+  {
+    "task": "Select the shopping cart option from the menu to open the cart",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.04982676461025198
+  },
+  {
+    "task": "Click on the cart button in the menu to access your shopping cart",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.049741185447845324
+  },
+  {
+    "task": "Open the cart through the cart button in the menu",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.049976532621493826
+  },
+  {
+    "task": "Go to the Wicked party decorations and supplies webpage",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.050286649285947976
+  },
+  {
+    "task": "Proceed to the page dedicated to Wicked party supplies",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05029271998241058
+  },
+  {
+    "task": "Navigate to the Wicked themed party supplies webpage",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.050454735227304565
+  },
+  {
+    "task": "Explore the Wicked party supplies page",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.050436791489349264
+  },
+  {
+    "task": "Navigate to the shop decor section by selecting the shop decor card",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05013245700704657
+  },
+  {
+    "task": "Access the shop decor page by pressing on the shop decor card",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.050046552912120096
+  },
+  {
+    "task": "Proceed to the shop decor webpage via the shop decor card",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05023535769224658
+  },
+  {
+    "task": "Open shop decor page by clicking on the shop decor card",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.0502179002549558
+  },
+  {
+    "task": "Access My Items menu",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05070582516375202
+  },
+  {
+    "task": "Navigate to My Items section",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05063113554156751
+  },
+  {
+    "task": "Proceed to My Items tab",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05063604744774882
+  },
+  {
+    "task": "Open My Items window",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen2.png",
+    "input_score": 0.05066797679646882
+  },
+  {
+    "task": "Insert active product into the \"My Items\" category",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.050156688780021136
+  },
+  {
+    "task": "Incorporate the existing product to \"My Items\"",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05033436088916721
+  },
+  {
+    "task": "Add current product to \"My Items\"",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05044876070247082
+  },
+  {
+    "task": "Include present item in \"My Items\" section",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05019986044873938
+  },
+  {
+    "task": "Navigate back to \"Sports & Outdoors\" category",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.050331121182349975
+  },
+  {
+    "task": "Redirect your page to \"Sports & Outdoors\" section",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.050270776139465956
+  },
+  {
+    "task": "Go back to Sports & Outdoors page",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.050492137484590596
+  },
+  {
+    "task": "Find your way back to \"Sports & Outdoors\" page",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05015366507049348
+  },
+  {
+    "task": "Zoom in to the product image",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05033896875792813
+  },
+  {
+    "task": "Magnify the item image",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05050921140105171
+  },
+  {
+    "task": "Enlarge the product photo",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05054062509304888
+  },
+  {
+    "task": "Expand the picture of the product",
+    "image_path": "/data3/omniact/data/data/web/walmart/screen3.png",
+    "input_score": 0.05030558118932251
+  },
+  {
+    "task": "Proceed to upload a picture.",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen1.png",
+    "input_score": 0.05052524697738225
+  },
+  {
+    "task": "Navigate and post a photograph.",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen1.png",
+    "input_score": 0.05050428694958182
+  },
+  {
+    "task": "Commence the process of photo sharing.",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen1.png",
+    "input_score": 0.050335641528247495
+  },
+  {
+    "task": "Redirect to post a photo.",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen1.png",
+    "input_score": 0.05053950307550507
+  },
+  {
+    "task": "Access the Saved Trips feature",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen2.png",
+    "input_score": 0.05056025026918518
+  },
+  {
+    "task": "Navigate to the Trips page",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen2.png",
+    "input_score": 0.05054362054129692
+  },
+  {
+    "task": "Proceed to the Trips section",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen2.png",
+    "input_score": 0.05047293830996566
+  },
+  {
+    "task": "Open Trips page",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen2.png",
+    "input_score": 0.05071822374564418
+  },
+  {
+    "task": "Reload the cruises page",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.050651239973901134
+  },
+  {
+    "task": "Go back to the cruises page after refreshing",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.050401893134094884
+  },
+  {
+    "task": "Navigate to the cruises page once again",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.050412531077952766
+  },
+  {
+    "task": "Refresh to the cruises page",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.05056045198211483
+  },
+  {
+    "task": "Check flights availability",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.050767926986668266
+  },
+  {
+    "task": "View available flights",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.050728042314734795
+  },
+  {
+    "task": "Assess available flight schedules",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.05071531873696131
+  },
+  {
+    "task": "Look at flight options",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen3.png",
+    "input_score": 0.05063623178283061
+  },
+  {
+    "task": "Select the option for Restaurants to view proximity dining options",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05024390102966474
+  },
+  {
+    "task": "Click Restaurants tab to open nearby Restaurants",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.0506806662478151
+  },
+  {
+    "task": "Activate the Restaurants tab to locate nearby food places",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.0504249634325583
+  },
+  {
+    "task": "Engage the Restaurants button to display local eateries",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05038941374680193
+  },
+  {
+    "task": "Navigate to review page",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05062957339126588
+  },
+  {
+    "task": "Open page to write review",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05050185613419599
+  },
+  {
+    "task": "Proceed to the review writing section",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05039822386478798
+  },
+  {
+    "task": "Access the page for writing reviews",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05040026167027178
+  },
+  {
+    "task": "Initiate a web search for The Priory Hotel",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05030177001717488
+  },
+  {
+    "task": "Conduct an online search for The Priory Hotel",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.050295324823248985
+  },
+  {
+    "task": "Look up The Priory Hotel online",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.050577444964409565
+  },
+  {
+    "task": "Search for The Priory Hotel",
+    "image_path": "/data3/omniact/data/data/web/tripadvisor/screen4.png",
+    "input_score": 0.05052377872377509
+  },
+  {
+    "task": "Transition to the primary interface menu",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.050418249954391085
+  },
+  {
+    "task": "Go to Main  Menu",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.050502960553052784
+  },
+  {
+    "task": "Proceed to the central menu screen",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.05049903179579045
+  },
+  {
+    "task": "Navigate to the primary menu",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.050540906161239775
+  },
+  {
+    "task": "Search for \"Software Intern\" roles",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.05042505701060874
+  },
+  {
+    "task": "Look up for the \"Software Intern\" job positions",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.05024352056140039
+  },
+  {
+    "task": "Find job postings for \"Software Intern\" occupation",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.05043080246668504
+  },
+  {
+    "task": "Locate \"Software Intern\" roles",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen1.png",
+    "input_score": 0.050613163103588606
+  },
+  {
+    "task": "See location page",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05067056445928659
+  },
+  {
+    "task": "Navigate to locations page",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05064171096318669
+  },
+  {
+    "task": "Access locations page",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05072248787730462
+  },
+  {
+    "task": "Open locations page",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05069599850479325
+  },
+  {
+    "task": "Enter into your Google account",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.050496244981886124
+  },
+  {
+    "task": "Log in to your Google profile",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05035345688221425
+  },
+  {
+    "task": "Access your Gmail profile",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.050699043774490124
+  },
+  {
+    "task": "Sign In to your google account",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05046456871590319
+  },
+  {
+    "task": "Proceed towards Europe",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05075615803275803
+  },
+  {
+    "task": "Make a move to Europe",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05042011079336458
+  },
+  {
+    "task": "Navigate to Europe",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.05075448916564598
+  },
+  {
+    "task": "Redirect to Europe",
+    "image_path": "/data3/omniact/data/data/web/googlecareers/screen2.png",
+    "input_score": 0.050751546033811386
+  },
+  {
+    "task": "Find a title that a user has copied",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.050192276308915915
+  },
+  {
+    "task": "Copy Entire Website",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.05077943442750255
+  },
+  {
+    "task": "Search for \"Killers of the Flower Moon\"",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.05032117297389547
+  },
+  {
+    "task": "Lookup for \"Killers of the Flower Moon\"",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.050392724453540906
+  },
+  {
+    "task": "Execute a search for \"Killers of the Flower Moon\"",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.05014492912278121
+  },
+  {
+    "task": "Input \"Killers of the Flower Moon\" in the search bar",
+    "image_path": "/data3/omniact/data/data/web/amc/screen1.png",
+    "input_score": 0.049866724069478785
+  },
+  {
+    "task": "Input user’s email address into the appropriate field",
+    "image_path": "/data3/omniact/data/data/web/amc/screen3.png",
+    "input_score": 0.05020865506811264
+  },
+  {
+    "task": "Enter the User’s Email",
+    "image_path": "/data3/omniact/data/data/web/amc/screen3.png",
+    "input_score": 0.05050175134041829
+  },
+  {
+    "task": "Type in the user\"s email id into the designated field",
+    "image_path": "/data3/omniact/data/data/web/amc/screen3.png",
+    "input_score": 0.04998136485761157
+  },
+  {
+    "task": "Feed the user’s email id into the email input field",
+    "image_path": "/data3/omniact/data/data/web/amc/screen3.png",
+    "input_score": 0.050053729174849466
+  },
+  {
+    "task": "Access the Student Experience drop down options",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05040628573919302
+  },
+  {
+    "task": "Click on the Student Experience drop down menu",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05030328837448932
+  },
+  {
+    "task": "Navigate to the Student Experience drop down list",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05038359325233487
+  },
+  {
+    "task": "Open Student Experience Drop Down",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05070819405183644
+  },
+  {
+    "task": "Locate and open CMU Tartans profile on Instagram",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05036974476299777
+  },
+  {
+    "task": "Find CMU Tartans on Instagram",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05061465763564556
+  },
+  {
+    "task": "Search for CMU Tartans Instagram account",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.0505122902635266
+  },
+  {
+    "task": "Navigate to the CMU Tartans Instagram page",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05050356640056578
+  },
+  {
+    "task": "Go back to Homepage",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05067593162334466
+  },
+  {
+    "task": "Return to the site\"s homepage",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05052509990435366
+  },
+  {
+    "task": "Redirect to the start page",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.05048265740251189
+  },
+  {
+    "task": "Navigate back to the main page",
+    "image_path": "/data3/omniact/data/data/web/cmu/screen1.png",
+    "input_score": 0.0504501518541823
+  },
+  {
+    "task": "Utilize the Log in button to get access to an account",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.04999859588198435
+  },
+  {
+    "task": "Access an account through the Log in option",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.05015803315564047
+  },
+  {
+    "task": "Select the Log in option to enter an account",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.05012240218460797
+  },
+  {
+    "task": "Log in to an account using the Log in button",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.0499442946636949
+  },
+  {
+    "task": "Go back to the home page by  clicking on the aramex icon",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.0497708681294987
+  },
+  {
+    "task": "Return to the start page by selecting the aramex symbol.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.049961690579498286
+  },
+  {
+    "task": "Reach the principal interface through the aramex icon.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.05017625546911592
+  },
+  {
+    "task": "Navigate to the main page by clicking on the aramex logo.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen1.png",
+    "input_score": 0.04992363569295664
+  },
+  {
+    "task": "Access the page for domestic shipping costs calculation",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.050345181373188365
+  },
+  {
+    "task": "Proceed to the domestic shipping tariff calculation page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.05049732249114297
+  },
+  {
+    "task": "Navigate to the domestic dispatch cost computation page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.050433831571246424
+  },
+  {
+    "task": "Open the page to calculate domestic shipping rates",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.050325028211229327
+  },
+  {
+    "task": "Click the Instagram icon placed at the end of the webpage to open the Aramex Instagram page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.04953207540435211
+  },
+  {
+    "task": "Select the Instagram logo in the bottom panel to visit the Aramex Instagram account",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.049787054312068466
+  },
+  {
+    "task": "Navigate to Aramex\"s Instagram profile by clicking the Instagram symbol at the footer of the page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.04968320779177818
+  },
+  {
+    "task": "Open aramex instagram page by clicking on the instagram icon in the lower panel",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen2.png",
+    "input_score": 0.04979127356222994
+  },
+  {
+    "task": "Access the 2023 Q2 Investment Presentation through the button inside the Resource tab",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.0494938664226613
+  },
+  {
+    "task": "Click on the button in the Resources menu to download the 2nd Quarter 2023 Investor\"s Report",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04916168679036032
+  },
+  {
+    "task": "Obtain the quarter 2 2023 investment guide by clicking on the link within the Resources section",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.049149965887205264
+  },
+  {
+    "task": "Download the Q2 2023 Investor Presentation by clicking on a button in the Resources menu",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.0492780161183754
+  },
+  {
+    "task": "Click on the Log in button in the top right panel to redirect to the log in page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04928333076526788
+  },
+  {
+    "task": "Select the Log in button located at the top right of your screen to navigate to the login screen",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04925004899493977
+  },
+  {
+    "task": "Access the login page by clicking on the Log in button positioned in the top right corner",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04945017027518184
+  },
+  {
+    "task": "Proceed to the login page by selecting the Log in button in the upper right section of the page",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04914622734113767
+  },
+  {
+    "task": "Search for careers using the search button",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.05026436160801932
+  },
+  {
+    "task": "Click on the search button, input \"careers\" and press enter to find related results.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04933725484215468
+  },
+  {
+    "task": "Use the search button to find possible \"careers\" by typing it in and pressing enter.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.049402393778829726
+  },
+  {
+    "task": "Locate and click on the search icon and type in \"careers\" before hitting enter.",
+    "image_path": "/data3/omniact/data/data/web/aramex/screen3.png",
+    "input_score": 0.04945233102656758
+  },
+  {
+    "task": "Proceed to the subsequent picture on the right side",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.050014853031391096
+  },
+  {
+    "task": "Navigate to the next image on the right",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05018614646110237
+  },
+  {
+    "task": "move picture right",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05063528739449136
+  },
+  {
+    "task": "Shift the image to the right",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.050309195707096556
+  },
+  {
+    "task": "Pick property to my favored collection",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05051095471320841
+  },
+  {
+    "task": "Add listed property to preferred list",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.050494928770834814
+  },
+  {
+    "task": "Include chosen apartment to favorite range",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05056015325247757
+  },
+  {
+    "task": "Add apartment to my favorite",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05059446664583468
+  },
+  {
+    "task": "access application menu",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05068632763846475
+  },
+  {
+    "task": "navigate to menu",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05067044717973337
+  },
+  {
+    "task": "open menu",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.05074464364973374
+  },
+  {
+    "task": "initiate menu window",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen1.png",
+    "input_score": 0.050745908540443516
+  },
+  {
+    "task": "Navigate to the succeeding image",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.050561873918657636
+  },
+  {
+    "task": "Advance to the following photo",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.050434925439936044
+  },
+  {
+    "task": "Move to the image next in sequence",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05019634111593564
+  },
+  {
+    "task": "Scroll to the next picture",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.050504658910354154
+  },
+  {
+    "task": "Explore the customer\"s appraisal section.",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05059927364809733
+  },
+  {
+    "task": "View the customer comments area.",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05051463755758376
+  },
+  {
+    "task": "Navigate to the customer feedback section.",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.050457914015817895
+  },
+  {
+    "task": "see the review",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05056542725462735
+  },
+  {
+    "task": "Invoke the phone number dial function",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05049003131783707
+  },
+  {
+    "task": "Click the option to dial this phone number",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05020825293380925
+  },
+  {
+    "task": "Activate the function to call this number",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05029135640606471
+  },
+  {
+    "task": "call this property",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen2.png",
+    "input_score": 0.05058609302440245
+  },
+  {
+    "task": "select English as preferred language",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen3.png",
+    "input_score": 0.05048010370531539
+  },
+  {
+    "task": "switch language to English",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen3.png",
+    "input_score": 0.05056291412610509
+  },
+  {
+    "task": "change language",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen3.png",
+    "input_score": 0.05070762300378418
+  },
+  {
+    "task": "switch to English language",
+    "image_path": "/data3/omniact/data/data/web/apartments/screen3.png",
+    "input_score": 0.05056291412610509
+  },
+  {
+    "task": "Search Flight by Flight number: A1234",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen1.png",
+    "input_score": 0.05010226853241896
+  },
+  {
+    "task": "Look up Flight with Flight number: A1234",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen1.png",
+    "input_score": 0.0500794951496792
+  },
+  {
+    "task": "Retrieve Flight information using Flight number: A1234",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen1.png",
+    "input_score": 0.05004923257455437
+  },
+  {
+    "task": "Find details of Flight by providing Flight number: A1234",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen1.png",
+    "input_score": 0.04981166334944207
+  },
+  {
+    "task": "Proceed to the flight tracking section",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen2.png",
+    "input_score": 0.05044297722935622
+  },
+  {
+    "task": "Access the flight status page",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen2.png",
+    "input_score": 0.05048063546746501
+  },
+  {
+    "task": "Navigate to the page for tracking flights",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen2.png",
+    "input_score": 0.05037605755559819
+  },
+  {
+    "task": "Redirect to the flight tracking page",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen2.png",
+    "input_score": 0.05042711629986579
+  },
+  {
+    "task": "Access FlightAware\"s customer service number",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.05068144232656431
+  },
+  {
+    "task": "Proceed to FlightAware\"s contact information",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.05062924777298738
+  },
+  {
+    "task": "Navigate to the contact number of FlightAware",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.05034944176118338
+  },
+  {
+    "task": "Redirect to FlightAware\"s contact number",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.050631052786786784
+  },
+  {
+    "task": "Use the main search function to find flights with a route starting in Pittsburgh and ending at JFK Airport.",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.04946002857979622
+  },
+  {
+    "task": "In the search bar, look up a flight route from Pittsburgh to JFK airport.",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.04986215126154811
+  },
+  {
+    "task": "Navigate to the search bar, enter \"Route\", then specify Pittsburgh as the origin and JFK as the destination.",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.04925904228938071
+  },
+  {
+    "task": "Search Flight by Route, with Origin as Pittsburgh and Destination as JFK using the top",
+    "image_path": "/data3/omniact/data/data/web/flightaware/screen3.png",
+    "input_score": 0.04974671377556432
+  },
+  {
+    "task": "Search for offers on tablet devices",
+    "image_path": "/data3/omniact/data/data/web/att/screen2.png",
+    "input_score": 0.05040434089388753
+  },
+  {
+    "task": "Find promotional deals for tablets",
+    "image_path": "/data3/omniact/data/data/web/att/screen2.png",
+    "input_score": 0.05063917096562273
+  },
+  {
+    "task": "Look up discounts for tablets",
+    "image_path": "/data3/omniact/data/data/web/att/screen2.png",
+    "input_score": 0.05062980154915012
+  },
+  {
+    "task": "Check the deals on tablets",
+    "image_path": "/data3/omniact/data/data/web/att/screen2.png",
+    "input_score": 0.05050287879116472
+  },
+  {
+    "task": "Examine the different color variants for the charger.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.05018508384500891
+  },
+  {
+    "task": "Review the available charger color options.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.05045724732589246
+  },
+  {
+    "task": "Inspect the color options for the charger.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.05027975867639432
+  },
+  {
+    "task": "Check the different colors available for charger.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.05028319336984149
+  },
+  {
+    "task": "Choose the third option from the My-AT&T dropdown.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.050055426802764966
+  },
+  {
+    "task": "Navigate to the third item in the dropdown menu under \"My-AT&T\".",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.04989335591690448
+  },
+  {
+    "task": "Select the third option from the \"My-AT&T\" dropdown list.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.04986416189508723
+  },
+  {
+    "task": "From the \"My-AT&T\" dropdown, go to and choose the third option.",
+    "image_path": "/data3/omniact/data/data/web/att/screen3.png",
+    "input_score": 0.04946245841550016
+  },
+  {
+    "task": "View three different ads from the horizontal ad banner",
+    "image_path": "/data3/omniact/data/data/web/att/screen4.png",
+    "input_score": 0.050276468702400545
+  },
+  {
+    "task": "Browse through three successive ads in the horizontal banner",
+    "image_path": "/data3/omniact/data/data/web/att/screen4.png",
+    "input_score": 0.050321613224639766
+  },
+  {
+    "task": "Navigate three steps forward in the horizontal advertisement strip",
+    "image_path": "/data3/omniact/data/data/web/att/screen4.png",
+    "input_score": 0.05029878663213315
+  },
+  {
+    "task": "Progress through the next three ads on the horizontal banner",
+    "image_path": "/data3/omniact/data/data/web/att/screen4.png",
+    "input_score": 0.050155257513946505
+  },
+  {
+    "task": "Check out today\"s deal on Best Buy",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.050483962427745506
+  },
+  {
+    "task": "View the deal of the day on Best Buy",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.05009738181574272
+  },
+  {
+    "task": "Access the Best Buy deal of the day",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.050224034556654536
+  },
+  {
+    "task": "Navigate to the Best Buy daily deal",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.05046453665679415
+  },
+  {
+    "task": "Verify the items in your shopping cart by clicking on the cart button",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.04980975916997418
+  },
+  {
+    "task": "Inspect the items stored in the shopping cart by clicking the cart symbol",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.04982088772428297
+  },
+  {
+    "task": "By clicking the cart logo, see what products have been placed in the shopping cart.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.049672967392449974
+  },
+  {
+    "task": "Check the products added to the cart by clicking on the cart icon",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen1.png",
+    "input_score": 0.049718612639116304
+  },
+  {
+    "task": "Search for discounted prices for Pixel 8 Pro on Best Buy website",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen2.png",
+    "input_score": 0.050060252176092446
+  },
+  {
+    "task": "Locate the deals for Pixel 8 Pro on Best Buy",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen2.png",
+    "input_score": 0.050168300765115345
+  },
+  {
+    "task": "Find Best Buy offers on Pixel 8 Pro",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen2.png",
+    "input_score": 0.050365197709836905
+  },
+  {
+    "task": "Search for Pixel 8 Pro deals on Best Buy",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen2.png",
+    "input_score": 0.050278191885729046
+  },
+  {
+    "task": "Check open box prices of 55\" X77L Series TV",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen3.png",
+    "input_score": 0.0499361871833225
+  },
+  {
+    "task": "Examine the prices of 55\" X77L Series TV with open box option.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen3.png",
+    "input_score": 0.049598927532730784
+  },
+  {
+    "task": "Look up the open box prices for the 55\" X77L Series TV model.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen3.png",
+    "input_score": 0.04949769955645519
+  },
+  {
+    "task": "Navigate to display the open box prices for 55\" X77L Series Television.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen3.png",
+    "input_score": 0.049739447718879934
+  },
+  {
+    "task": "Navigate to the top site area and access exclusive member deals",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.05012172347841403
+  },
+  {
+    "task": "Check out member exclusive deals at the top of the page",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.04998452216257522
+  },
+  {
+    "task": "Explore member-only offers placed at the top section of the webpage",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.04991295024466355
+  },
+  {
+    "task": "View the special offers available only for members at the page\"s top",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.049867682747880365
+  },
+  {
+    "task": "Select the first TV from the list that has the Voice Assist function and open its details.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.049426467056437516
+  },
+  {
+    "task": "Navigate to the TV that comes first in the list with Voice Assist feature and review its information.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.04936214800202418
+  },
+  {
+    "task": "Activate the information section of the initial TV in the list that includes the Voice Assist feature.",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.049381170301916404
+  },
+  {
+    "task": "Open the description of Voice Assist for the first TV in the list",
+    "image_path": "/data3/omniact/data/data/web/bestbuy/screen4.png",
+    "input_score": 0.049718045265016414
+  },
+  {
+    "task": "Search Machine Learning Course on the platform",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen1.png",
+    "input_score": 0.050311181267733714
+  },
+  {
+    "task": "Find a course on Machine Learning",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen1.png",
+    "input_score": 0.05038535314577889
+  },
+  {
+    "task": "Search for Machine Learning Course",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen1.png",
+    "input_score": 0.05057471815644025
+  },
+  {
+    "task": "Look up Machine Learning Course via search",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen1.png",
+    "input_score": 0.05048615118306006
+  },
+  {
+    "task": "Extract details for Winter 2024 Applications",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen2.png",
+    "input_score": 0.05018014862701566
+  },
+  {
+    "task": "Retrieve details related to 2024 Winter Session Applications",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen2.png",
+    "input_score": 0.050107950270812475
+  },
+  {
+    "task": "Obtain information about applications for the 2024 Winter Season",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen2.png",
+    "input_score": 0.049856047787516074
+  },
+  {
+    "task": "Request Information about Winter 2024 Applications",
+    "image_path": "/data3/omniact/data/data/web/coursera/screen2.png",
+    "input_score": 0.05021294203209686
+  },
+  {
+    "task": "Select the first product for purchase by clicking on the associated shopping cart icon",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.04976005593427123
+  },
+  {
+    "task": "Initiate the buying process for the first item by selecting the shopping bag option",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.049605305158432075
+  },
+  {
+    "task": "Begin adding the first product to your purchase list by clicking on the related shopping cart.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.049612295756021635
+  },
+  {
+    "task": "Add to cart (1st item) by clicking on corresponding shopping bag",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.04984649969556242
+  },
+  {
+    "task": "Schedule a meeting time using the appointment button",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050207811427370984
+  },
+  {
+    "task": "Reserve a time slot by using the appointment tool in the menu",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.04980795187457644
+  },
+  {
+    "task": "Reserve a slot by choosing its corresponding menu item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.05025505813199233
+  },
+  {
+    "task": "Arrange a session by tapping its menu alternative",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.05038609884468603
+  },
+  {
+    "task": "Schedule a meeting using the designated menu option.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050270054650560635
+  },
+  {
+    "task": "Book an appointment by clicking the menu item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.0503123354642279
+  },
+  {
+    "task": "Navigate to and select the booking feature to set an appointment.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.05001522589552137
+  },
+  {
+    "task": "Schedule a meeting by selecting the appropriate option on its menu",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.049929433167686485
+  },
+  {
+    "task": "Use the menu to access the appointment scheduling functionality.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050224095307577425
+  },
+  {
+    "task": "Fix an appointment by navigating to its option in the menu",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050009705815190514
+  },
+  {
+    "task": "Book an appointment by clicking its menu item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050409958528394444
+  },
+  {
+    "task": "Book an appointment by clicking its menu item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050409958528394444
+  },
+  {
+    "task": "To see slim fit T-shirts, please click on that option.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.05005929643429071
+  },
+  {
+    "task": "Click on the slim fit T-shirts category to view these items.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.05002787015494815
+  },
+  {
+    "task": "Proceed to the slim fit T-shirts section by selecting it.",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050156244189399075
+  },
+  {
+    "task": "Navigate to just slim fit T-shirts by clicking on that item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen1.png",
+    "input_score": 0.050123646869774864
+  },
+  {
+    "task": "Move to the story feature by clicking on the story menu",
+    "image_path": "/data3/omniact/data/data/web/armani/screen3.png",
+    "input_score": 0.05000368648010103
+  },
+  {
+    "task": "Access the story function by choosing the story menu entry",
+    "image_path": "/data3/omniact/data/data/web/armani/screen3.png",
+    "input_score": 0.050087115556676436
+  },
+  {
+    "task": "Navigate to the story section by selecting the story option",
+    "image_path": "/data3/omniact/data/data/web/armani/screen3.png",
+    "input_score": 0.05009191752679237
+  },
+  {
+    "task": "Redirect to the story by clicking on the story menu item",
+    "image_path": "/data3/omniact/data/data/web/armani/screen3.png",
+    "input_score": 0.05001609327154643
+  },
+  {
+    "task": "Click on the Health Library tag, then tab twice to highlight the second option and press enter to select it.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen1.png",
+    "input_score": 0.049178991211139056
+  },
+  {
+    "task": "Choose the second option from the dropdown after opening the Health Library tag.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen1.png",
+    "input_score": 0.04982571974749407
+  },
+  {
+    "task": "Navigate to the Health Library tag, open it and select the second option from the dropdown menu.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen1.png",
+    "input_score": 0.04943478392829135
+  },
+  {
+    "task": "Open and the Health Library tag and then choose the second option from the dropdown",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen1.png",
+    "input_score": 0.049536625940720676
+  },
+  {
+    "task": "Gather information on the topic of Diabetes",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen2.png",
+    "input_score": 0.05033336518359903
+  },
+  {
+    "task": "Do a deep dive into Diabetes knowledge discovery",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen2.png",
+    "input_score": 0.050480807957256256
+  },
+  {
+    "task": "Conduct research on Diabetes disease",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen2.png",
+    "input_score": 0.05066050717730849
+  },
+  {
+    "task": "Learn more on Diabetes",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen2.png",
+    "input_score": 0.05067984612953919
+  },
+  {
+    "task": "Go to the homepage, but without deferring to the logo",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.04999592316463246
+  },
+  {
+    "task": "Head back to the starting page without using the brand emblem.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.05001012243574046
+  },
+  {
+    "task": "Redirect to main page avoiding any clicks on the company logo.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.05022351934426646
+  },
+  {
+    "task": "Navigate back to main site without using the website logo.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.0502331490326917
+  },
+  {
+    "task": "Could you please find out if there’s information on LDAC on mayolabs?",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.04982060334710649
+  },
+  {
+    "task": "Could you please check for details about LDAC on mayolabs website?",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.04997510341349993
+  },
+  {
+    "task": "Please look for information about LDAC on mayolabs website.",
+    "image_path": "/data3/omniact/data/data/web/mayoclinic/screen3.png",
+    "input_score": 0.050070309961765244
+  },
+  {
+    "task": "Read the article - \"Assisting a person dealing with post-traumatic stress disorder\"",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen1.png",
+    "input_score": 0.0499561933662311
+  },
+  {
+    "task": "Explore the article titled - \"Supporting someone with post-traumatic stress disorder\"",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen1.png",
+    "input_score": 0.05001029339674466
+  },
+  {
+    "task": "Dive into the article - \"Aid for individuals suffering from post-traumatic stress disorder\"",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen1.png",
+    "input_score": 0.04992835431439971
+  },
+  {
+    "task": "Read more about the article - \"How to help someone living with post-traumatic stress disorder\"",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen1.png",
+    "input_score": 0.049782894324657746
+  },
+  {
+    "task": "Investigate if the company has a presence on Twitter",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen2.png",
+    "input_score": 0.0500986302557908
+  },
+  {
+    "task": "Confirm whether this company has a Twitter account",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen2.png",
+    "input_score": 0.05030328717164744
+  },
+  {
+    "task": "Verify the company\"s existence on Twitter",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen2.png",
+    "input_score": 0.05044557241476224
+  },
+  {
+    "task": "Checkout the presence of this company on twitter",
+    "image_path": "/data3/omniact/data/data/web/healthline/screen2.png",
+    "input_score": 0.05025116368384995
+  },
+  {
+    "task": "\"What is the procedure to secure employment here?\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.050153068867296875
+  },
+  {
+    "task": "\"What steps should I take to join this organization?\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.05017057255788463
+  },
+  {
+    "task": "\"Can you guide me on how to obtain a position in this establishment?\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.04972860453489224
+  },
+  {
+    "task": "\"How do I get a job here?\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.05036330851072104
+  },
+  {
+    "task": "\"Fetch the cost for pick-up at point A and drop-off at point B\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.049644503110087126
+  },
+  {
+    "task": "\"Retrieve pricing for collecting from Location A and delivering to Location B\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.049974798218644534
+  },
+  {
+    "task": "\"Obtain fares from origin point A to destination point B\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.05022979795223672
+  },
+  {
+    "task": "\"Get rates for pick up at A and drop off at B\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen1.png",
+    "input_score": 0.04984523693661071
+  },
+  {
+    "task": "\"Rent a self storage unit\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen3.png",
+    "input_score": 0.0505064472747964
+  },
+  {
+    "task": "\"Hire a unit for self-storage\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen3.png",
+    "input_score": 0.050352402391197294
+  },
+  {
+    "task": "\"Lease a self-storage unit\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen3.png",
+    "input_score": 0.05047968794920297
+  },
+  {
+    "task": "\"Procure a self-storage space\"",
+    "image_path": "/data3/omniact/data/data/web/uhaul/screen3.png",
+    "input_score": 0.05048352856757856
+  }
+]

@@ -1,0 +1,2182 @@
+[
+  {
+    "task": "search in the forum",
+    "image_path": "/data3/screenspot/images/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "input_score": 0.08793051734884903
+  },
+  {
+    "task": "check my account",
+    "image_path": "/data3/screenspot/images/web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "input_score": 0.08802556143890991
+  },
+  {
+    "task": "check my postbox",
+    "image_path": "/data3/screenspot/images/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "input_score": 0.08801290716685414
+  },
+  {
+    "task": "submit a new post",
+    "image_path": "/data3/screenspot/images/web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "input_score": 0.08800081204789766
+  },
+  {
+    "task": "add comment",
+    "image_path": "/data3/screenspot/images/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "input_score": 0.08808135528214911
+  },
+  {
+    "task": "back to previous page",
+    "image_path": "/data3/screenspot/images/web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "input_score": 0.08801885017022153
+  },
+  {
+    "task": "post the comment",
+    "image_path": "/data3/screenspot/images/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "input_score": 0.08802738202567202
+  },
+  {
+    "task": "unsubscribe the book ",
+    "image_path": "/data3/screenspot/images/web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "input_score": 0.08803496620168533
+  },
+  {
+    "task": "unsupport the book",
+    "image_path": "/data3/screenspot/images/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "input_score": 0.08803679100132154
+  },
+  {
+    "task": "check the forums",
+    "image_path": "/data3/screenspot/images/web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "input_score": 0.08800240487736832
+  },
+  {
+    "task": "check details of the first book",
+    "image_path": "/data3/screenspot/images/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "input_score": 0.08786757470031413
+  },
+  {
+    "task": "check the comments",
+    "image_path": "/data3/screenspot/images/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "input_score": 0.0879858053789949
+  },
+  {
+    "task": "change the sorting method",
+    "image_path": "/data3/screenspot/images/web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "input_score": 0.08794959724874359
+  },
+  {
+    "task": "sort based on active",
+    "image_path": "/data3/screenspot/images/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "input_score": 0.08797583822759979
+  },
+  {
+    "task": "sort based on most commented",
+    "image_path": "/data3/screenspot/images/web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "input_score": 0.08801235298650632
+  },
+  {
+    "task": "support the second book",
+    "image_path": "/data3/screenspot/images/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "input_score": 0.08796079381969826
+  },
+  {
+    "task": "view the information of book lover or not?",
+    "image_path": "/data3/screenspot/images/web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "input_score": 0.08782987082847803
+  },
+  {
+    "task": "subscribe the second book",
+    "image_path": "/data3/screenspot/images/web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "input_score": 0.08797373993255601
+  },
+  {
+    "task": "create a forum",
+    "image_path": "/data3/screenspot/images/web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "input_score": 0.08801612455771145
+  },
+  {
+    "task": "view the comments of the first book",
+    "image_path": "/data3/screenspot/images/web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "input_score": 0.08779690179036505
+  },
+  {
+    "task": "show this forum",
+    "image_path": "/data3/screenspot/images/web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "input_score": 0.08799970036001159
+  },
+  {
+    "task": "replay the no.82 comment",
+    "image_path": "/data3/screenspot/images/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "input_score": 0.08786395155817318
+  },
+  {
+    "task": "hide the no.140 comment",
+    "image_path": "/data3/screenspot/images/web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "input_score": 0.08781555302083417
+  },
+  {
+    "task": "check the profile of user knittedjedi",
+    "image_path": "/data3/screenspot/images/web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "input_score": 0.08782762961675167
+  },
+  {
+    "task": "support the no. 72 comment",
+    "image_path": "/data3/screenspot/images/web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "input_score": 0.08775912565918657
+  },
+  {
+    "task": "input the forum name",
+    "image_path": "/data3/screenspot/images/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "input_score": 0.08795723280112962
+  },
+  {
+    "task": "input the title",
+    "image_path": "/data3/screenspot/images/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "input_score": 0.08798796366540358
+  },
+  {
+    "task": "input the description of the forum",
+    "image_path": "/data3/screenspot/images/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "input_score": 0.08783466411189829
+  },
+  {
+    "task": "view formatting help",
+    "image_path": "/data3/screenspot/images/web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "input_score": 0.08806709817640347
+  },
+  {
+    "task": "choose tag",
+    "image_path": "/data3/screenspot/images/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "input_score": 0.08809206231926076
+  },
+  {
+    "task": "create the forum",
+    "image_path": "/data3/screenspot/images/web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "input_score": 0.08798814322768109
+  },
+  {
+    "task": "input the body of the submission",
+    "image_path": "/data3/screenspot/images/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "input_score": 0.08784445549946192
+  },
+  {
+    "task": "upload a image for the submission",
+    "image_path": "/data3/screenspot/images/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "input_score": 0.08785680304094556
+  },
+  {
+    "task": "input an url",
+    "image_path": "/data3/screenspot/images/web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "input_score": 0.08801639050683904
+  },
+  {
+    "task": "choose the forum of askreddit",
+    "image_path": "/data3/screenspot/images/web_13e31182-318c-43d9-9378-a69da2dc1b01.png",
+    "input_score": 0.087912962762432
+  },
+  {
+    "task": "switch to dark mode",
+    "image_path": "/data3/screenspot/images/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "input_score": 0.08801718821185835
+  },
+  {
+    "task": "check my profile",
+    "image_path": "/data3/screenspot/images/web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "input_score": 0.08802799285084517
+  },
+  {
+    "task": "check the submissions",
+    "image_path": "/data3/screenspot/images/web_48f086db-edfd-43d3-95b8-b2eee50367da.png",
+    "input_score": 0.0880355309167121
+  },
+  {
+    "task": "open external links in the new tab",
+    "image_path": "/data3/screenspot/images/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "input_score": 0.08786099646988425
+  },
+  {
+    "task": "don't show thumbnails",
+    "image_path": "/data3/screenspot/images/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "input_score": 0.08803974652812196
+  },
+  {
+    "task": "don't show post previews",
+    "image_path": "/data3/screenspot/images/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "input_score": 0.08801062547475275
+  },
+  {
+    "task": "switch the language",
+    "image_path": "/data3/screenspot/images/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "input_score": 0.08799594820180368
+  },
+  {
+    "task": "change the time zone",
+    "image_path": "/data3/screenspot/images/web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "input_score": 0.08797115601246397
+  },
+  {
+    "task": "check messages",
+    "image_path": "/data3/screenspot/images/web_991bf1e6-ccb5-46c6-ab07-cbfaa277aaf0.png",
+    "input_score": 0.08808496783499226
+  },
+  {
+    "task": "input my email",
+    "image_path": "/data3/screenspot/images/web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "input_score": 0.08802591890670998
+  },
+  {
+    "task": "close the sign in box",
+    "image_path": "/data3/screenspot/images/web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "input_score": 0.08790751318850473
+  },
+  {
+    "task": "follow the post",
+    "image_path": "/data3/screenspot/images/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "input_score": 0.08799391797918346
+  },
+  {
+    "task": "close the message box",
+    "image_path": "/data3/screenspot/images/web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "input_score": 0.08795023517640559
+  },
+  {
+    "task": "share with facebook",
+    "image_path": "/data3/screenspot/images/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "input_score": 0.08806004927196158
+  },
+  {
+    "task": "share to twitter/x",
+    "image_path": "/data3/screenspot/images/web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "input_score": 0.0880494235289483
+  },
+  {
+    "task": "search in the website",
+    "image_path": "/data3/screenspot/images/web_659de266-0af1-47bc-a2dc-5edc4dbb29d8.png",
+    "input_score": 0.08792731510058512
+  },
+  {
+    "task": "open the menu",
+    "image_path": "/data3/screenspot/images/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "input_score": 0.08803127367045738
+  },
+  {
+    "task": "subscribe the website",
+    "image_path": "/data3/screenspot/images/web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "input_score": 0.08799966320008734
+  },
+  {
+    "task": "check the letters",
+    "image_path": "/data3/screenspot/images/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "input_score": 0.08799829481229132
+  },
+  {
+    "task": "check the index",
+    "image_path": "/data3/screenspot/images/web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "input_score": 0.087985408550941
+  },
+  {
+    "task": "open the menu",
+    "image_path": "/data3/screenspot/images/web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "input_score": 0.08803127367045738
+  },
+  {
+    "task": "check the books on culture",
+    "image_path": "/data3/screenspot/images/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "input_score": 0.08790642029096978
+  },
+  {
+    "task": "check the books on true crime",
+    "image_path": "/data3/screenspot/images/web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "input_score": 0.0878940099967386
+  },
+  {
+    "task": "go to book marks",
+    "image_path": "/data3/screenspot/images/web_44f9b58e-0964-4a89-bdb0-18e60f6eb07f.png",
+    "input_score": 0.0880111186385632
+  },
+  {
+    "task": "check the books on tv & file",
+    "image_path": "/data3/screenspot/images/web_22f4dba1-1fb0-46f0-b7b5-4dfdf35de24a.png",
+    "input_score": 0.08785477631237429
+  },
+  {
+    "task": "search with the current search query",
+    "image_path": "/data3/screenspot/images/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "input_score": 0.08789244294337743
+  },
+  {
+    "task": "check the third result",
+    "image_path": "/data3/screenspot/images/web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "input_score": 0.08795788890836562
+  },
+  {
+    "task": "check the image",
+    "image_path": "/data3/screenspot/images/web_4bf90a3b-dcde-4d16-ba02-470eb8976199.png",
+    "input_score": 0.08798523002925274
+  },
+  {
+    "task": "log out my account",
+    "image_path": "/data3/screenspot/images/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "input_score": 0.08800123740639397
+  },
+  {
+    "task": "delete the search query",
+    "image_path": "/data3/screenspot/images/web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "input_score": 0.08797829827856558
+  },
+  {
+    "task": "filter with featured creteria",
+    "image_path": "/data3/screenspot/images/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "input_score": 0.08797340637674544
+  },
+  {
+    "task": "check the wiki",
+    "image_path": "/data3/screenspot/images/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "input_score": 0.08801270094691664
+  },
+  {
+    "task": "log in my account",
+    "image_path": "/data3/screenspot/images/web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "input_score": 0.08796245747614269
+  },
+  {
+    "task": "create a new page",
+    "image_path": "/data3/screenspot/images/web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "input_score": 0.08797222517208413
+  },
+  {
+    "task": "search in the website",
+    "image_path": "/data3/screenspot/images/web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "input_score": 0.08792731510058512
+  },
+  {
+    "task": "change the sorting method",
+    "image_path": "/data3/screenspot/images/web_7562f51e-fb02-4c70-a69c-bf02a6b253fa.png",
+    "input_score": 0.08794959724874359
+  },
+  {
+    "task": "support the first new",
+    "image_path": "/data3/screenspot/images/web_7562f51e-fb02-4c70-a69c-bf02a6b253fa.png",
+    "input_score": 0.08796674411126794
+  },
+  {
+    "task": "hide this forum",
+    "image_path": "/data3/screenspot/images/web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "input_score": 0.0880302068039895
+  },
+  {
+    "task": "check the details of the third new",
+    "image_path": "/data3/screenspot/images/web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "input_score": 0.08780883163079868
+  },
+  {
+    "task": "hide this forum",
+    "image_path": "/data3/screenspot/images/web_65dfb15c-e1f6-4260-9096-85ab73dde428.png",
+    "input_score": 0.0880302068039895
+  },
+  {
+    "task": "close the ad banner",
+    "image_path": "/data3/screenspot/images/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "input_score": 0.087968186270927
+  },
+  {
+    "task": "search in the website",
+    "image_path": "/data3/screenspot/images/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "input_score": 0.08792731510058512
+  },
+  {
+    "task": "log in by x account",
+    "image_path": "/data3/screenspot/images/web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "input_score": 0.08793116806937457
+  },
+  {
+    "task": "share to facebook",
+    "image_path": "/data3/screenspot/images/web_d86766a4-4d7f-467a-899e-dcde8472e632.png",
+    "input_score": 0.08806073682748118
+  },
+  {
+    "task": "check the weather news",
+    "image_path": "/data3/screenspot/images/web_11acd5dc-63ab-415f-823d-10cd68acef01.png",
+    "input_score": 0.08797852374182791
+  },
+  {
+    "task": "follow sadie gurman",
+    "image_path": "/data3/screenspot/images/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "input_score": 0.08795946328915726
+  },
+  {
+    "task": "search in the website",
+    "image_path": "/data3/screenspot/images/web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "input_score": 0.08792731510058512
+  },
+  {
+    "task": "pause reading the page",
+    "image_path": "/data3/screenspot/images/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "input_score": 0.0879787637615767
+  },
+  {
+    "task": "adjust reading speed",
+    "image_path": "/data3/screenspot/images/web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "input_score": 0.08803862499468078
+  },
+  {
+    "task": "open the menu",
+    "image_path": "/data3/screenspot/images/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "input_score": 0.08803127367045738
+  },
+  {
+    "task": "check sports news",
+    "image_path": "/data3/screenspot/images/web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "input_score": 0.08804507448624697
+  },
+  {
+    "task": "share the article",
+    "image_path": "/data3/screenspot/images/web_7e3c1de0-602b-48ec-bfb4-1215f33356f3.png",
+    "input_score": 0.08799817701391353
+  },
+  {
+    "task": "check science news",
+    "image_path": "/data3/screenspot/images/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "input_score": 0.08804240627183199
+  },
+  {
+    "task": "donate to the website",
+    "image_path": "/data3/screenspot/images/web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "input_score": 0.08798425736761041
+  },
+  {
+    "task": "create a new project",
+    "image_path": "/data3/screenspot/images/web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "input_score": 0.08797280390433854
+  },
+  {
+    "task": "view my account",
+    "image_path": "/data3/screenspot/images/web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "input_score": 0.08802479434957268
+  },
+  {
+    "task": "search in gitlab",
+    "image_path": "/data3/screenspot/images/web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "input_score": 0.08801564894037495
+  },
+  {
+    "task": "add a new one",
+    "image_path": "/data3/screenspot/images/web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "input_score": 0.08799404690067263
+  },
+  {
+    "task": "go to personal homepage",
+    "image_path": "/data3/screenspot/images/web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "input_score": 0.08804512876216682
+  },
+  {
+    "task": "sign out",
+    "image_path": "/data3/screenspot/images/web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "input_score": 0.0880907058909623
+  },
+  {
+    "task": "switch to explore projects",
+    "image_path": "/data3/screenspot/images/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "input_score": 0.08799660692002054
+  },
+  {
+    "task": "star the project with 56 stars",
+    "image_path": "/data3/screenspot/images/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "input_score": 0.08782075718938669
+  },
+  {
+    "task": "fork the a11y project",
+    "image_path": "/data3/screenspot/images/web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "input_score": 0.08784244302270804
+  },
+  {
+    "task": "view issues i've created",
+    "image_path": "/data3/screenspot/images/web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "input_score": 0.08795553550502516
+  },
+  {
+    "task": "goto homepage",
+    "image_path": "/data3/screenspot/images/web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "input_score": 0.08811011556811942
+  },
+  {
+    "task": "set reminder",
+    "image_path": "/data3/screenspot/images/web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "input_score": 0.08809523014467087
+  },
+  {
+    "task": "clone this project",
+    "image_path": "/data3/screenspot/images/web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "input_score": 0.08801596163953794
+  },
+  {
+    "task": "create a new issus",
+    "image_path": "/data3/screenspot/images/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "input_score": 0.08799515242377708
+  },
+  {
+    "task": "download",
+    "image_path": "/data3/screenspot/images/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "input_score": 0.08810150115081586
+  },
+  {
+    "task": "search or filter results",
+    "image_path": "/data3/screenspot/images/web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "input_score": 0.08797670249462879
+  },
+  {
+    "task": "choose type of issue",
+    "image_path": "/data3/screenspot/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "input_score": 0.08798278264362955
+  },
+  {
+    "task": "bold lettering",
+    "image_path": "/data3/screenspot/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "input_score": 0.08805650319515264
+  },
+  {
+    "task": "full screen display",
+    "image_path": "/data3/screenspot/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "input_score": 0.08806247302488703
+  },
+  {
+    "task": "insert tables",
+    "image_path": "/data3/screenspot/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "input_score": 0.08808939830602963
+  },
+  {
+    "task": "write a description",
+    "image_path": "/data3/screenspot/images/web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "input_score": 0.08801527288379113
+  },
+  {
+    "task": "sort by created date",
+    "image_path": "/data3/screenspot/images/web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "input_score": 0.08797567709229842
+  },
+  {
+    "task": "view the debug build time",
+    "image_path": "/data3/screenspot/images/web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "input_score": 0.08793416024382665
+  },
+  {
+    "task": "search my projects",
+    "image_path": "/data3/screenspot/images/web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "input_score": 0.08803186606111496
+  },
+  {
+    "task": "switch to activity",
+    "image_path": "/data3/screenspot/images/web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "input_score": 0.08803793181636806
+  },
+  {
+    "task": "delete the byte blaze assignee",
+    "image_path": "/data3/screenspot/images/web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "input_score": 0.08797004320258524
+  },
+  {
+    "task": "subscribe to rss feed",
+    "image_path": "/data3/screenspot/images/web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "input_score": 0.08804488188716154
+  },
+  {
+    "task": "thumb up",
+    "image_path": "/data3/screenspot/images/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "input_score": 0.08810281058329365
+  },
+  {
+    "task": "thumb down",
+    "image_path": "/data3/screenspot/images/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "input_score": 0.08810066328812764
+  },
+  {
+    "task": "reply to emoticon",
+    "image_path": "/data3/screenspot/images/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "input_score": 0.08804340622015852
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "input_score": 0.08807997329899551
+  },
+  {
+    "task": "close this issue",
+    "image_path": "/data3/screenspot/images/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "input_score": 0.08800700086363
+  },
+  {
+    "task": "add a todo",
+    "image_path": "/data3/screenspot/images/web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "input_score": 0.08802207489563738
+  },
+  {
+    "task": "edit my profile",
+    "image_path": "/data3/screenspot/images/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "input_score": 0.0880343228505113
+  },
+  {
+    "task": "check followers",
+    "image_path": "/data3/screenspot/images/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "input_score": 0.08810582376004074
+  },
+  {
+    "task": "switch to groups view",
+    "image_path": "/data3/screenspot/images/web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "input_score": 0.08798650727810739
+  },
+  {
+    "task": "view all personal projects",
+    "image_path": "/data3/screenspot/images/web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "input_score": 0.08798957725101454
+  },
+  {
+    "task": "view the chatgpt_plugin project",
+    "image_path": "/data3/screenspot/images/web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "input_score": 0.0879118161077002
+  },
+  {
+    "task": "close the window",
+    "image_path": "/data3/screenspot/images/web_c8e2a933-b6e5-4046-a360-5dbd54dc9753.png",
+    "input_score": 0.0879930810781134
+  },
+  {
+    "task": "visit docs.gitlab.com",
+    "image_path": "/data3/screenspot/images/web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "input_score": 0.08804492885945128
+  },
+  {
+    "task": "check the docs of how to use gitlab",
+    "image_path": "/data3/screenspot/images/web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "input_score": 0.0877884352429221
+  },
+  {
+    "task": "why gitlab",
+    "image_path": "/data3/screenspot/images/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "input_score": 0.08808749814713505
+  },
+  {
+    "task": "check pricing",
+    "image_path": "/data3/screenspot/images/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "input_score": 0.08810002960519558
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "input_score": 0.08806149321880326
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "input_score": 0.08810822501370102
+  },
+  {
+    "task": "view solution of ai",
+    "image_path": "/data3/screenspot/images/web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "input_score": 0.08799455972058551
+  },
+  {
+    "task": "view all solutions",
+    "image_path": "/data3/screenspot/images/web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "input_score": 0.08802627413203136
+  },
+  {
+    "task": "resources",
+    "image_path": "/data3/screenspot/images/web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "input_score": 0.08810351859967633
+  },
+  {
+    "task": "buy gitlab premium",
+    "image_path": "/data3/screenspot/images/web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "input_score": 0.08806635471630933
+  },
+  {
+    "task": "get free trial",
+    "image_path": "/data3/screenspot/images/web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "input_score": 0.08806671151691912
+  },
+  {
+    "task": "contact sales",
+    "image_path": "/data3/screenspot/images/web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "input_score": 0.08808871714157784
+  },
+  {
+    "task": "view supported cloud",
+    "image_path": "/data3/screenspot/images/web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "input_score": 0.08803020339448117
+  },
+  {
+    "task": "contact gitlab",
+    "image_path": "/data3/screenspot/images/web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "input_score": 0.08807690433876512
+  },
+  {
+    "task": "install for ubuntu",
+    "image_path": "/data3/screenspot/images/web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "input_score": 0.08806068052365601
+  },
+  {
+    "task": "have installed",
+    "image_path": "/data3/screenspot/images/web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "input_score": 0.08806646195350663
+  },
+  {
+    "task": "view efficiency",
+    "image_path": "/data3/screenspot/images/web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "input_score": 0.08808663174127346
+  },
+  {
+    "task": "transparency",
+    "image_path": "/data3/screenspot/images/web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "input_score": 0.08812489009137554
+  },
+  {
+    "task": "get free trial",
+    "image_path": "/data3/screenspot/images/web_fa9667b8-9bc1-4c58-b4ca-bd2d96780473.png",
+    "input_score": 0.08806671151691912
+  },
+  {
+    "task": "check api security",
+    "image_path": "/data3/screenspot/images/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "input_score": 0.08804396763030688
+  },
+  {
+    "task": "switch to govern",
+    "image_path": "/data3/screenspot/images/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "input_score": 0.0880552568140454
+  },
+  {
+    "task": "switch to create",
+    "image_path": "/data3/screenspot/images/web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "input_score": 0.08803890775635288
+  },
+  {
+    "task": "choose use-case",
+    "image_path": "/data3/screenspot/images/web_d48576d2-c431-4030-9cc0-c811c752c3a8.png",
+    "input_score": 0.08805437955961708
+  },
+  {
+    "task": "reset all",
+    "image_path": "/data3/screenspot/images/web_d48576d2-c431-4030-9cc0-c811c752c3a8.png",
+    "input_score": 0.0880895674430524
+  },
+  {
+    "task": "create a blank project",
+    "image_path": "/data3/screenspot/images/web_a0cf11b1-c931-41d7-8649-39986460da5f.png",
+    "input_score": 0.08798040015252827
+  },
+  {
+    "task": "switch to projects",
+    "image_path": "/data3/screenspot/images/web_eab83369-92a1-4819-ae45-eb2c0ab5b131.png",
+    "input_score": 0.08804084001901587
+  },
+  {
+    "task": "explore milestones",
+    "image_path": "/data3/screenspot/images/web_eab83369-92a1-4819-ae45-eb2c0ab5b131.png",
+    "input_score": 0.08810687821036679
+  },
+  {
+    "task": "has question about visibility level",
+    "image_path": "/data3/screenspot/images/web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "input_score": 0.08796965654871441
+  },
+  {
+    "task": "enable static application security testing",
+    "image_path": "/data3/screenspot/images/web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "input_score": 0.08795763420918616
+  },
+  {
+    "task": "sort by updated date",
+    "image_path": "/data3/screenspot/images/web_6d17bf02-a44b-4af7-9791-a4a59881ea3c.png",
+    "input_score": 0.08797844593477523
+  },
+  {
+    "task": "check the test issue",
+    "image_path": "/data3/screenspot/images/web_6d17bf02-a44b-4af7-9791-a4a59881ea3c.png",
+    "input_score": 0.08793966886314436
+  },
+  {
+    "task": "create merge request",
+    "image_path": "/data3/screenspot/images/web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+    "input_score": 0.08803706198962845
+  },
+  {
+    "task": "edit this issue",
+    "image_path": "/data3/screenspot/images/web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+    "input_score": 0.08800867937717739
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/web_3fed2169-3c3d-43e7-baaa-3bf0e0c7134c.png",
+    "input_score": 0.08807997329899551
+  },
+  {
+    "task": "enable notifications",
+    "image_path": "/data3/screenspot/images/web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "input_score": 0.08809523125313273
+  },
+  {
+    "task": "comment to administrator",
+    "image_path": "/data3/screenspot/images/web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "input_score": 0.08805702545022116
+  },
+  {
+    "task": "enter time spent",
+    "image_path": "/data3/screenspot/images/web_68bcaf82-c297-4f24-af8e-77e4db9123ce.png",
+    "input_score": 0.08803815454289389
+  },
+  {
+    "task": "cancel",
+    "image_path": "/data3/screenspot/images/web_68bcaf82-c297-4f24-af8e-77e4db9123ce.png",
+    "input_score": 0.08811043409379563
+  },
+  {
+    "task": "download the project",
+    "image_path": "/data3/screenspot/images/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "input_score": 0.08798468569920719
+  },
+  {
+    "task": "unstar the project",
+    "image_path": "/data3/screenspot/images/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "input_score": 0.08796477292725484
+  },
+  {
+    "task": "add a new file",
+    "image_path": "/data3/screenspot/images/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "input_score": 0.0879848932908181
+  },
+  {
+    "task": "jump to data folder",
+    "image_path": "/data3/screenspot/images/web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "input_score": 0.08800661116608331
+  },
+  {
+    "task": "copy the ssh link",
+    "image_path": "/data3/screenspot/images/web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "input_score": 0.08799227800845255
+  },
+  {
+    "task": "copy the http link",
+    "image_path": "/data3/screenspot/images/web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "input_score": 0.08798012017088905
+  },
+  {
+    "task": "download the file",
+    "image_path": "/data3/screenspot/images/web_3eca74aa-1d45-45a3-ae2b-694ae83b0068.png",
+    "input_score": 0.0880071488323793
+  },
+  {
+    "task": "open the file in web ide",
+    "image_path": "/data3/screenspot/images/web_3eca74aa-1d45-45a3-ae2b-694ae83b0068.png",
+    "input_score": 0.08789058423405413
+  },
+  {
+    "task": "more information of n-lab project",
+    "image_path": "/data3/screenspot/images/web_48737870-2f75-4199-a2d0-176d04543b2b.png",
+    "input_score": 0.08791015628054812
+  },
+  {
+    "task": "check the owner of coding_friends",
+    "image_path": "/data3/screenspot/images/web_48737870-2f75-4199-a2d0-176d04543b2b.png",
+    "input_score": 0.08794379859594746
+  },
+  {
+    "task": "star the chatgpt project",
+    "image_path": "/data3/screenspot/images/web_6b9059c2-656d-4a37-b585-9df4ef2f0c7f.png",
+    "input_score": 0.08793249079338843
+  },
+  {
+    "task": "star the metaseq project",
+    "image_path": "/data3/screenspot/images/web_6b9059c2-656d-4a37-b585-9df4ef2f0c7f.png",
+    "input_score": 0.08791909132463083
+  },
+  {
+    "task": "search",
+    "image_path": "/data3/screenspot/images/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "input_score": 0.08810822501370102
+  },
+  {
+    "task": "check notification",
+    "image_path": "/data3/screenspot/images/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "input_score": 0.08809602322582849
+  },
+  {
+    "task": "has question about scope",
+    "image_path": "/data3/screenspot/images/web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "input_score": 0.0880071346356782
+  },
+  {
+    "task": "view orders",
+    "image_path": "/data3/screenspot/images/web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "input_score": 0.08808039382680953
+  },
+  {
+    "task": "close the sales",
+    "image_path": "/data3/screenspot/images/web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "input_score": 0.08800682499686273
+  },
+  {
+    "task": "view detail of products",
+    "image_path": "/data3/screenspot/images/web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "input_score": 0.08798676921155116
+  },
+  {
+    "task": "switch to customers",
+    "image_path": "/data3/screenspot/images/web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "input_score": 0.08804076610441491
+  },
+  {
+    "task": "search by keyword",
+    "image_path": "/data3/screenspot/images/web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "input_score": 0.08801985773824653
+  },
+  {
+    "task": "adjusting the number of displays per page",
+    "image_path": "/data3/screenspot/images/web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "input_score": 0.08786894426735209
+  },
+  {
+    "task": "go back",
+    "image_path": "/data3/screenspot/images/web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "input_score": 0.08809416144747301
+  },
+  {
+    "task": "go to my account",
+    "image_path": "/data3/screenspot/images/web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "input_score": 0.08799623167869361
+  },
+  {
+    "task": "select the div garg",
+    "image_path": "/data3/screenspot/images/web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "input_score": 0.08802257570224684
+  },
+  {
+    "task": "use filters",
+    "image_path": "/data3/screenspot/images/web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "input_score": 0.08806645107897769
+  },
+  {
+    "task": "view privacy policy",
+    "image_path": "/data3/screenspot/images/web_2b491da3-f798-4866-b002-a25ab7d15263.png",
+    "input_score": 0.08804004767501829
+  },
+  {
+    "task": "ticked items",
+    "image_path": "/data3/screenspot/images/web_2b491da3-f798-4866-b002-a25ab7d15263.png",
+    "input_score": 0.08807622609872284
+  },
+  {
+    "task": "more partners",
+    "image_path": "/data3/screenspot/images/web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "input_score": 0.08809858827071772
+  },
+  {
+    "task": "visit magento marketplaces",
+    "image_path": "/data3/screenspot/images/web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "input_score": 0.08804138264479523
+  },
+  {
+    "task": "view all users",
+    "image_path": "/data3/screenspot/images/web_10e24c0f-e9af-4542-b074-5a14a7645717.png",
+    "input_score": 0.08803042266562118
+  },
+  {
+    "task": "close the sales",
+    "image_path": "/data3/screenspot/images/web_10e24c0f-e9af-4542-b074-5a14a7645717.png",
+    "input_score": 0.08800682499686273
+  },
+  {
+    "task": "reset fliter",
+    "image_path": "/data3/screenspot/images/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "input_score": 0.08808807653578289
+  },
+  {
+    "task": "go to next page",
+    "image_path": "/data3/screenspot/images/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "input_score": 0.08799756303425196
+  },
+  {
+    "task": "enter search query",
+    "image_path": "/data3/screenspot/images/web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "input_score": 0.08803701812831446
+  },
+  {
+    "task": "add the first product into cart",
+    "image_path": "/data3/screenspot/images/web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "input_score": 0.08790710584983603
+  },
+  {
+    "task": "favorite the blueberry drink",
+    "image_path": "/data3/screenspot/images/web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "input_score": 0.0879600370060157
+  },
+  {
+    "task": "go to beauty & personal care",
+    "image_path": "/data3/screenspot/images/web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "input_score": 0.08793429717521488
+  },
+  {
+    "task": "view clothing, shoes",
+    "image_path": "/data3/screenspot/images/web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "input_score": 0.08802413678215855
+  },
+  {
+    "task": "view vedio games",
+    "image_path": "/data3/screenspot/images/web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "input_score": 0.08806849004004359
+  },
+  {
+    "task": "check shopping cart",
+    "image_path": "/data3/screenspot/images/web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "input_score": 0.08804890529886791
+  },
+  {
+    "task": "check my account",
+    "image_path": "/data3/screenspot/images/web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "input_score": 0.08802556143890991
+  },
+  {
+    "task": "checkout",
+    "image_path": "/data3/screenspot/images/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "input_score": 0.08811739065705075
+  },
+  {
+    "task": "close",
+    "image_path": "/data3/screenspot/images/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "input_score": 0.08810381094083634
+  },
+  {
+    "task": "delete carnation breakfast essentials nutritional drink",
+    "image_path": "/data3/screenspot/images/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "input_score": 0.08804100567227492
+  },
+  {
+    "task": "delete pre-baked gingerbread house kit value pack",
+    "image_path": "/data3/screenspot/images/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "input_score": 0.08792144216163512
+  },
+  {
+    "task": "adjust the quantity with 5",
+    "image_path": "/data3/screenspot/images/web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "input_score": 0.08788718136120935
+  },
+  {
+    "task": "change password",
+    "image_path": "/data3/screenspot/images/web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "input_score": 0.088076784377353
+  },
+  {
+    "task": "check my downloadable products",
+    "image_path": "/data3/screenspot/images/web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "input_score": 0.08802138585993778
+  },
+  {
+    "task": "go to next page",
+    "image_path": "/data3/screenspot/images/web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "input_score": 0.08799756303425196
+  },
+  {
+    "task": "adjust the number show per page",
+    "image_path": "/data3/screenspot/images/web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "input_score": 0.08790563524068312
+  },
+  {
+    "task": "add the rh interiors weathered wood bundle table lamp",
+    "image_path": "/data3/screenspot/images/web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "input_score": 0.08788929203347706
+  },
+  {
+    "task": "comment to elmwood inn fine tea",
+    "image_path": "/data3/screenspot/images/web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "input_score": 0.08800145921660313
+  },
+  {
+    "task": "select skin care",
+    "image_path": "/data3/screenspot/images/web_277226da-aa42-470f-8949-08a5c050d8d1.png",
+    "input_score": 0.08804698384118738
+  },
+  {
+    "task": "view xbox one",
+    "image_path": "/data3/screenspot/images/web_589e44b7-401b-45f7-a223-b93ac59c5506.png",
+    "input_score": 0.08807627475241508
+  },
+  {
+    "task": "view ps4",
+    "image_path": "/data3/screenspot/images/web_589e44b7-401b-45f7-a223-b93ac59c5506.png",
+    "input_score": 0.08805617853033174
+  },
+  {
+    "task": "add to cart",
+    "image_path": "/data3/screenspot/images/web_db995728-d16b-46cb-9621-22e8d8e5596f.png",
+    "input_score": 0.08804398672386962
+  },
+  {
+    "task": "add the first product to wish list",
+    "image_path": "/data3/screenspot/images/web_db995728-d16b-46cb-9621-22e8d8e5596f.png",
+    "input_score": 0.08787243758748674
+  },
+  {
+    "task": "previous images",
+    "image_path": "/data3/screenspot/images/web_2595ae32-9df7-4198-a48e-6c291a1fb01c.png",
+    "input_score": 0.088090172999016
+  },
+  {
+    "task": "enter email address",
+    "image_path": "/data3/screenspot/images/web_c576ac89-3f3e-4f4d-9efd-1ad4b959a630.png",
+    "input_score": 0.088036951489526
+  },
+  {
+    "task": "check privacy policy",
+    "image_path": "/data3/screenspot/images/web_c576ac89-3f3e-4f4d-9efd-1ad4b959a630.png",
+    "input_score": 0.088040346477721
+  },
+  {
+    "task": "print the page",
+    "image_path": "/data3/screenspot/images/web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "input_score": 0.0879944086600036
+  },
+  {
+    "task": "close item",
+    "image_path": "/data3/screenspot/images/web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "input_score": 0.08807952505844141
+  },
+  {
+    "task": "adjusting the display",
+    "image_path": "/data3/screenspot/images/web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "input_score": 0.08800655356109983
+  },
+  {
+    "task": "sort from largest to smallest",
+    "image_path": "/data3/screenspot/images/web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "input_score": 0.08795704361763095
+  },
+  {
+    "task": "next page",
+    "image_path": "/data3/screenspot/images/web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "input_score": 0.08808872379198661
+  },
+  {
+    "task": "page 5",
+    "image_path": "/data3/screenspot/images/web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "input_score": 0.08801135135885227
+  },
+  {
+    "task": "details about dead sea collection salt",
+    "image_path": "/data3/screenspot/images/web_a6e78bca-0f72-405b-8bda-7c0edc617b4e.png",
+    "input_score": 0.08795382151465803
+  },
+  {
+    "task": "enter email address",
+    "image_path": "/data3/screenspot/images/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "input_score": 0.088036951489526
+  },
+  {
+    "task": "create an account",
+    "image_path": "/data3/screenspot/images/web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "input_score": 0.08801215550778985
+  },
+  {
+    "task": "reset the password",
+    "image_path": "/data3/screenspot/images/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "input_score": 0.08800089116212617
+  },
+  {
+    "task": "go to onestop market homepage",
+    "image_path": "/data3/screenspot/images/web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "input_score": 0.08793220523111307
+  },
+  {
+    "task": "sign up for newsletter",
+    "image_path": "/data3/screenspot/images/web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "input_score": 0.0880121736412375
+  },
+  {
+    "task": "question for remote shopping assistance",
+    "image_path": "/data3/screenspot/images/web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "input_score": 0.08798254052580574
+  },
+  {
+    "task": "settings of cocowhip light",
+    "image_path": "/data3/screenspot/images/web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "input_score": 0.08797923596018876
+  },
+  {
+    "task": "close shopping cart",
+    "image_path": "/data3/screenspot/images/web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "input_score": 0.08804863971388184
+  },
+  {
+    "task": "show reviews",
+    "image_path": "/data3/screenspot/images/web_39126cee-4462-4567-9fa4-5ad1f3589047.png",
+    "input_score": 0.08808663613103505
+  },
+  {
+    "task": "add the sandals to cart",
+    "image_path": "/data3/screenspot/images/web_0c5f692d-4c32-4533-ac2a-d6f8d7c6d7c1.png",
+    "input_score": 0.08795225895066168
+  },
+  {
+    "task": "choose size 14",
+    "image_path": "/data3/screenspot/images/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "input_score": 0.08796387246220325
+  },
+  {
+    "task": "adjust the quantity of the first product",
+    "image_path": "/data3/screenspot/images/web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "input_score": 0.08782214201850927
+  },
+  {
+    "task": "enter lowest price",
+    "image_path": "/data3/screenspot/images/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "input_score": 0.08804507020865766
+  },
+  {
+    "task": "enter product name",
+    "image_path": "/data3/screenspot/images/web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "input_score": 0.0880237801408273
+  },
+  {
+    "task": "show password",
+    "image_path": "/data3/screenspot/images/web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "input_score": 0.08808224716521845
+  },
+  {
+    "task": "enter email address",
+    "image_path": "/data3/screenspot/images/web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "input_score": 0.088036951489526
+  },
+  {
+    "task": "open the shopping cart",
+    "image_path": "/data3/screenspot/images/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "input_score": 0.08798372330934794
+  },
+  {
+    "task": "open home& kitchen part",
+    "image_path": "/data3/screenspot/images/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "input_score": 0.088002143062528
+  },
+  {
+    "task": "enter detail page of icecream",
+    "image_path": "/data3/screenspot/images/web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "input_score": 0.0879778627296256
+  },
+  {
+    "task": "close the pop-up window",
+    "image_path": "/data3/screenspot/images/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "input_score": 0.08794573012867196
+  },
+  {
+    "task": "modify product specifications",
+    "image_path": "/data3/screenspot/images/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "input_score": 0.08804917334075801
+  },
+  {
+    "task": "check the detailed information of the first product in the cart",
+    "image_path": "/data3/screenspot/images/web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "input_score": 0.08760390805368623
+  },
+  {
+    "task": "close the alart window",
+    "image_path": "/data3/screenspot/images/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "input_score": 0.08793701082194218
+  },
+  {
+    "task": "confirm leaving the shopping cart",
+    "image_path": "/data3/screenspot/images/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "input_score": 0.08795756054857985
+  },
+  {
+    "task": "cancel leaving",
+    "image_path": "/data3/screenspot/images/web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "input_score": 0.0880992971038238
+  },
+  {
+    "task": "remove the first item from the shopping cart",
+    "image_path": "/data3/screenspot/images/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "input_score": 0.08776694605422831
+  },
+  {
+    "task": "adjust the quantity of the first item",
+    "image_path": "/data3/screenspot/images/web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "input_score": 0.08780126044303445
+  },
+  {
+    "task": "input my first name",
+    "image_path": "/data3/screenspot/images/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "input_score": 0.08799861895121262
+  },
+  {
+    "task": "sign in the website",
+    "image_path": "/data3/screenspot/images/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "input_score": 0.08792605066227308
+  },
+  {
+    "task": "show more information of the items in cart",
+    "image_path": "/data3/screenspot/images/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "input_score": 0.08776578816141942
+  },
+  {
+    "task": "view help for email account",
+    "image_path": "/data3/screenspot/images/web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "input_score": 0.08795677321050482
+  },
+  {
+    "task": "add the creole seasoning to favorites",
+    "image_path": "/data3/screenspot/images/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "input_score": 0.08794656580302748
+  },
+  {
+    "task": "add the cocowhip light to cart",
+    "image_path": "/data3/screenspot/images/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "input_score": 0.08789663218229687
+  },
+  {
+    "task": "remove the first item from the comparison",
+    "image_path": "/data3/screenspot/images/web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "input_score": 0.08777538844795188
+  },
+  {
+    "task": "show password",
+    "image_path": "/data3/screenspot/images/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "input_score": 0.08808224716521845
+  },
+  {
+    "task": "forget my password",
+    "image_path": "/data3/screenspot/images/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "input_score": 0.08804074361689561
+  },
+  {
+    "task": "create an account",
+    "image_path": "/data3/screenspot/images/web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "input_score": 0.08801215550778985
+  },
+  {
+    "task": "input my password",
+    "image_path": "/data3/screenspot/images/web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "input_score": 0.08802891637081467
+  },
+  {
+    "task": "sign in the website",
+    "image_path": "/data3/screenspot/images/web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "input_score": 0.08792605066227308
+  },
+  {
+    "task": "check the information of the first product",
+    "image_path": "/data3/screenspot/images/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "input_score": 0.0877888534077044
+  },
+  {
+    "task": "check the price changes for the first item",
+    "image_path": "/data3/screenspot/images/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "input_score": 0.08775662608336789
+  },
+  {
+    "task": "change the sorting method",
+    "image_path": "/data3/screenspot/images/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "input_score": 0.08794959724874359
+  },
+  {
+    "task": "switch the product arrangement to a 2*2 grid",
+    "image_path": "/data3/screenspot/images/web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "input_score": 0.08766457742459169
+  },
+  {
+    "task": "show next image of this item",
+    "image_path": "/data3/screenspot/images/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "input_score": 0.08787682690784204
+  },
+  {
+    "task": "add this item to wish list",
+    "image_path": "/data3/screenspot/images/web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "input_score": 0.08790262095948123
+  },
+  {
+    "task": "close the image window",
+    "image_path": "/data3/screenspot/images/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "input_score": 0.08794718909746377
+  },
+  {
+    "task": "check the second image",
+    "image_path": "/data3/screenspot/images/web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "input_score": 0.08794075766554527
+  },
+  {
+    "task": "check computers and accessories items ",
+    "image_path": "/data3/screenspot/images/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "input_score": 0.08796381386435026
+  },
+  {
+    "task": "sign in the website",
+    "image_path": "/data3/screenspot/images/web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "input_score": 0.08792605066227308
+  },
+  {
+    "task": "search the products about football",
+    "image_path": "/data3/screenspot/images/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "input_score": 0.0879574974967136
+  },
+  {
+    "task": "check the information about the first item",
+    "image_path": "/data3/screenspot/images/web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "input_score": 0.0877767598416617
+  },
+  {
+    "task": "view the product photos",
+    "image_path": "/data3/screenspot/images/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "input_score": 0.0879583039833561
+  },
+  {
+    "task": "change the purchase quantity of the product",
+    "image_path": "/data3/screenspot/images/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "input_score": 0.08781629765778443
+  },
+  {
+    "task": "add this item to compare",
+    "image_path": "/data3/screenspot/images/web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "input_score": 0.08792649091402555
+  },
+  {
+    "task": "rate this product with four stars",
+    "image_path": "/data3/screenspot/images/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "input_score": 0.08792174972551574
+  },
+  {
+    "task": "provide a review for the current product",
+    "image_path": "/data3/screenspot/images/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "input_score": 0.08777431914874097
+  },
+  {
+    "task": "submit my review",
+    "image_path": "/data3/screenspot/images/web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "input_score": 0.08802924703142058
+  },
+  {
+    "task": "check the privacy and cookie policy",
+    "image_path": "/data3/screenspot/images/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "input_score": 0.08788296745010339
+  },
+  {
+    "task": "subscribe to feedback on this item",
+    "image_path": "/data3/screenspot/images/web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "input_score": 0.08789214464170728
+  },
+  {
+    "task": "go to the next page",
+    "image_path": "/data3/screenspot/images/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "input_score": 0.08794180679091915
+  },
+  {
+    "task": "go to the second page",
+    "image_path": "/data3/screenspot/images/web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "input_score": 0.08793309874863682
+  },
+  {
+    "task": "go to the next page",
+    "image_path": "/data3/screenspot/images/web_ecf42851-30ce-46ce-91d0-8dec02cfd8b7.png",
+    "input_score": 0.08794180679091915
+  },
+  {
+    "task": "view the details of the item",
+    "image_path": "/data3/screenspot/images/web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "input_score": 0.08782444904630247
+  },
+  {
+    "task": "view the previous photo",
+    "image_path": "/data3/screenspot/images/web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "input_score": 0.08794856040768245
+  },
+  {
+    "task": "search the result",
+    "image_path": "/data3/screenspot/images/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "input_score": 0.08799114082411023
+  },
+  {
+    "task": "zoom in on the map",
+    "image_path": "/data3/screenspot/images/web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "input_score": 0.0878953879056669
+  },
+  {
+    "task": "sign up",
+    "image_path": "/data3/screenspot/images/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "input_score": 0.08808328167611709
+  },
+  {
+    "task": "zoom out",
+    "image_path": "/data3/screenspot/images/web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "input_score": 0.08811129381053152
+  },
+  {
+    "task": "export the map data",
+    "image_path": "/data3/screenspot/images/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "input_score": 0.08796906776845635
+  },
+  {
+    "task": "locate to my position",
+    "image_path": "/data3/screenspot/images/web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "input_score": 0.08800066729480938
+  },
+  {
+    "task": "search the result",
+    "image_path": "/data3/screenspot/images/web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "input_score": 0.08799114082411023
+  },
+  {
+    "task": "share the map with someone",
+    "image_path": "/data3/screenspot/images/web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "input_score": 0.0879252811661395
+  },
+  {
+    "task": "check the gps traces",
+    "image_path": "/data3/screenspot/images/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "input_score": 0.08800098035385225
+  },
+  {
+    "task": "map layers",
+    "image_path": "/data3/screenspot/images/web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "input_score": 0.08809464191174603
+  },
+  {
+    "task": "view the result of erie country",
+    "image_path": "/data3/screenspot/images/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "input_score": 0.08786341691022152
+  },
+  {
+    "task": "close the search results",
+    "image_path": "/data3/screenspot/images/web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "input_score": 0.08795555119995309
+  },
+  {
+    "task": "check the result in new york",
+    "image_path": "/data3/screenspot/images/web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "input_score": 0.08789287976974251
+  },
+  {
+    "task": "navigating to boston",
+    "image_path": "/data3/screenspot/images/web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "input_score": 0.08805457975987262
+  },
+  {
+    "task": "more option of edit button",
+    "image_path": "/data3/screenspot/images/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "input_score": 0.08797607517854623
+  },
+  {
+    "task": "need help",
+    "image_path": "/data3/screenspot/images/web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "input_score": 0.08808633474163659
+  },
+  {
+    "task": "switch map layer to the opnvkarte",
+    "image_path": "/data3/screenspot/images/web_7872daa1-5a12-4ada-95cc-0dd9e655fb4f.png",
+    "input_score": 0.08784581847772475
+  },
+  {
+    "task": "add a place mark",
+    "image_path": "/data3/screenspot/images/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "input_score": 0.08794097607429592
+  },
+  {
+    "task": "check communities",
+    "image_path": "/data3/screenspot/images/web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "input_score": 0.08809906141940313
+  },
+  {
+    "task": "choosing the travel mode",
+    "image_path": "/data3/screenspot/images/web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "input_score": 0.08797626394279535
+  },
+  {
+    "task": "from where",
+    "image_path": "/data3/screenspot/images/web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "input_score": 0.08805502278404749
+  },
+  {
+    "task": "go",
+    "image_path": "/data3/screenspot/images/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "input_score": 0.08811209535832597
+  },
+  {
+    "task": "reverse directions",
+    "image_path": "/data3/screenspot/images/web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "input_score": 0.08809666250505112
+  },
+  {
+    "task": "check the first direction",
+    "image_path": "/data3/screenspot/images/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "input_score": 0.08795175513279704
+  },
+  {
+    "task": "view my map's history",
+    "image_path": "/data3/screenspot/images/web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "input_score": 0.08795532379717451
+  },
+  {
+    "task": "close the location labels on the map",
+    "image_path": "/data3/screenspot/images/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "input_score": 0.08778233865456656
+  },
+  {
+    "task": "check the direction of \"slight left onto hancock street\"",
+    "image_path": "/data3/screenspot/images/web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "input_score": 0.08775938098350296
+  },
+  {
+    "task": "export licence",
+    "image_path": "/data3/screenspot/images/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "input_score": 0.08810682877361842
+  },
+  {
+    "task": "change 42.3768",
+    "image_path": "/data3/screenspot/images/web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "input_score": 0.08776536084638879
+  },
+  {
+    "task": "mark a question place",
+    "image_path": "/data3/screenspot/images/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "input_score": 0.08796956531089685
+  },
+  {
+    "task": "goto openstreetmap france",
+    "image_path": "/data3/screenspot/images/web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "input_score": 0.0880566513485105
+  },
+  {
+    "task": "goto starbucks in auburn street",
+    "image_path": "/data3/screenspot/images/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "input_score": 0.08790534302806251
+  },
+  {
+    "task": "view user diaries",
+    "image_path": "/data3/screenspot/images/web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "input_score": 0.08800896003134498
+  },
+  {
+    "task": "register now",
+    "image_path": "/data3/screenspot/images/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "input_score": 0.08809151037080952
+  },
+  {
+    "task": "enter email address or username",
+    "image_path": "/data3/screenspot/images/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "input_score": 0.08795880202352815
+  },
+  {
+    "task": "enter password",
+    "image_path": "/data3/screenspot/images/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "input_score": 0.08808451071247986
+  },
+  {
+    "task": "select remember me",
+    "image_path": "/data3/screenspot/images/web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "input_score": 0.08803495263857652
+  },
+  {
+    "task": "check openstreetmap belglum",
+    "image_path": "/data3/screenspot/images/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "input_score": 0.08797744165890142
+  },
+  {
+    "task": "sign up",
+    "image_path": "/data3/screenspot/images/web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "input_score": 0.08808328167611709
+  },
+  {
+    "task": "edit note",
+    "image_path": "/data3/screenspot/images/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "input_score": 0.08809763439559481
+  },
+  {
+    "task": "add note",
+    "image_path": "/data3/screenspot/images/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "input_score": 0.08808287074396438
+  },
+  {
+    "task": "add a note for the place on the map",
+    "image_path": "/data3/screenspot/images/web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "input_score": 0.08766354054987875
+  },
+  {
+    "task": "check the map",
+    "image_path": "/data3/screenspot/images/web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "input_score": 0.08799075503539379
+  },
+  {
+    "task": "close the note bar",
+    "image_path": "/data3/screenspot/images/web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "input_score": 0.0879646245675089
+  },
+  {
+    "task": "select the html as share format",
+    "image_path": "/data3/screenspot/images/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "input_score": 0.08790490786477345
+  },
+  {
+    "task": "check geo uri",
+    "image_path": "/data3/screenspot/images/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "input_score": 0.08810028481135264
+  },
+  {
+    "task": "select image format",
+    "image_path": "/data3/screenspot/images/web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "input_score": 0.0880200694145862
+  },
+  {
+    "task": "more information",
+    "image_path": "/data3/screenspot/images/web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "input_score": 0.08807997329899551
+  },
+  {
+    "task": "start mapping",
+    "image_path": "/data3/screenspot/images/web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "input_score": 0.08808443328869417
+  },
+  {
+    "task": "view the english wiki",
+    "image_path": "/data3/screenspot/images/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "input_score": 0.08802146837401516
+  },
+  {
+    "task": "select search langugage",
+    "image_path": "/data3/screenspot/images/web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "input_score": 0.0880000466043495
+  },
+  {
+    "task": "read wikipedia in my language",
+    "image_path": "/data3/screenspot/images/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "input_score": 0.08794978115262993
+  },
+  {
+    "task": "download wikipedia app in google play store",
+    "image_path": "/data3/screenspot/images/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "input_score": 0.08793031926218928
+  },
+  {
+    "task": "download in apple app store",
+    "image_path": "/data3/screenspot/images/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "input_score": 0.08795846578922985
+  },
+  {
+    "task": "look into wikidata",
+    "image_path": "/data3/screenspot/images/web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "input_score": 0.08805648894216168
+  },
+  {
+    "task": "support with a donation",
+    "image_path": "/data3/screenspot/images/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "input_score": 0.08797926176681674
+  },
+  {
+    "task": "search result",
+    "image_path": "/data3/screenspot/images/web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "input_score": 0.08805719669636149
+  },
+  {
+    "task": "check wikipedia",
+    "image_path": "/data3/screenspot/images/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "input_score": 0.0881000059362768
+  },
+  {
+    "task": "goto france wikipedia",
+    "image_path": "/data3/screenspot/images/web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "input_score": 0.08811007400326187
+  },
+  {
+    "task": "check the result of machine learning",
+    "image_path": "/data3/screenspot/images/web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "input_score": 0.08787053850446495
+  },
+  {
+    "task": "search result for machine learning",
+    "image_path": "/data3/screenspot/images/web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "input_score": 0.08793734407141268
+  },
+  {
+    "task": "switch to discussion",
+    "image_path": "/data3/screenspot/images/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "input_score": 0.08804144485119747
+  },
+  {
+    "task": "look into reference [1]",
+    "image_path": "/data3/screenspot/images/web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "input_score": 0.08797269887500052
+  },
+  {
+    "task": "language setting",
+    "image_path": "/data3/screenspot/images/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "input_score": 0.08805730910464157
+  },
+  {
+    "task": "check the hyponyms of deep learning",
+    "image_path": "/data3/screenspot/images/web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "input_score": 0.08789308544111242
+  },
+  {
+    "task": "check out the month's challenges",
+    "image_path": "/data3/screenspot/images/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "input_score": 0.0879050526925988
+  },
+  {
+    "task": "click on the picture of the day",
+    "image_path": "/data3/screenspot/images/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "input_score": 0.08776983859561788
+  },
+  {
+    "task": "swith language of current web page",
+    "image_path": "/data3/screenspot/images/web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "input_score": 0.08792184942334859
+  },
+  {
+    "task": "play the media of the day",
+    "image_path": "/data3/screenspot/images/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "input_score": 0.08783790646935317
+  },
+  {
+    "task": "copy url link of the media",
+    "image_path": "/data3/screenspot/images/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "input_score": 0.08791576911451715
+  },
+  {
+    "task": "download current webpage to local as pdf file",
+    "image_path": "/data3/screenspot/images/web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "input_score": 0.087881543312226
+  },
+  {
+    "task": "open wikispecies",
+    "image_path": "/data3/screenspot/images/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "input_score": 0.08808387265034355
+  },
+  {
+    "task": "open mediawiki",
+    "image_path": "/data3/screenspot/images/web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "input_score": 0.08807573323949774
+  },
+  {
+    "task": "input word to search in wikidata",
+    "image_path": "/data3/screenspot/images/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "input_score": 0.08792544827082226
+  },
+  {
+    "task": "switch language of current page",
+    "image_path": "/data3/screenspot/images/web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "input_score": 0.08795771997568114
+  },
+  {
+    "task": "open the picture of earth",
+    "image_path": "/data3/screenspot/images/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "input_score": 0.08793603998609129
+  },
+  {
+    "task": "open wikidata artcle upon earth item",
+    "image_path": "/data3/screenspot/images/web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "input_score": 0.08798802411479047
+  },
+  {
+    "task": "enter username to create wikidate account",
+    "image_path": "/data3/screenspot/images/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "input_score": 0.08793720723707907
+  },
+  {
+    "task": "switch page's language into chinese",
+    "image_path": "/data3/screenspot/images/web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "input_score": 0.08794709191733203
+  },
+  {
+    "task": "refresh captcha picture",
+    "image_path": "/data3/screenspot/images/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "input_score": 0.08809889804660415
+  },
+  {
+    "task": "enter text showing in capcha",
+    "image_path": "/data3/screenspot/images/web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "input_score": 0.08791780435167443
+  },
+  {
+    "task": "open page about arsene wenger",
+    "image_path": "/data3/screenspot/images/web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "input_score": 0.08793429823061484
+  },
+  {
+    "task": "open page about arsenal f.c.",
+    "image_path": "/data3/screenspot/images/web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "input_score": 0.08797335818111406
+  },
+  {
+    "task": "open talk page",
+    "image_path": "/data3/screenspot/images/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "input_score": 0.08803740936289965
+  },
+  {
+    "task": "unflod items about players",
+    "image_path": "/data3/screenspot/images/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "input_score": 0.08796130134832475
+  },
+  {
+    "task": "open the logo of arsenal f.c ",
+    "image_path": "/data3/screenspot/images/web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "input_score": 0.08791596870552605
+  },
+  {
+    "task": "add language",
+    "image_path": "/data3/screenspot/images/web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "input_score": 0.0880706095660282
+  },
+  {
+    "task": "open options page",
+    "image_path": "/data3/screenspot/images/web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "input_score": 0.08803392506246516
+  },
+  {
+    "task": "show cloth color for current season",
+    "image_path": "/data3/screenspot/images/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "input_score": 0.0879610233860123
+  },
+  {
+    "task": "open article about mikel arteta",
+    "image_path": "/data3/screenspot/images/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "input_score": 0.08796055008550206
+  },
+  {
+    "task": "open pic of home colours",
+    "image_path": "/data3/screenspot/images/web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "input_score": 0.08800103547380363
+  },
+  {
+    "task": "show helps for how to edit wikipedia page information",
+    "image_path": "/data3/screenspot/images/web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "input_score": 0.08783248243096986
+  },
+  {
+    "task": "open options",
+    "image_path": "/data3/screenspot/images/web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "input_score": 0.08808042852155135
+  },
+  {
+    "task": "show the picture of gloden trophy owned by ansenal",
+    "image_path": "/data3/screenspot/images/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "input_score": 0.08780855511624339
+  },
+  {
+    "task": "enter the wikipedia page of champions league",
+    "image_path": "/data3/screenspot/images/web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "input_score": 0.08793245024538401
+  },
+  {
+    "task": "open the picture of core vitoria diehl",
+    "image_path": "/data3/screenspot/images/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "input_score": 0.08779849622001279
+  },
+  {
+    "task": "show the image of queen lili's uokalani of hawaii",
+    "image_path": "/data3/screenspot/images/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "input_score": 0.08765363480150114
+  },
+  {
+    "task": "enter wikipedia page of core victoria deihl",
+    "image_path": "/data3/screenspot/images/web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "input_score": 0.08788381138131934
+  },
+  {
+    "task": "go to homepage of wikipedia",
+    "image_path": "/data3/screenspot/images/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "input_score": 0.08800655241189644
+  },
+  {
+    "task": "open image of george frideric handel",
+    "image_path": "/data3/screenspot/images/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "input_score": 0.08784242386723452
+  },
+  {
+    "task": "input keyword to seaching ",
+    "image_path": "/data3/screenspot/images/web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "input_score": 0.08799990838902554
+  },
+  {
+    "task": "open 'retrospect and prospect in computer-based translation' paper",
+    "image_path": "/data3/screenspot/images/web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "input_score": 0.08768671178037782
+  },
+  {
+    "task": "open linked pdf file",
+    "image_path": "/data3/screenspot/images/web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "input_score": 0.08802493618266667
+  },
+  {
+    "task": "let website remmeber account information for no logging in the next year",
+    "image_path": "/data3/screenspot/images/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "input_score": 0.08762965482167664
+  },
+  {
+    "task": "enter username",
+    "image_path": "/data3/screenspot/images/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "input_score": 0.08809191608644393
+  },
+  {
+    "task": "log in",
+    "image_path": "/data3/screenspot/images/web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "input_score": 0.08806491138135805
+  },
+  {
+    "task": "forget password",
+    "image_path": "/data3/screenspot/images/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "input_score": 0.0880909248783218
+  },
+  {
+    "task": "create account",
+    "image_path": "/data3/screenspot/images/web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "input_score": 0.0880782379057668
+  },
+  {
+    "task": "enter pape of 1,000 palaces to see before you die",
+    "image_path": "/data3/screenspot/images/web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "input_score": 0.0874907114604228
+  },
+  {
+    "task": "open the page of bougainville island",
+    "image_path": "/data3/screenspot/images/web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "input_score": 0.08789019486574409
+  },
+  {
+    "task": "return the homepage of mediawiki",
+    "image_path": "/data3/screenspot/images/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "input_score": 0.08791785066719784
+  },
+  {
+    "task": "switch to the discussion page",
+    "image_path": "/data3/screenspot/images/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "input_score": 0.08793069126243871
+  },
+  {
+    "task": "open the photo of the wikidemiad hackathon 2023",
+    "image_path": "/data3/screenspot/images/web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "input_score": 0.08761623625125428
+  },
+  {
+    "task": "download all mediawiki data",
+    "image_path": "/data3/screenspot/images/web_d920add5-4b0d-41a6-8de8-2b2b443e7524.png",
+    "input_score": 0.08796676268540696
+  },
+  {
+    "task": "open wikipedia page of football",
+    "image_path": "/data3/screenspot/images/web_55f5dbd0-ac88-4695-a7a8-03f52a7464cb.png",
+    "input_score": 0.08799181836006538
+  },
+  {
+    "task": "open options",
+    "image_path": "/data3/screenspot/images/web_55f5dbd0-ac88-4695-a7a8-03f52a7464cb.png",
+    "input_score": 0.08808042852155135
+  },
+  {
+    "task": "portugal ",
+    "image_path": "/data3/screenspot/images/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "input_score": 0.08812502343056644
+  },
+  {
+    "task": "enter page of norway",
+    "image_path": "/data3/screenspot/images/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "input_score": 0.08797954062476604
+  },
+  {
+    "task": "open arsenal f.c. records and player records webpage",
+    "image_path": "/data3/screenspot/images/web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "input_score": 0.08780455739992152
+  },
+  {
+    "task": "open keras",
+    "image_path": "/data3/screenspot/images/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "input_score": 0.08809455889101324
+  },
+  {
+    "task": "open orable data mining page",
+    "image_path": "/data3/screenspot/images/web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "input_score": 0.08792926706785612
+  },
+  {
+    "task": "open image of book named machined learning",
+    "image_path": "/data3/screenspot/images/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "input_score": 0.08789200126415352
+  },
+  {
+    "task": "enter page of peer-reviewd scientific journal",
+    "image_path": "/data3/screenspot/images/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "input_score": 0.08793678709865718
+  },
+  {
+    "task": "hide sidebar",
+    "image_path": "/data3/screenspot/images/web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "input_score": 0.0881119740565043
+  },
+  {
+    "task": "change page lanuage",
+    "image_path": "/data3/screenspot/images/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "input_score": 0.08800676793361734
+  },
+  {
+    "task": "jump to website of 'induction of decision trees'",
+    "image_path": "/data3/screenspot/images/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "input_score": 0.08778774192332167
+  },
+  {
+    "task": "switch to talk column",
+    "image_path": "/data3/screenspot/images/web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "input_score": 0.0879932438363614
+  },
+  {
+    "task": "play the video",
+    "image_path": "/data3/screenspot/images/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "input_score": 0.08798520285554785
+  },
+  {
+    "task": "go to page of darpa",
+    "image_path": "/data3/screenspot/images/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "input_score": 0.08795262102337481
+  },
+  {
+    "task": "get citation of current webpage",
+    "image_path": "/data3/screenspot/images/web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "input_score": 0.08799217498170718
+  },
+  {
+    "task": "delete the 'article' tag for searching",
+    "image_path": "/data3/screenspot/images/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "input_score": 0.08782123444610415
+  },
+  {
+    "task": "input keyword to seaching ",
+    "image_path": "/data3/screenspot/images/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "input_score": 0.08799990838902554
+  },
+  {
+    "task": "clear input bar",
+    "image_path": "/data3/screenspot/images/web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "input_score": 0.0880303057610595
+  },
+  {
+    "task": "search in all area",
+    "image_path": "/data3/screenspot/images/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "input_score": 0.08796563769301839
+  },
+  {
+    "task": "show advanced searching options",
+    "image_path": "/data3/screenspot/images/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "input_score": 0.08799189136312226
+  },
+  {
+    "task": "display the next 20 searching results",
+    "image_path": "/data3/screenspot/images/web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "input_score": 0.08778814923109386
+  },
+  {
+    "task": "open page of gpt-2",
+    "image_path": "/data3/screenspot/images/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "input_score": 0.08787392785594259
+  },
+  {
+    "task": "show content of reinforcement learning",
+    "image_path": "/data3/screenspot/images/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "input_score": 0.08797790663479815
+  },
+  {
+    "task": "enter page of machine learning translator",
+    "image_path": "/data3/screenspot/images/web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "input_score": 0.08793944673254249
+  }
+]

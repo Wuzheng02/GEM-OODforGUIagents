@@ -1,0 +1,1672 @@
+[
+  {
+    "task": "check my apple id",
+    "image_path": "/data3/screenspot/images/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "input_score": 0.06670563709217446
+  },
+  {
+    "task": "view the language & region settings",
+    "image_path": "/data3/screenspot/images/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "input_score": 0.06644404214254794
+  },
+  {
+    "task": "open time machine",
+    "image_path": "/data3/screenspot/images/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "input_score": 0.06672242551183627
+  },
+  {
+    "task": "check desplay settings",
+    "image_path": "/data3/screenspot/images/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "input_score": 0.06666486889978643
+  },
+  {
+    "task": "software update",
+    "image_path": "/data3/screenspot/images/pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "input_score": 0.06676248504279263
+  },
+  {
+    "task": "switch to desktop",
+    "image_path": "/data3/screenspot/images/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "input_score": 0.05932372451954311
+  },
+  {
+    "task": "show screen saver after",
+    "image_path": "/data3/screenspot/images/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "input_score": 0.05928252661518535
+  },
+  {
+    "task": "choose the ken burns",
+    "image_path": "/data3/screenspot/images/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "input_score": 0.059283580122766244
+  },
+  {
+    "task": "have question",
+    "image_path": "/data3/screenspot/images/pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "input_score": 0.05933762676360029
+  },
+  {
+    "task": "switch to dark mode",
+    "image_path": "/data3/screenspot/images/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "input_score": 0.0681977243398135
+  },
+  {
+    "task": "choose highlight color",
+    "image_path": "/data3/screenspot/images/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "input_score": 0.0682691488564241
+  },
+  {
+    "task": "set default web browser",
+    "image_path": "/data3/screenspot/images/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "input_score": 0.06824078336685298
+  },
+  {
+    "task": "jump to the spot that's clicked",
+    "image_path": "/data3/screenspot/images/pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "input_score": 0.06795682099281465
+  },
+  {
+    "task": "switch to apps",
+    "image_path": "/data3/screenspot/images/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "input_score": 0.05593846887416127
+  },
+  {
+    "task": "add a language",
+    "image_path": "/data3/screenspot/images/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "input_score": 0.0558130066804034
+  },
+  {
+    "task": "translation languages setting",
+    "image_path": "/data3/screenspot/images/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "input_score": 0.0559614583105609
+  },
+  {
+    "task": "advanced setting",
+    "image_path": "/data3/screenspot/images/pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "input_score": 0.055949207460510166
+  },
+  {
+    "task": "check the battery",
+    "image_path": "/data3/screenspot/images/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "input_score": 0.05487372804106316
+  },
+  {
+    "task": "siri",
+    "image_path": "/data3/screenspot/images/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "input_score": 0.05501798915064731
+  },
+  {
+    "task": "open mind2web folderß",
+    "image_path": "/data3/screenspot/images/pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "input_score": 0.054881845757291874
+  },
+  {
+    "task": "do not disturb mode",
+    "image_path": "/data3/screenspot/images/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "input_score": 0.05167012376431857
+  },
+  {
+    "task": "adjust keyboard brightness",
+    "image_path": "/data3/screenspot/images/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "input_score": 0.05175877352181929
+  },
+  {
+    "task": "go to music app",
+    "image_path": "/data3/screenspot/images/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "input_score": 0.05157869040402317
+  },
+  {
+    "task": "check bluetooth",
+    "image_path": "/data3/screenspot/images/pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "input_score": 0.05175375241330535
+  },
+  {
+    "task": "view files from airdrop",
+    "image_path": "/data3/screenspot/images/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "input_score": 0.06525033531699133
+  },
+  {
+    "task": "view downloads files",
+    "image_path": "/data3/screenspot/images/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "input_score": 0.06555192878241678
+  },
+  {
+    "task": "open synapse folder",
+    "image_path": "/data3/screenspot/images/pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "input_score": 0.06554299146915823
+  },
+  {
+    "task": "zoom out",
+    "image_path": "/data3/screenspot/images/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "input_score": 0.08628296450637168
+  },
+  {
+    "task": "zoom in",
+    "image_path": "/data3/screenspot/images/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "input_score": 0.08617529370564771
+  },
+  {
+    "task": "switch to device",
+    "image_path": "/data3/screenspot/images/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "input_score": 0.08616609650152779
+  },
+  {
+    "task": "share my location",
+    "image_path": "/data3/screenspot/images/pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "input_score": 0.08616103278794099
+  },
+  {
+    "task": "open maps app",
+    "image_path": "/data3/screenspot/images/pc_9b6669c9-230d-486a-ad4c-256eb9015dcb.png",
+    "input_score": 0.09775654251547446
+  },
+  {
+    "task": "open wechat",
+    "image_path": "/data3/screenspot/images/pc_9b6669c9-230d-486a-ad4c-256eb9015dcb.png",
+    "input_score": 0.09773562867298115
+  },
+  {
+    "task": "calculator",
+    "image_path": "/data3/screenspot/images/pc_9b6669c9-230d-486a-ad4c-256eb9015dcb.png",
+    "input_score": 0.09778139533846283
+  },
+  {
+    "task": "safari",
+    "image_path": "/data3/screenspot/images/pc_64100146-b681-4263-b86c-16d6932b8078.png",
+    "input_score": 0.09780110174298351
+  },
+  {
+    "task": "finder",
+    "image_path": "/data3/screenspot/images/pc_64100146-b681-4263-b86c-16d6932b8078.png",
+    "input_score": 0.09778598787339007
+  },
+  {
+    "task": "trash",
+    "image_path": "/data3/screenspot/images/pc_64100146-b681-4263-b86c-16d6932b8078.png",
+    "input_score": 0.09778339749229302
+  },
+  {
+    "task": "help",
+    "image_path": "/data3/screenspot/images/pc_64100146-b681-4263-b86c-16d6932b8078.png",
+    "input_score": 0.09777233138548616
+  },
+  {
+    "task": "check the date and time",
+    "image_path": "/data3/screenspot/images/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "input_score": 0.018705357888238596
+  },
+  {
+    "task": "connect wifi",
+    "image_path": "/data3/screenspot/images/pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "input_score": 0.01940013863027589
+  },
+  {
+    "task": "adjust voice",
+    "image_path": "/data3/screenspot/images/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "input_score": 0.008813416186660785
+  },
+  {
+    "task": "use the screen mirroring",
+    "image_path": "/data3/screenspot/images/pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "input_score": 0.008980157223370304
+  },
+  {
+    "task": "turn off airdrop",
+    "image_path": "/data3/screenspot/images/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "input_score": 0.014842804121276925
+  },
+  {
+    "task": "set as contacts only",
+    "image_path": "/data3/screenspot/images/pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "input_score": 0.014845689650153978
+  },
+  {
+    "task": "open work mode ",
+    "image_path": "/data3/screenspot/images/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "input_score": 0.022683460097437068
+  },
+  {
+    "task": "focus preferences",
+    "image_path": "/data3/screenspot/images/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "input_score": 0.02277429092785109
+  },
+  {
+    "task": "select input method",
+    "image_path": "/data3/screenspot/images/pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "input_score": 0.02255893206288487
+  },
+  {
+    "task": "connect airpods",
+    "image_path": "/data3/screenspot/images/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "input_score": 0.04772815965257852
+  },
+  {
+    "task": "back to previous page",
+    "image_path": "/data3/screenspot/images/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "input_score": 0.04762386373558148
+  },
+  {
+    "task": "question about bluetooth",
+    "image_path": "/data3/screenspot/images/pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "input_score": 0.0477534227155662
+  },
+  {
+    "task": "share",
+    "image_path": "/data3/screenspot/images/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "input_score": 0.029392524057223608
+  },
+  {
+    "task": "search in macos user guide",
+    "image_path": "/data3/screenspot/images/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "input_score": 0.029047141522927693
+  },
+  {
+    "task": "open bluetooth preferences for me",
+    "image_path": "/data3/screenspot/images/pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "input_score": 0.02929713002447063
+  },
+  {
+    "task": "hidden all shortcut",
+    "image_path": "/data3/screenspot/images/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "input_score": 0.022253909022495192
+  },
+  {
+    "task": "open wechat",
+    "image_path": "/data3/screenspot/images/pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "input_score": 0.022181000712025705
+  },
+  {
+    "task": "turn wifi off",
+    "image_path": "/data3/screenspot/images/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "input_score": 0.06333568759800362
+  },
+  {
+    "task": "select network",
+    "image_path": "/data3/screenspot/images/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "input_score": 0.06328886335197288
+  },
+  {
+    "task": "add a device",
+    "image_path": "/data3/screenspot/images/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "input_score": 0.06322761875132595
+  },
+  {
+    "task": "delete an item",
+    "image_path": "/data3/screenspot/images/pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "input_score": 0.0632404354684942
+  },
+  {
+    "task": "select the interface",
+    "image_path": "/data3/screenspot/images/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "input_score": 0.06318775407818368
+  },
+  {
+    "task": "create the new service",
+    "image_path": "/data3/screenspot/images/pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "input_score": 0.06314801530268424
+  },
+  {
+    "task": "set low power mode",
+    "image_path": "/data3/screenspot/images/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "input_score": 0.05335451418663583
+  },
+  {
+    "task": "check battery usage history",
+    "image_path": "/data3/screenspot/images/pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "input_score": 0.053388734093313815
+  },
+  {
+    "task": "show emoji & symbols",
+    "image_path": "/data3/screenspot/images/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "input_score": 0.03406995528315564
+  },
+  {
+    "task": "open keyboard preferences",
+    "image_path": "/data3/screenspot/images/pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "input_score": 0.0341844013065026
+  },
+  {
+    "task": "add a new account",
+    "image_path": "/data3/screenspot/images/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "input_score": 0.05326949678093826
+  },
+  {
+    "task": "search for account",
+    "image_path": "/data3/screenspot/images/pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "input_score": 0.05336274580849983
+  },
+  {
+    "task": "cancel the calculator",
+    "image_path": "/data3/screenspot/images/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "input_score": 0.062289779002075635
+  },
+  {
+    "task": "switch to privacy",
+    "image_path": "/data3/screenspot/images/pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "input_score": 0.06236034693866038
+  },
+  {
+    "task": "switch to alerts mode",
+    "image_path": "/data3/screenspot/images/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "input_score": 0.0689748801989666
+  },
+  {
+    "task": "allow notifications",
+    "image_path": "/data3/screenspot/images/pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "input_score": 0.06906700852056483
+  },
+  {
+    "task": "open do not disturb mode",
+    "image_path": "/data3/screenspot/images/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "input_score": 0.06898078028119553
+  },
+  {
+    "task": "add an people that allowed notifications from",
+    "image_path": "/data3/screenspot/images/pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "input_score": 0.068721208448761
+  },
+  {
+    "task": "change user's password",
+    "image_path": "/data3/screenspot/images/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "input_score": 0.053308235955651095
+  },
+  {
+    "task": "unlock to make changes",
+    "image_path": "/data3/screenspot/images/pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "input_score": 0.05336853909019858
+  },
+  {
+    "task": "check app limits",
+    "image_path": "/data3/screenspot/images/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "input_score": 0.0632852171900537
+  },
+  {
+    "task": "view the always allowed apps",
+    "image_path": "/data3/screenspot/images/pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "input_score": 0.06311308409109807
+  },
+  {
+    "task": "open user apple watch to unlock",
+    "image_path": "/data3/screenspot/images/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "input_score": 0.060236784821604404
+  },
+  {
+    "task": "view firewall",
+    "image_path": "/data3/screenspot/images/pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "input_score": 0.06047117856254567
+  },
+  {
+    "task": "switch to time zone",
+    "image_path": "/data3/screenspot/images/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "input_score": 0.05582717234868286
+  },
+  {
+    "task": "has question",
+    "image_path": "/data3/screenspot/images/pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "input_score": 0.05594056661957586
+  },
+  {
+    "task": "open pycharm",
+    "image_path": "/data3/screenspot/images/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "input_score": 0.09329666013266949
+  },
+  {
+    "task": "open anaconda",
+    "image_path": "/data3/screenspot/images/pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "input_score": 0.0933093867732378
+  },
+  {
+    "task": "delete this email",
+    "image_path": "/data3/screenspot/images/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "input_score": 0.07826311859429615
+  },
+  {
+    "task": "forward email",
+    "image_path": "/data3/screenspot/images/pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "input_score": 0.07838106496616012
+  },
+  {
+    "task": "search in emails",
+    "image_path": "/data3/screenspot/images/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "input_score": 0.052008957892522856
+  },
+  {
+    "task": "view attachment",
+    "image_path": "/data3/screenspot/images/pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "input_score": 0.05218342425187869
+  },
+  {
+    "task": "add images",
+    "image_path": "/data3/screenspot/images/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "input_score": 0.04151857016690896
+  },
+  {
+    "task": "add a recipient",
+    "image_path": "/data3/screenspot/images/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "input_score": 0.04136958836122694
+  },
+  {
+    "task": "adjust font size",
+    "image_path": "/data3/screenspot/images/pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "input_score": 0.041443695784895374
+  },
+  {
+    "task": "check junk emails",
+    "image_path": "/data3/screenspot/images/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "input_score": 0.07834950985594852
+  },
+  {
+    "task": "open the first email from researchgate",
+    "image_path": "/data3/screenspot/images/pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "input_score": 0.07809261067824512
+  },
+  {
+    "task": "open the image in memo",
+    "image_path": "/data3/screenspot/images/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "input_score": 0.06213143631027916
+  },
+  {
+    "task": "lock the memo",
+    "image_path": "/data3/screenspot/images/pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "input_score": 0.06240469971338334
+  },
+  {
+    "task": "share throught airdrop",
+    "image_path": "/data3/screenspot/images/pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+    "input_score": 0.06494628242276597
+  },
+  {
+    "task": "take a photo to insert into the memo",
+    "image_path": "/data3/screenspot/images/pc_2086f81a-7a9f-472f-bfe7-50394f5a2bc6.png",
+    "input_score": 0.06200825764809904
+  },
+  {
+    "task": "add scan documents",
+    "image_path": "/data3/screenspot/images/pc_2086f81a-7a9f-472f-bfe7-50394f5a2bc6.png",
+    "input_score": 0.062371650904575276
+  },
+  {
+    "task": "search in app store",
+    "image_path": "/data3/screenspot/images/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "input_score": 0.07824455823316609
+  },
+  {
+    "task": "next page",
+    "image_path": "/data3/screenspot/images/pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "input_score": 0.07838178774418461
+  },
+  {
+    "task": "share this page",
+    "image_path": "/data3/screenspot/images/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "input_score": 0.08023177650099596
+  },
+  {
+    "task": "back to previous page",
+    "image_path": "/data3/screenspot/images/pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "input_score": 0.0801893046730373
+  },
+  {
+    "task": "get the bear markdown notes app",
+    "image_path": "/data3/screenspot/images/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "input_score": 0.08016253688435515
+  },
+  {
+    "task": "view the pixelmator app",
+    "image_path": "/data3/screenspot/images/pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "input_score": 0.08015244419007901
+  },
+  {
+    "task": "open business categories",
+    "image_path": "/data3/screenspot/images/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "input_score": 0.08026574389754955
+  },
+  {
+    "task": "download fantastical from icloud",
+    "image_path": "/data3/screenspot/images/pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "input_score": 0.08021217822260893
+  },
+  {
+    "task": "view the 2023 app store awards",
+    "image_path": "/data3/screenspot/images/pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+    "input_score": 0.07986925749062812
+  },
+  {
+    "task": "back to previous folder",
+    "image_path": "/data3/screenspot/images/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "input_score": 0.05589694184343257
+  },
+  {
+    "task": "open d1_one",
+    "image_path": "/data3/screenspot/images/pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "input_score": 0.05583778189949879
+  },
+  {
+    "task": "open the file",
+    "image_path": "/data3/screenspot/images/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "input_score": 0.05581948833776609
+  },
+  {
+    "task": "create a new document",
+    "image_path": "/data3/screenspot/images/pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "input_score": 0.05575881507290163
+  },
+  {
+    "task": "show the files in list",
+    "image_path": "/data3/screenspot/images/pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+    "input_score": 0.05565780360640983
+  },
+  {
+    "task": "open a blank document",
+    "image_path": "/data3/screenspot/images/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "input_score": 0.08520554791763714
+  },
+  {
+    "task": "my account",
+    "image_path": "/data3/screenspot/images/pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "input_score": 0.08528920805912146
+  },
+  {
+    "task": "enlarge font size",
+    "image_path": "/data3/screenspot/images/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "input_score": 0.07973535055740434
+  },
+  {
+    "task": "save file",
+    "image_path": "/data3/screenspot/images/pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "input_score": 0.07974011914642978
+  },
+  {
+    "task": "add a new pen",
+    "image_path": "/data3/screenspot/images/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "input_score": 0.07961772026718356
+  },
+  {
+    "task": "choose the red pen",
+    "image_path": "/data3/screenspot/images/pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "input_score": 0.07964390019555934
+  },
+  {
+    "task": "adjust orientation",
+    "image_path": "/data3/screenspot/images/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "input_score": 0.0797580266931915
+  },
+  {
+    "task": "adjust the left indent",
+    "image_path": "/data3/screenspot/images/pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "input_score": 0.07966368407140645
+  },
+  {
+    "task": "insert a shape",
+    "image_path": "/data3/screenspot/images/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "input_score": 0.07966888668144546
+  },
+  {
+    "task": "add a screenshot",
+    "image_path": "/data3/screenspot/images/pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "input_score": 0.07968157975980136
+  },
+  {
+    "task": "insert a square",
+    "image_path": "/data3/screenspot/images/pc_7fe3e2d7-db08-47b1-80a1-36775ab888a4.png",
+    "input_score": 0.07967234352683537
+  },
+  {
+    "task": "insert a left arrow",
+    "image_path": "/data3/screenspot/images/pc_7fe3e2d7-db08-47b1-80a1-36775ab888a4.png",
+    "input_score": 0.07963740249821932
+  },
+  {
+    "task": "add a sunburst chart",
+    "image_path": "/data3/screenspot/images/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "input_score": 0.07962328067612189
+  },
+  {
+    "task": "turn on auto save",
+    "image_path": "/data3/screenspot/images/pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "input_score": 0.07961875902137935
+  },
+  {
+    "task": "switch to 20 size font",
+    "image_path": "/data3/screenspot/images/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "input_score": 0.07948369683798973
+  },
+  {
+    "task": "share the word file",
+    "image_path": "/data3/screenspot/images/pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "input_score": 0.07961091859907073
+  },
+  {
+    "task": "choose ms pgothic for heading",
+    "image_path": "/data3/screenspot/images/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "input_score": 0.07960038723024163
+  },
+  {
+    "task": "choose apple chancery",
+    "image_path": "/data3/screenspot/images/pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "input_score": 0.07969161241900787
+  },
+  {
+    "task": "switch to design",
+    "image_path": "/data3/screenspot/images/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "input_score": 0.08862135092120796
+  },
+  {
+    "task": "go back to home",
+    "image_path": "/data3/screenspot/images/pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "input_score": 0.08859950909453776
+  },
+  {
+    "task": "rotate title box",
+    "image_path": "/data3/screenspot/images/pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+    "input_score": 0.08864284093177863
+  },
+  {
+    "task": "choose the 1), 2), 3) …",
+    "image_path": "/data3/screenspot/images/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "input_score": 0.08817059703196073
+  },
+  {
+    "task": "bullets and numbering settings",
+    "image_path": "/data3/screenspot/images/pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "input_score": 0.0886126473187221
+  },
+  {
+    "task": "add a new slide",
+    "image_path": "/data3/screenspot/images/pc_c243b681-99cd-4726-8710-51ff1c024208.png",
+    "input_score": 0.0797570706605895
+  },
+  {
+    "task": "sign up for free",
+    "image_path": "/data3/screenspot/images/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "input_score": 0.06094194568141712
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "input_score": 0.06104894112459938
+  },
+  {
+    "task": "input the email address",
+    "image_path": "/data3/screenspot/images/pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+    "input_score": 0.06192281756919535
+  },
+  {
+    "task": "run the code",
+    "image_path": "/data3/screenspot/images/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "input_score": 0.088177708681535
+  },
+  {
+    "task": "debug",
+    "image_path": "/data3/screenspot/images/pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "input_score": 0.0882919886688557
+  },
+  {
+    "task": "check file colors",
+    "image_path": "/data3/screenspot/images/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "input_score": 0.07766379708702467
+  },
+  {
+    "task": "ok",
+    "image_path": "/data3/screenspot/images/pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "input_score": 0.07779162898712984
+  },
+  {
+    "task": "check python interpreter",
+    "image_path": "/data3/screenspot/images/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "input_score": 0.07768952279975098
+  },
+  {
+    "task": "view plugins",
+    "image_path": "/data3/screenspot/images/pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "input_score": 0.07774821321227723
+  },
+  {
+    "task": "select python interpreter",
+    "image_path": "/data3/screenspot/images/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "input_score": 0.07773207123759722
+  },
+  {
+    "task": "add a new package",
+    "image_path": "/data3/screenspot/images/pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "input_score": 0.07757913870810078
+  },
+  {
+    "task": "cancel showing plots in tool windows",
+    "image_path": "/data3/screenspot/images/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "input_score": 0.07750604078796182
+  },
+  {
+    "task": "cancel settings",
+    "image_path": "/data3/screenspot/images/pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "input_score": 0.07771633770404328
+  },
+  {
+    "task": "pause the debugger",
+    "image_path": "/data3/screenspot/images/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "input_score": 0.08822915440380921
+  },
+  {
+    "task": "stop the debugger",
+    "image_path": "/data3/screenspot/images/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "input_score": 0.08821719526200046
+  },
+  {
+    "task": "minimize the debug panel",
+    "image_path": "/data3/screenspot/images/pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "input_score": 0.08816965941934911
+  },
+  {
+    "task": "select the gzip file format",
+    "image_path": "/data3/screenspot/images/pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+    "input_score": 0.03660310273691799
+  },
+  {
+    "task": "adjust the brightness",
+    "image_path": "/data3/screenspot/images/pc_de69c5ff-2e8a-4b48-b7c0-629da006b982.png",
+    "input_score": 0.01138094093503492
+  },
+  {
+    "task": "set mirror display",
+    "image_path": "/data3/screenspot/images/pc_de69c5ff-2e8a-4b48-b7c0-629da006b982.png",
+    "input_score": 0.011362295650607559
+  },
+  {
+    "task": "hide menu icon",
+    "image_path": "/data3/screenspot/images/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "input_score": 0.0584023191894202
+  },
+  {
+    "task": "switch to display",
+    "image_path": "/data3/screenspot/images/pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "input_score": 0.05827406005069937
+  },
+  {
+    "task": "buy betterdisplay pro",
+    "image_path": "/data3/screenspot/images/pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+    "input_score": 0.03679523583580727
+  },
+  {
+    "task": "start record",
+    "image_path": "/data3/screenspot/images/pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+    "input_score": 0.06937196393563119
+  },
+  {
+    "task": "search in activity monitor",
+    "image_path": "/data3/screenspot/images/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "input_score": 0.06801228591973459
+  },
+  {
+    "task": "check the google chrome app",
+    "image_path": "/data3/screenspot/images/pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "input_score": 0.06800489678079075
+  },
+  {
+    "task": "terminate this process",
+    "image_path": "/data3/screenspot/images/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "input_score": 0.06807492326004148
+  },
+  {
+    "task": "detail information",
+    "image_path": "/data3/screenspot/images/pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "input_score": 0.06813410861537905
+  },
+  {
+    "task": "add a shortcut",
+    "image_path": "/data3/screenspot/images/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "input_score": 0.07425811917988236
+  },
+  {
+    "task": "open gallery",
+    "image_path": "/data3/screenspot/images/pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "input_score": 0.07440319569310506
+  },
+  {
+    "task": "switch to apps",
+    "image_path": "/data3/screenspot/images/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "input_score": 0.07715742330842729
+  },
+  {
+    "task": "add a send message action",
+    "image_path": "/data3/screenspot/images/pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "input_score": 0.07698195161717056
+  },
+  {
+    "task": "run the shortcut",
+    "image_path": "/data3/screenspot/images/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "input_score": 0.07713338989972036
+  },
+  {
+    "task": "share the shortcut",
+    "image_path": "/data3/screenspot/images/pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "input_score": 0.07714254606001081
+  },
+  {
+    "task": "open paper named flamingo",
+    "image_path": "/data3/screenspot/images/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "input_score": 0.05617663550565047
+  },
+  {
+    "task": "saerch in files",
+    "image_path": "/data3/screenspot/images/pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "input_score": 0.056110764088177306
+  },
+  {
+    "task": "enlarge the font",
+    "image_path": "/data3/screenspot/images/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "input_score": 0.06317901157306188
+  },
+  {
+    "task": "search in dictionary",
+    "image_path": "/data3/screenspot/images/pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "input_score": 0.0632000426997389
+  },
+  {
+    "task": "close",
+    "image_path": "/data3/screenspot/images/pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+    "input_score": 0.0035056763701767787
+  },
+  {
+    "task": "minimize this window",
+    "image_path": "/data3/screenspot/images/pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+    "input_score": 0.003787371647108151
+  },
+  {
+    "task": "play the solitaire collection",
+    "image_path": "/data3/screenspot/images/pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+    "input_score": 0.07166564472774387
+  },
+  {
+    "task": "open the gallery",
+    "image_path": "/data3/screenspot/images/pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+    "input_score": 0.0036526585973768204
+  },
+  {
+    "task": "adjust the style",
+    "image_path": "/data3/screenspot/images/pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+    "input_score": 0.003768106611698481
+  },
+  {
+    "task": "minimize calculator",
+    "image_path": "/data3/screenspot/images/pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+    "input_score": 0.0035734658677908583
+  },
+  {
+    "task": "open the download page",
+    "image_path": "/data3/screenspot/images/pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+    "input_score": 0.0038356884772940978
+  },
+  {
+    "task": "help menu",
+    "image_path": "/data3/screenspot/images/pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+    "input_score": 0.0035890399402431277
+  },
+  {
+    "task": "save the file",
+    "image_path": "/data3/screenspot/images/pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+    "input_score": 0.003806363038185084
+  },
+  {
+    "task": "search for software ",
+    "image_path": "/data3/screenspot/images/pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+    "input_score": 0.0036853990258227222
+  },
+  {
+    "task": "add this page to favourites",
+    "image_path": "/data3/screenspot/images/pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+    "input_score": 0.0038197215223708596
+  },
+  {
+    "task": "choose language for windows",
+    "image_path": "/data3/screenspot/images/pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+    "input_score": 0.003908591311724698
+  },
+  {
+    "task": "input method toolbar",
+    "image_path": "/data3/screenspot/images/pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+    "input_score": 0.0036638687279159673
+  },
+  {
+    "task": "access the personal account interface",
+    "image_path": "/data3/screenspot/images/pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+    "input_score": 0.004035111912055583
+  },
+  {
+    "task": "network and internet settings",
+    "image_path": "/data3/screenspot/images/pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+    "input_score": 0.004035137187173947
+  },
+  {
+    "task": "open a new tab",
+    "image_path": "/data3/screenspot/images/pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+    "input_score": 0.0037911523410309273
+  },
+  {
+    "task": "file processing",
+    "image_path": "/data3/screenspot/images/pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+    "input_score": 0.0036532675299804675
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+    "input_score": 0.0036258266304803268
+  },
+  {
+    "task": "open the music library",
+    "image_path": "/data3/screenspot/images/pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+    "input_score": 0.003804132985104462
+  },
+  {
+    "task": "copy the file",
+    "image_path": "/data3/screenspot/images/pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+    "input_score": 0.0037950203190134438
+  },
+  {
+    "task": "date and time",
+    "image_path": "/data3/screenspot/images/pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+    "input_score": 0.003957531980115644
+  },
+  {
+    "task": "sleep mode",
+    "image_path": "/data3/screenspot/images/pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+    "input_score": 0.0035761655516784335
+  },
+  {
+    "task": "search for local files",
+    "image_path": "/data3/screenspot/images/pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+    "input_score": 0.0038772863648719935
+  },
+  {
+    "task": "personal account",
+    "image_path": "/data3/screenspot/images/pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+    "input_score": 0.0036023385205140946
+  },
+  {
+    "task": "settings and more",
+    "image_path": "/data3/screenspot/images/pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+    "input_score": 0.0038212463632717308
+  },
+  {
+    "task": "full-screen display",
+    "image_path": "/data3/screenspot/images/pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+    "input_score": 0.0036740640580932107
+  },
+  {
+    "task": "undo",
+    "image_path": "/data3/screenspot/images/pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+    "input_score": 0.003446759384652913
+  },
+  {
+    "task": "customize",
+    "image_path": "/data3/screenspot/images/pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+    "input_score": 0.003505144403065305
+  },
+  {
+    "task": "open local disk e",
+    "image_path": "/data3/screenspot/images/pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+    "input_score": 0.003735959257533803
+  },
+  {
+    "task": "add a new file",
+    "image_path": "/data3/screenspot/images/pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+    "input_score": 0.003903440834574645
+  },
+  {
+    "task": "open player settings",
+    "image_path": "/data3/screenspot/images/pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+    "input_score": 0.003703195249661563
+  },
+  {
+    "task": "set up onedrive",
+    "image_path": "/data3/screenspot/images/pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+    "input_score": 0.0038782734994589753
+  },
+  {
+    "task": "fill in red",
+    "image_path": "/data3/screenspot/images/pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+    "input_score": 0.003667664074603517
+  },
+  {
+    "task": "open map",
+    "image_path": "/data3/screenspot/images/pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+    "input_score": 0.003588848838661636
+  },
+  {
+    "task": "maximize window",
+    "image_path": "/data3/screenspot/images/pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+    "input_score": 0.003567879828436433
+  },
+  {
+    "task": "open account protection",
+    "image_path": "/data3/screenspot/images/pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+    "input_score": 0.0037130658710175777
+  },
+  {
+    "task": "add equation ",
+    "image_path": "/data3/screenspot/images/pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+    "input_score": 0.003643254013754557
+  },
+  {
+    "task": "minimize the window",
+    "image_path": "/data3/screenspot/images/pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+    "input_score": 0.0037253536377817994
+  },
+  {
+    "task": "view the devices",
+    "image_path": "/data3/screenspot/images/pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+    "input_score": 0.003764216571969818
+  },
+  {
+    "task": "set the screen timeout.",
+    "image_path": "/data3/screenspot/images/pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+    "input_score": 0.003888090591341919
+  },
+  {
+    "task": "start playback",
+    "image_path": "/data3/screenspot/images/pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+    "input_score": 0.0034941497673904175
+  },
+  {
+    "task": "screenshot option",
+    "image_path": "/data3/screenspot/images/pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+    "input_score": 0.003581217624356851
+  },
+  {
+    "task": "add the subtitle",
+    "image_path": "/data3/screenspot/images/pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+    "input_score": 0.07179069031829519
+  },
+  {
+    "task": "light rotation",
+    "image_path": "/data3/screenspot/images/pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+    "input_score": 0.003632605946368395
+  },
+  {
+    "task": "choose colour 2",
+    "image_path": "/data3/screenspot/images/pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+    "input_score": 0.0038302101729898474
+  },
+  {
+    "task": "add the title",
+    "image_path": "/data3/screenspot/images/pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+    "input_score": 0.07171131545653082
+  },
+  {
+    "task": "refresh the page",
+    "image_path": "/data3/screenspot/images/pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+    "input_score": 0.003696432517638452
+  },
+  {
+    "task": "previous track",
+    "image_path": "/data3/screenspot/images/pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+    "input_score": 0.0036478116035067584
+  },
+  {
+    "task": "pin to taskbar",
+    "image_path": "/data3/screenspot/images/pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+    "input_score": 0.0036901646502922342
+  },
+  {
+    "task": "enter the wegameapps folder",
+    "image_path": "/data3/screenspot/images/pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+    "input_score": 0.003834478137212773
+  },
+  {
+    "task": "check hourly weather",
+    "image_path": "/data3/screenspot/images/pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+    "input_score": 0.003656968314068018
+  },
+  {
+    "task": "open the menu of windows",
+    "image_path": "/data3/screenspot/images/pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+    "input_score": 0.003913161370154309
+  },
+  {
+    "task": "recycle bin",
+    "image_path": "/data3/screenspot/images/pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+    "input_score": 0.0034975041588876333
+  },
+  {
+    "task": "open settings",
+    "image_path": "/data3/screenspot/images/pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+    "input_score": 0.0036258266304803268
+  },
+  {
+    "task": "check weather  on tuesday",
+    "image_path": "/data3/screenspot/images/pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+    "input_score": 0.003976570155121739
+  },
+  {
+    "task": "open the playlist",
+    "image_path": "/data3/screenspot/images/pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+    "input_score": 0.0036770056565352555
+  },
+  {
+    "task": "search bar",
+    "image_path": "/data3/screenspot/images/pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+    "input_score": 0.0035540444818456434
+  },
+  {
+    "task": "back to previous folder",
+    "image_path": "/data3/screenspot/images/pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+    "input_score": 0.0037541900796613185
+  },
+  {
+    "task": "open windows store",
+    "image_path": "/data3/screenspot/images/pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+    "input_score": 0.0036440691032332555
+  },
+  {
+    "task": "turn on the mixed reality",
+    "image_path": "/data3/screenspot/images/pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+    "input_score": 0.0040205732067695
+  },
+  {
+    "task": "delete the downloaded file",
+    "image_path": "/data3/screenspot/images/pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+    "input_score": 0.0038245488341636202
+  },
+  {
+    "task": "open the menu",
+    "image_path": "/data3/screenspot/images/pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+    "input_score": 0.003706654780424856
+  },
+  {
+    "task": "switch to english",
+    "image_path": "/data3/screenspot/images/pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+    "input_score": 0.003614303193807881
+  },
+  {
+    "task": "open the file",
+    "image_path": "/data3/screenspot/images/pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+    "input_score": 0.0037378115506373614
+  },
+  {
+    "task": "search for settings",
+    "image_path": "/data3/screenspot/images/pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+    "input_score": 0.00379558572042532
+  },
+  {
+    "task": "gradient option",
+    "image_path": "/data3/screenspot/images/pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+    "input_score": 0.003590302055727342
+  },
+  {
+    "task": "show in folder",
+    "image_path": "/data3/screenspot/images/pc_21d4f79d-2603-4f10-a535-9401ee47cb94.png",
+    "input_score": 0.0037250908950803856
+  },
+  {
+    "task": "share the file",
+    "image_path": "/data3/screenspot/images/pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+    "input_score": 0.0037373127546426253
+  },
+  {
+    "task": "chech visibility",
+    "image_path": "/data3/screenspot/images/pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+    "input_score": 0.003672117236010839
+  },
+  {
+    "task": "refresh the page",
+    "image_path": "/data3/screenspot/images/pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+    "input_score": 0.003696432517638452
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+    "input_score": 0.0036651864050027422
+  },
+  {
+    "task": "minimize the window.",
+    "image_path": "/data3/screenspot/images/pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+    "input_score": 0.0038147445546232203
+  },
+  {
+    "task": "number 5",
+    "image_path": "/data3/screenspot/images/pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+    "input_score": 0.0037572129962834392
+  },
+  {
+    "task": "sound settings.",
+    "image_path": "/data3/screenspot/images/pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+    "input_score": 0.0036797143000803986
+  },
+  {
+    "task": "get help",
+    "image_path": "/data3/screenspot/images/pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+    "input_score": 0.0036179088359098014
+  },
+  {
+    "task": "send current page",
+    "image_path": "/data3/screenspot/images/pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+    "input_score": 0.003732345227322318
+  },
+  {
+    "task": "shape option",
+    "image_path": "/data3/screenspot/images/pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+    "input_score": 0.003689061940398386
+  },
+  {
+    "task": "back to previous folder",
+    "image_path": "/data3/screenspot/images/pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+    "input_score": 0.0037541900796613185
+  },
+  {
+    "task": "search for files on disk e:",
+    "image_path": "/data3/screenspot/images/pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+    "input_score": 0.004007240785480929
+  },
+  {
+    "task": "edit with paint 3d",
+    "image_path": "/data3/screenspot/images/pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+    "input_score": 0.004078458793443443
+  },
+  {
+    "task": "adjust the volume",
+    "image_path": "/data3/screenspot/images/pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+    "input_score": 0.003770854242975082
+  },
+  {
+    "task": "learn more",
+    "image_path": "/data3/screenspot/images/pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+    "input_score": 0.003564531213012263
+  },
+  {
+    "task": "open videos folder",
+    "image_path": "/data3/screenspot/images/pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+    "input_score": 0.0036306766174175917
+  },
+  {
+    "task": "check weather forecast",
+    "image_path": "/data3/screenspot/images/pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+    "input_score": 0.0036475972627579853
+  },
+  {
+    "task": "multiplicate",
+    "image_path": "/data3/screenspot/images/pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+    "input_score": 0.003524894898617101
+  },
+  {
+    "task": "see more information",
+    "image_path": "/data3/screenspot/images/pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+    "input_score": 0.0037164655226606816
+  },
+  {
+    "task": "adjust volume",
+    "image_path": "/data3/screenspot/images/pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+    "input_score": 0.0035709501431888694
+  },
+  {
+    "task": "restart the computer",
+    "image_path": "/data3/screenspot/images/pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+    "input_score": 0.0036654049266392143
+  },
+  {
+    "task": "adjust screen size",
+    "image_path": "/data3/screenspot/images/pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+    "input_score": 0.003683632707740388
+  },
+  {
+    "task": "go to the desktop",
+    "image_path": "/data3/screenspot/images/pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+    "input_score": 0.003836713347325955
+  },
+  {
+    "task": "choose the pig",
+    "image_path": "/data3/screenspot/images/pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+    "input_score": 0.003654183692774297
+  },
+  {
+    "task": "input a url",
+    "image_path": "/data3/screenspot/images/pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+    "input_score": 0.07174035228277406
+  },
+  {
+    "task": "go to the homepage",
+    "image_path": "/data3/screenspot/images/pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+    "input_score": 0.0037700057105423453
+  },
+  {
+    "task": "open the favourites",
+    "image_path": "/data3/screenspot/images/pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+    "input_score": 0.0036454294144058867
+  },
+  {
+    "task": "choose wechat",
+    "image_path": "/data3/screenspot/images/pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+    "input_score": 0.0036534504267223614
+  },
+  {
+    "task": "windows keyboard shortcuts",
+    "image_path": "/data3/screenspot/images/pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+    "input_score": 0.003568801126175355
+  },
+  {
+    "task": "file sorting method",
+    "image_path": "/data3/screenspot/images/pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+    "input_score": 0.003718356802271591
+  },
+  {
+    "task": "microsoft edge",
+    "image_path": "/data3/screenspot/images/pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+    "input_score": 0.0035187120634535595
+  },
+  {
+    "task": "open the file",
+    "image_path": "/data3/screenspot/images/pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+    "input_score": 0.0037378115506373614
+  },
+  {
+    "task": "search for files",
+    "image_path": "/data3/screenspot/images/pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+    "input_score": 0.0037533077418967597
+  },
+  {
+    "task": "set the second photo as wallpaper",
+    "image_path": "/data3/screenspot/images/pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+    "input_score": 0.004111789397503487
+  },
+  {
+    "task": "add a language",
+    "image_path": "/data3/screenspot/images/pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+    "input_score": 0.0038570203526917595
+  },
+  {
+    "task": "open files",
+    "image_path": "/data3/screenspot/images/pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+    "input_score": 0.003599672490727161
+  },
+  {
+    "task": "play the \"spider solitaire\"",
+    "image_path": "/data3/screenspot/images/pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+    "input_score": 0.0039441431816777785
+  },
+  {
+    "task": "paste option",
+    "image_path": "/data3/screenspot/images/pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+    "input_score": 0.0035564055584951645
+  },
+  {
+    "task": "back to the previous page",
+    "image_path": "/data3/screenspot/images/pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+    "input_score": 0.0039975828026771985
+  },
+  {
+    "task": "next track",
+    "image_path": "/data3/screenspot/images/pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+    "input_score": 0.0036044773062112244
+  },
+  {
+    "task": "review option",
+    "image_path": "/data3/screenspot/images/pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+    "input_score": 0.0036726176567957003
+  },
+  {
+    "task": "check for two unread messages",
+    "image_path": "/data3/screenspot/images/pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+    "input_score": 0.0037688900876080202
+  },
+  {
+    "task": "windows settings",
+    "image_path": "/data3/screenspot/images/pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+    "input_score": 0.003594391539773975
+  },
+  {
+    "task": "dismiss the account protection",
+    "image_path": "/data3/screenspot/images/pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+    "input_score": 0.003829011256548616
+  },
+  {
+    "task": "back to the previous page",
+    "image_path": "/data3/screenspot/images/pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+    "input_score": 0.0039975828026771985
+  },
+  {
+    "task": "personal account options",
+    "image_path": "/data3/screenspot/images/pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+    "input_score": 0.0037349548223342558
+  },
+  {
+    "task": "design option",
+    "image_path": "/data3/screenspot/images/pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+    "input_score": 0.0036503441935508765
+  },
+  {
+    "task": "open paint 3d",
+    "image_path": "/data3/screenspot/images/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "input_score": 0.01660763834289763
+  },
+  {
+    "task": "open microsoft edge",
+    "image_path": "/data3/screenspot/images/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "input_score": 0.016184576098539804
+  },
+  {
+    "task": "turn off the computer",
+    "image_path": "/data3/screenspot/images/pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "input_score": 0.016592477174793098
+  },
+  {
+    "task": "switch to home",
+    "image_path": "/data3/screenspot/images/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "input_score": 0.04365715068623364
+  },
+  {
+    "task": "back to",
+    "image_path": "/data3/screenspot/images/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "input_score": 0.043712944446250186
+  },
+  {
+    "task": "open fax",
+    "image_path": "/data3/screenspot/images/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "input_score": 0.04379606433635403
+  },
+  {
+    "task": "need some help",
+    "image_path": "/data3/screenspot/images/pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "input_score": 0.04366078770628849
+  },
+  {
+    "task": "check email and account",
+    "image_path": "/data3/screenspot/images/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "input_score": 0.004173932649270142
+  },
+  {
+    "task": "switch to documents",
+    "image_path": "/data3/screenspot/images/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "input_score": 0.003948264003874033
+  },
+  {
+    "task": "view the game for me",
+    "image_path": "/data3/screenspot/images/pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "input_score": 0.004198453816542979
+  },
+  {
+    "task": "use pencil tool",
+    "image_path": "/data3/screenspot/images/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "input_score": 0.002238934698041391
+  },
+  {
+    "task": "choose shape",
+    "image_path": "/data3/screenspot/images/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "input_score": 0.002180352184787919
+  },
+  {
+    "task": "select size",
+    "image_path": "/data3/screenspot/images/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "input_score": 0.0020740665504256836
+  },
+  {
+    "task": "use the select tool",
+    "image_path": "/data3/screenspot/images/pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "input_score": 0.0018756419295736704
+  },
+  {
+    "task": "view the setting of protection of pc",
+    "image_path": "/data3/screenspot/images/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "input_score": 0.07145245850672759
+  },
+  {
+    "task": "get organized",
+    "image_path": "/data3/screenspot/images/pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "input_score": 0.07183937932556812
+  },
+  {
+    "task": "log in use google",
+    "image_path": "/data3/screenspot/images/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "input_score": 0.055016282573084475
+  },
+  {
+    "task": "advanced setup",
+    "image_path": "/data3/screenspot/images/pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "input_score": 0.05493516410007806
+  },
+  {
+    "task": "check the detail of uv index",
+    "image_path": "/data3/screenspot/images/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "input_score": 0.043337256280146466
+  },
+  {
+    "task": "see full forecast",
+    "image_path": "/data3/screenspot/images/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "input_score": 0.04373731647316294
+  },
+  {
+    "task": "the internet icon",
+    "image_path": "/data3/screenspot/images/pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "input_score": 0.043663135422359195
+  },
+  {
+    "task": "go to menu",
+    "image_path": "/data3/screenspot/images/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "input_score": 0.043658303804552774
+  },
+  {
+    "task": "play the splider game",
+    "image_path": "/data3/screenspot/images/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "input_score": 0.043477252866870666
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "input_score": 0.04364318620642916
+  },
+  {
+    "task": "choose standard mode",
+    "image_path": "/data3/screenspot/images/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "input_score": 0.04799519984492041
+  },
+  {
+    "task": "adjust the volume",
+    "image_path": "/data3/screenspot/images/pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "input_score": 0.048214390998991025
+  },
+  {
+    "task": "add a new one",
+    "image_path": "/data3/screenspot/images/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "input_score": 0.09174050237106189
+  },
+  {
+    "task": "insert an image",
+    "image_path": "/data3/screenspot/images/pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "input_score": 0.09161801673233849
+  },
+  {
+    "task": "timer",
+    "image_path": "/data3/screenspot/images/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "input_score": 0.012112387951435745
+  },
+  {
+    "task": "get start",
+    "image_path": "/data3/screenspot/images/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "input_score": 0.011934009042023
+  },
+  {
+    "task": "view world clock",
+    "image_path": "/data3/screenspot/images/pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "input_score": 0.011824375944209672
+  },
+  {
+    "task": "3d shapes item",
+    "image_path": "/data3/screenspot/images/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "input_score": 0.043486048945687854
+  },
+  {
+    "task": "undo",
+    "image_path": "/data3/screenspot/images/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "input_score": 0.04383431980985695
+  },
+  {
+    "task": "select all",
+    "image_path": "/data3/screenspot/images/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "input_score": 0.043737100398449545
+  },
+  {
+    "task": "rotate left",
+    "image_path": "/data3/screenspot/images/pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "input_score": 0.04380184534701258
+  },
+  {
+    "task": "check the updates",
+    "image_path": "/data3/screenspot/images/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "input_score": 0.04353623982057227
+  },
+  {
+    "task": "view in youtube",
+    "image_path": "/data3/screenspot/images/pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "input_score": 0.0436373698559525
+  },
+  {
+    "task": "empty recycle bin",
+    "image_path": "/data3/screenspot/images/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "input_score": 0.01128764444459945
+  },
+  {
+    "task": "restore all items",
+    "image_path": "/data3/screenspot/images/pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "input_score": 0.011630876585826316
+  },
+  {
+    "task": "check microphone",
+    "image_path": "/data3/screenspot/images/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "input_score": 0.04380373021598107
+  },
+  {
+    "task": "give feedback",
+    "image_path": "/data3/screenspot/images/pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "input_score": 0.043713652337385
+  },
+  {
+    "task": "check the properties",
+    "image_path": "/data3/screenspot/images/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "input_score": 0.04349898513899803
+  },
+  {
+    "task": "change adapter options",
+    "image_path": "/data3/screenspot/images/pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "input_score": 0.04370323830825352
+  },
+  {
+    "task": "report a problem",
+    "image_path": "/data3/screenspot/images/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "input_score": 0.04356687866840227
+  },
+  {
+    "task": "sign in",
+    "image_path": "/data3/screenspot/images/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "input_score": 0.04364318620642916
+  },
+  {
+    "task": "switch to feedback",
+    "image_path": "/data3/screenspot/images/pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "input_score": 0.04365107216583781
+  },
+  {
+    "task": "check microphone",
+    "image_path": "/data3/screenspot/images/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "input_score": 0.06904944858764776
+  },
+  {
+    "task": "switch to sounds",
+    "image_path": "/data3/screenspot/images/pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "input_score": 0.06946463614626827
+  }
+]
