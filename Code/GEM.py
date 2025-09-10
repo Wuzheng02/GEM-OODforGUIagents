@@ -5,16 +5,16 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import os
 
 # ==== 文件路径 ====
-file_path = '/data3/wuzh/OOD/AITZ_ID/train/AITZ_train_atlas_inputscore.json'
+file_path = '/data3/OOD/AITZ_ID/train/AITZ_train_inputscore.json'
 nag_paths = [
     #'/data3/wuzh/OOD/AITZ_ID/OOD_dataset/androidcontrol_inputscore.json',
     #'/data3/wuzh/OOD/AITZ_ID/OOD_dataset/Kairos_test_inputscore.json',
     #'/data3/wuzh/OOD/AITZ_ID/OOD_dataset/metagui_inputscore.json',
     #'/data3/wuzh/OOD/AITZ_ID/OOD_dataset/screenspot-mobile_inputscore.json',
     #'/data3/wuzh/OOD/AITZ_ID/OOD_dataset/omniact-desktop_inputscore.json',
-    '/data3/wuzh/OOD/platforms/desktop_atlas_inputscore.json',
+    '/data3/OOD/OOD_dataset/omniact-desktop_inputscore.json',
 ]
-pos_path = '/data3/wuzh/OOD/AITZ_ID/test/AITZ_atlas_inputscore.json'
+pos_path = '/data3/OOD/AITZ_ID/test/AITZ_test_inputscore.json'
 
 with open(file_path, 'r') as file:
     data = json.load(file)
