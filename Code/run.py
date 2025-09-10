@@ -39,18 +39,26 @@ input_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
 output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
 get_input_embedding_loop(input_path, output_path, agent)
 
+input_path = "/data3/OOD/AITZ_ID/test/AITZ_test.json"
+output_path = "/data3/OOD/AITZ_ID/test/AITZ_test_input.json"
+get_input_embedding_loop(input_path, output_path, agent)
+
+input_path = "/data3/OOD/OOD_dataset/omniact-desktop.json"
+output_path = "/data3/OOD/OOD_dataset/omniact-desktop_input.json"
+get_input_embedding_loop(input_path, output_path, agent)
+
 input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
-test_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
+test_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
 output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_inputscore.json"
 get_input_score(input_path, test_path, output_path)
 
 input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
-test_path = "/data3/OOD/AITZ_ID/test/AITZ_test.json"
+test_path = "/data3/OOD/AITZ_ID/test/AITZ_test_input.json"
 output_path = "/data3/OOD/AITZ_ID/test/AITZ_test_inputscore.json"
 get_input_score(input_path, test_path, output_path)
 
 input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
-test_path = "/data3/OOD/OOD_dataset/omniact-desktop.json"
+test_path = "/data3/OOD/OOD_dataset/omniact-desktop_input.json"
 output_path = "/data3/OOD/OOD_dataset/omniact-desktop_inputscore.json"
 get_input_score(input_path, test_path, output_path)
 
