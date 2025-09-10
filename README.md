@@ -1,5 +1,6 @@
 # GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents
 Research code for the paper "GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents".
+
 Paper link: [https://arxiv.org/abs/2505.12842](https://arxiv.org/abs/2505.12842)
 
 ## 🚀 Quick Start
