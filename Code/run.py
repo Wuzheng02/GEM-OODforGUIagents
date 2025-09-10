@@ -45,6 +45,13 @@ output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_inputscore.json"
 get_input_score(input_path, test_path, output_path)
 
 input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
-test_path = "/data3/OOD/AITZ_ID/train/AITZ_test.json"
-output_path = "/data3/OOD/AITZ_ID/train/AITZ_test_inputscore.json"
+test_path = "/data3/OOD/AITZ_ID/test/AITZ_test.json"
+output_path = "/data3/OOD/AITZ_ID/test/AITZ_test_inputscore.json"
 get_input_score(input_path, test_path, output_path)
+
+input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
+test_path = "/data3/OOD/OOD_dataset/omniact-desktop.json"
+output_path = "/data3/OOD/OOD_dataset/omniact-desktop_inputscore.json"
+get_input_score(input_path, test_path, output_path)
+
+
