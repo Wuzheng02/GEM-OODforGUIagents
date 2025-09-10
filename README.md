@@ -4,18 +4,37 @@ Research code for the paper "GEM: Gaussian Embedding Modeling for Out-of-Distrib
 Paper link: [https://arxiv.org/abs/2505.12842](https://arxiv.org/abs/2505.12842)
 
 ## 🚀 Quick Start
-### 1. Environment Setup
-1. Clone the repository:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Wuzheng02/GEM-OODforGUIagents
+cd GEM-OODforGUIagents
+```
+
+### 2. Run Evaluation
+
+#### Example: AITZ (ID) vs. OmniAct-Desktop (OOD)
+
+To evaluate GEM on the AITZ train set (ID) and test using AITZ test (ID) and OmniAct-Desktop test (OOD):
+
+1. **Extract input scores** (for both ID and OOD datasets):
+
    ```bash
-   git clone https://github.com/Wuzheng02/GEM-OODforGUIagents
+   python run.py
    ```
-2. Navigate into the project directory:
+
+2. **Fit GMM and perform OOD detection**:
+
    ```bash
-   cd GEM-OODforGUIagents
+   python GEM.py
    ```
-### 2. Evaluation
+
+> 🔍 Note: Baseline methods (e.g., MSP, Energy, Mahalanobis) are also available in `run.py` (see commented sections).
+
 
 ## 📋 Citation
+
 ```bibtex
 @article{wu2025gem,
   title={GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents},
