@@ -42,7 +42,7 @@ agent = QwenAgent(device=device, accelerator=accelerator,
 #output_path = "/data3/OOD/long_prompt/OOD_dataset/omniact-web_entropy2.json"
 #get_confidence_loop(input_path, output_path, agent)
 
-#input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_autoui.json"
-#test_path = "/data3/OOD/AITZ_ID/train/AITZ_train_autoui.json"
-#output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_autoui_inputscore.json"
-#get_input_score(input_path, test_path, output_path)
+input_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
+test_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
+output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_inputscore.json"
+get_input_score(input_path, test_path, output_path)
