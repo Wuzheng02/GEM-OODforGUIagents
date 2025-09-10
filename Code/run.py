@@ -31,18 +31,20 @@ agent = QwenAgent(device=device, accelerator=accelerator,
 #test_output_path = "/data3/OOD/AITZ_ID/OOD_dataset/omniact-desktop_TVscore.json"
 #TV_score(fitting, test_path, test_output_path)
 
-
-#input_path = "/data3/OOD/long_prompt/OOD_dataset/omniact-web.json"
-#output_path = "/data3/OOD/long_prompt/OOD_dataset/omniact-web_input.json"
-#get_confidence_loop(input_path, output_path, agent)
-#get_input_embedding_loop(input_path, output_path, agent)
-
-
 #input_path = "/data3/OOD/long_prompt/OOD_dataset/omniact-web.json"
 #output_path = "/data3/OOD/long_prompt/OOD_dataset/omniact-web_entropy2.json"
 #get_confidence_loop(input_path, output_path, agent)
 
 input_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
+output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
+get_input_embedding_loop(input_path, output_path, agent)
+
+input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
 test_path = "/data3/OOD/AITZ_ID/train/AITZ_train.json"
 output_path = "/data3/OOD/AITZ_ID/train/AITZ_train_inputscore.json"
+get_input_score(input_path, test_path, output_path)
+
+input_path = "/data3/OOD/AITZ_ID/train/AITZ_train_input.json"
+test_path = "/data3/OOD/AITZ_ID/train/AITZ_test.json"
+output_path = "/data3/OOD/AITZ_ID/train/AITZ_test_inputscore.json"
 get_input_score(input_path, test_path, output_path)
