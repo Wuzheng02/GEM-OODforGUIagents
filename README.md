@@ -13,3 +13,14 @@ Paper link: [https://arxiv.org/abs/2505.12842](https://arxiv.org/abs/2505.12842)
    ```bash
    cd GEM-OODforGUIagents
    ```
+### 2. Evaluation
+
+## 📋 Citation
+```bibtex
+@article{wu2025gem,
+  title={GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents},
+  author={Wu, Zheng and Cheng, Pengzhou and Wu, Zongru and Dong, Lingzhong and Zhang, Zhuosheng},
+  journal={arXiv preprint arXiv:2505.12842},
+  year={2025}
+}
+```
